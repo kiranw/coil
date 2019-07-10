@@ -1,0 +1,110 @@
+title: COIL
+theme: uswds-jekyll
+
+url: https://seedfund.nsf.gov
+baseurl: ""
+permalink: pretty
+
+deadline: December 12
+past_deadline: June 2019
+solicitation_released: March 2019
+
+
+
+app_process: active
+# app_process: inactive
+
+styles:
+  - /assets/css/styles.css
+sass:
+  style: compressed
+
+scripts:
+  - src: /assets/uswds/js/uswds.min.js
+    async: true
+
+collections:
+  apply:
+    permalink: /how-to-apply/:path/
+    output: true
+  events:
+    output: false
+  timeline:
+    output: false
+  styleguide:
+    output: true
+    permalink: /styleguide/:path/
+
+defaults:
+  - scope:
+      path: "_apply"
+    values:
+      layout: secondary-narrow
+  - scope:
+      path: "_styleguide"
+    values:
+      layout: styleguide
+      include_subnav: true
+
+gems:
+  - jekyll-redirect-from
+  - jekyll-sitemap
+
+awards_api:
+  active_date_is_now: true
+  fundProgramName: phase i
+  reset: false
+  recent_date: 2016-01-01
+  printFields:
+    - id
+    - awardeeName
+    - date
+    - expDate
+    - fundsObligatedAmt
+    - fundProgramName
+    - poName
+    - title
+    - abstractText
+    - startDate
+    - endDate
+    - awardeeCity
+    - awardeeCountryCode
+    - awardeeStateCode
+    - awardeeZipCode
+    - awardeeAddress
+    - piFirstName
+    - piMiddeInitial
+    - piLastName
+    - piPhone
+    - piEmail
+
+
+topics_api:
+  max_companies_shown: 9
+  active_date_is_now: true
+  fundProgramName: phase i
+  reset: false
+  recent_date: 2016-01-01
+  allow_recent_all: true
+  printFields:
+    - id
+    - awardeeName
+    - date
+    - expDate
+    - fundsObligatedAmt
+    - fundProgramName
+    - poName
+    - title
+    - abstractText
+    - startDate
+    - endDate
+    - awardeeCity
+    - awardeeCountryCode
+    - awardeeStateCode
+    - awardeeZipCode
+    - awardeeAddress
+    - piFirstName
+    - piMiddeInitial
+    - piLastName
+    - piPhone
+    - piEmail
