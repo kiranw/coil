@@ -2,46 +2,28 @@
 title: About
 permalink: /about/
 layout: secondary
-section_image: "/assets/img/bg/robotic-arm.jpg"
+section_image: "/assets/img/bg/coil-post-its.jpg"
 section_image_caption: |
-  The first robotic printer used by [Branch Technology]({{ site.baseurl }}/portfolio/details/?company=branch-technology-llc), an NSF-funded company that has created a new way of 3D printing.
+  A participant lays out a few of her ideas onto a team ideation board, in the early phases of a Census Accelerate Create-a-thon, hosted in Washington D.C.
 ---
 <head>
 <script type="text/javascript"> setTimeout(function(){var a=document.createElement("script"); var b=document.getElementsByTagName("script")[0]; a.src=document.location.protocol+"//script.crazyegg.com/pages/scripts/0041/5508.js?"+Math.floor(new Date().getTime()/3600000); a.async=true;a.type="text/javascript";b.parentNode.insertBefore(a,b)}, 1); </script>
 </head>
 
-<section class="section-header background-light-blue">
-<div class="usa-section usa-content usa-grid">
-<div class="usa-width-one-whole" markdown="1">
-
-# About
-
-For 40 years, America’s Seed Fund powered by NSF has helped startups and small businesses transform their ideas into marketable products and services. We focus on high-risk, high-impact technologies — those that show promise but whose success hasn’t yet been validated — and each year, we award $200 million in funding to entrepreneurs across the country. Our goals are to foster innovation and help create businesses and jobs in the United States, and companies seed funded by our program have since [gone on to tremendous success]({{ '/portfolio/' | relative_url }}). We are a congressionally mandated program — Small Business Innovation Research (SBIR) and Small Business Technology Transfer (STTR).
-
+<section class="background-light-neutral" id="about">
+<div class="usa-section usa-content usa-grid" markdown="1">
+<div class="usa-width-one-third" markdown="1">
+## About
+</div>
+<div class="usa-width-two-thirds" markdown="1">
+Census Open Innovation Labs (COIL) is a nimble, startup-like team within the U.S. Census Bureau with a portfolio of projects that are setting a standard for open innovation across government.
+<br><br>
+COIL's open innovation strategies include ideation workshops, user-centered design, user experience research, technology development sprints, prize competitions, crowdsourcing, and creative partnerships. These initiatives solve major national problems by engaging a diverse ecosystem of stakeholders from the tech, media, and entertainment industries; federal, state and local government; nonprofit organizations, advocates, local communities, and more.
 </div>
 </div>
 </section>
 
-<section class="usa-section-tight-top background-light-blue">
 
-<div class="usa-content usa-grid">
-<div class="usa-width-one-whole" markdown="1">
-<p>When you join our innovators:</p>
-</div>
-</div>
-
-<div class="usa-section usa-section-tight-top usa-content usa-grid">
-<div class="usa-width-one-third" markdown="1">
-You will receive the funding you need as a startup or small business to commercialize technically risky ideas.
-</div>
-<div class="usa-width-one-third" markdown="1">
-You'll retain full control of your team, your technical vision and business strategy, and the resulting intellectual property. We take no equity in exchange for funding.
-</div>
-<div class="usa-width-one-third" markdown="1">
-You'll work with a program director, who will serve as your mentor and advocate. You'll also become part of the largest group of technology startups and small businesses in the country.
-</div>
-</div>
-</section>
 <section class="section-background-image">
   <div class="usa-grid">
     <div class="usa-width-one-third">
@@ -49,90 +31,66 @@ You'll work with a program director, who will serve as your mentor and advocate.
     </div>
   </div>
 </section>
-<section class="background-light-blue">
+
+<section class="background-light-neutral" id="mission">
 <div class="usa-section usa-content usa-grid" markdown="1">
 <div class="usa-width-one-third" markdown="1">
-## Funding for R&D with founder-friendly terms
+## Our Mission
 </div>
 
 <div class="usa-width-two-thirds" markdown="1">
-
-- **Up to $1.5M / 24+ months.** Receive up to $225,000 in seed capital to conduct product [Research and Development (R&D)]({{ site.baseurl }}/research-and-development/) over six to 12 months. During this period, your company will be immersed in the NSF network and you'll receive training and mentorship from seasoned entrepreneurs and innovators. After you complete your Phase I award, you're welcome to apply for a second-round investment of $750,000 over 24 months. During the course of that award, you can apply for supplements that may add up to another $500,000.
-
-- **Feedback from experts**: Every proposal is evaluated by a group of technical and commercial experts, who provide detailed feedback to all reviewed applications; even companies that don't receive awards get valuable, actionable feedback.
-
-- **NSF's stamp of approval**: An NSF award is more than just funding. Being selected out of thousands of applicants signals that your technology and expertise have strong technical and commercial merit.
-
-- **0% equity**: You retain full ownership over your company and intellectual property. And because our awards aren’t loans, there’s nothing to pay back.
-
-- **Major societal impact**: We don't have the same financial incentives as most investors, so we can make impact investments that may take longer to provide a financial return. Our goal is to invest in a better future for our shareholders: the American public.
-
-- **Minimal standard reporting**: We provide templates for reporting monthly progress and financials. No need to waste time crafting decks and building spreadsheets — we help you focus on building your product or service instead.
-
-- **Virtual mentorship from program advisors**: Our program directors, who have deep technical expertise and entrepreneurial experience, have been in your shoes — they can offer guidance and advice through the award process. And we promote startups in all locations, not just tech hubs. You don’t need to relocate to gain access to our funding or mentorship.
-
-- **Freedom to operate**: We're not interested in driving the direction of your company; in fact, our goal is to align your vision with our funding. You can use your funding on employees’ salaries and wages, fringe benefits, materials and supplies, and other R&D costs (though intellectual property, marketing and business development costs aren’t covered).
-
+COIL's mission is to source knowledge and solutions to solve key challenges for the Census Bureau and the public at large through user-centered design, data, creative media, and technology.
 </div>
 </div>
 </section>
-<section class="background-white">
+
+
+<section class="background-light-neutral" id="mission">
 <div class="usa-section usa-content usa-grid" markdown="1">
-## Program basics
-
-When you decide to apply for funding, you’ll submit a Phase I proposal for up to $225,000, which will cover at least six (and up to 12) months of work. You’ll find out whether your proposal was accepted or declined within four to six months of the proposal deadline.
-
-If you’re awarded Phase I funding, you’ll be expected to:
-
-- Explore product-market fit
-- Determine your technology’s feasibility
-- Design and test prototypes
-- Identify any relevant legal or regulatory issues
-- Develop a plan to scale and market your technology
-
-Applicants often ask whether they can update their research plan during the course of a project, and the answer is yes — with a few stipulations. While it’s OK for you to update your business model or R&D strategy a bit (this is bound to happen), you can’t entirely shift the focus of your work unless you have evidence demonstrating why it makes sense.
-
-If your technology needs more development — and if you’ve met all the Phase I requirements — you can apply for more funding. Phase II awardees receive up to $750,000 over two years.
-
-To help current Phase II awardees speed the commercialization of their technology, NSF may match 50 cents on every $1 of qualifying revenues or third-party investment (minimum match $50,000 and maximum $500,000) through a Phase IIB supplement. [Learn more about Supplemental funding]({{ site.baseurl}}/resources/awardees/supplement/overview/) and visit our awardee resource guide to [apply for Phase IIB supplemental funding]({{ site.baseurl}}/resources/awardees/phase-2/apply/).
-
-{% if site.app_process == "active" %}
-For complete program information, check out the latest [{{ site.data.solicitations['SBIR'].title }}]({{ site.data.solicitations['SBIR'].url }}) or [{{ site.data.solicitations['STTR'].title }}]({{ site.data.solicitations['STTR'].url }}).
-{% else %}
-For more program information, check out our last solicitation. Our next solicitation will be posted in {{ site.solicitation_released }}.
-{% endif %}
+<div class="usa-width-one-third" markdown="1">
+## Innovation at the Census
+</div>
+<div class="usa-width-two-thirds" markdown="1">
+More detail on approach: What we do / COIL approach / how we’re doing things differently (I'll use brandstorm Trello to fill some of this in.)
+</div>
+</div>
+<div class="usa-section usa-content usa-grid" markdown="1">
+<div class="usa-width-one-third" markdown="1">
+## COIL Projects
+</div>
+<div class="usa-width-two-thirds" markdown="1">
+* <strong>The Opportunity Project</strong><br>The Opportunity Project (TOP) is a technology accelerator program that brings together the tech industry, government, and communities, to generate digital products that benefit the public and drive the economy by using federal open data. TOP works through 12-week tech development sprints, facilitated by COIL, to drive new digital solutions that leverage federal, state and local open data to directly serve families, local leaders, and businesses and communities at large. To date, 80 products have been created through TOP, addressing problems like the opioid crisis, disaster response, veterans' employment, and more.
+* <strong>Census Accelerate</strong><br>Census Accelerate is an initiative that matches creative talent with organizations serving hard-to-count communities in order to increase 2020 Census response rates. Like The Opportunity Project, Census Accelerate works in user-centered sprints and workshops in which participating companies, organizations, creative professionals, and influencers develop outreach materials for specific hard-to-count populations, such as families with children under the age of 5, mobile millennials, and LGBTQ populations.
+* <strong>Big Tech, Media and Entertainment stewardship and relationships for 2020; UCM </strong><br>
+* <strong>User-Centered Design Training </strong><br>Census Accelerate is an initiative that matches creative talent with organizations serving hard-to-count communities in order to increase 2020 Census response rates. Like The Opportunity Project, Census Accelerate works in user-centered sprints and workshops in which participating companies, organizations, creative professionals, and influencers develop outreach materials for specific hard-to-count populations, such as families with children under the age of 5, mobile millennials, and LGBTQ populations.
+* <strong>Civic Digital Fellows Program (CDF)</strong><br>COIL manages the Census Bureau's participation in The Civic Digital Fellows program (CDF), a first-of-its-kind technology, data science, and design internship program for innovative students and recent grads to solve pressing problems in federal agencies. Student-led nonprofit Coding It Forward places fellows across government to empower computer science, data science, and design students to create social good by breaking down the barriers to entry in social impact spaces.
+* <strong>Big Tech Engagements</strong><br>COIL leverages its unique technology industry experience to engage with some of the world's largest platforms on 2020 Census-related issues and data dissemination.
+* <strong>User Engagement Research and Workshops</strong><br>COIL's team includes experts in user experience design and engagement. We engage data consumers, and members of the public around responding to our Censuses and surveys through in-person user engagement workshops, ideation activities, and direct user research.
+</div>
 </div>
 </section>
 
-<section class="background-light-neutral">
+
+
+<section class="usa-section background-light-neutral" id="meet-us">
+<div class="usa-content usa-grid">
+<div class="usa-content usa-width-one-whole" markdown="1">
+
+## Meet us
+
+{% include coil-team.html %}
+
+</div>
+</div>
+</section>
+
+<section class="background-light-neutral" id="media">
 <div class="usa-section usa-content usa-grid" >
 <div class="usa-width-one-half" markdown="1">
 
-### We support small companies and new entrepreneurs
+## Media
 
 We work with startups and small businesses, and we welcome proposals from newly formed companies — you don’t need a track record of commercialization to apply for funding. Please note that your company needs to be a legal entity before you apply.
 
 If your company is majority owned by venture capital operating companies, hedge funds, or private-equity firms, you’re not eligible to apply for funding, although joint ventures and partnerships are eligible. Read more about proposal eligibility in our [Eligibility Guide](https://www.sbir.gov/faqs/eligibility-requirements).
 </div>
-
-<div class="usa-width-one-half" markdown="1">
-
-### We support R&D with lots of technical risk
-
-Our seed funding is for R&D that involves a good amount of technical risk. If you’re already sure that your product is technically feasible, this program isn’t a good fit for you.
-
-In selected cases, we support innovations to existing products and services, but these innovations must dramatically change the products’ commercial prospects. We don’t fund work that simply improves existing products. Check out our [portfolio]({{ '/portfolio/' | relative_url }}) to get a sense of our founders’ work.
-
-</div>
-</div>
-</section>
-<section class="background-light-blue">
-<div class="usa-section usa-content usa-grid" markdown="1">
-
-## About NSF
-
-America's Seed Fund is a program within the [National Science Foundation](https://www.nsf.gov/) and housed within the [Division of Industrial Innovation and Partnerships](https://www.nsf.gov/div/index.jsp?div=IIP) within the Directorate of Engineering. NSF is a federal agency that supports fundamental research and education across all fields of science and engineering, currently with an $8.1 billion budget.
-
-Through the merit review process, NSF funds the most innovative ideas in science and technology. Notable NSF-supported advances include Doppler radar, the Internet, web browsers, bar codes, magnetic resonance imaging, inkjet printers, computer-aided design systems, tissue engineering, and other technology-based innovations that spur economic activity and improve the quality of life for all Americans.
-</div>
-</section>

@@ -4,20 +4,12 @@ permalink: /contact/bios/
 layout: secondary-narrow
 ---
 
-# Bios
+# Get to know us
 
-## Program directors
-
-<section class="bios-content">
-
-  {% include pd-bio.html %}
-
-</section>
-
-## Executive staff
+### COIL Team
 
 <section class="bios-content">
 
-  {% include executives.html %}
+  {% include coil-team-bio.html %}
 
 </section>
