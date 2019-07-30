@@ -11,39 +11,57 @@
 #
 primary:
   - text: About
-    links:
-      - text: About Us
-        href: /about#about
-      - text: Meet Us
-        href: /about#meet-us
-      - text: Media
-        href: /about#media
+    href: /about/
   - text: The Opportunity Project
     links:
       - text: See the Projects 
-        href: /resources/applicants/
+        href: /top/projects/
       - text: Get Involved
         links: 
           - text: Join a Sprint
-            href: /resources/awardees/phase-1/
+            href: /top/join/
           - text: Run a Sprint
-            href: /resources/awardees/phase-1/
+            href: /top/run/
       - text: Resources
-        href: /resources/awardees/phase-2/
+        href: /top/resources/
   - text: Accelerate
     links:
       - text: See the Create-a-thons
-        href: /resources/applicants/
+        href: /accelerate/createathons/
       - text: Get Involved
         links: 
           - text: Run a Create-a-thon
-            href: /resources/awardees/phase-1/
+            href: /accelerate/run/
           - text: Creative Ambassador Program
-            href: /resources/awardees/phase-1/
+            href: /accelerate/creative-ambassadors/
       - text: Resources
-        href: /resources/awardees/phase-2/        
+        href: /accelerate/resources/
   - text: Contact Us
     href: /contact/
+
+top:
+  - text: See the Projects 
+    href: /top/projects/
+  - text: Join a Sprint
+    href: /top/join/
+  - text: Run a Sprint
+    href: /top/run/
+  - text: Resources
+    href: /top/resources/
+
+accelerate:
+  - text: See the Create-a-thons
+    href: /accelerate/createathons/
+  - text: Run a Create-a-thon
+    href: /accelerate/run/
+  - text: Creative Ambassador Program
+    href: /accelerate/creative-ambassadors/
+  - text: Resources
+    href: /accelerate/resources/
+
+
+
+# Below is from NSF, not COIL
 
 fastlane:
   - text: Fastlane Overview
