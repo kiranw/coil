@@ -232,3 +232,14 @@ button:visited,
       }
   }
 }
+
+
+.usa-button-yellow, .usa-button-yellow:visited {
+  border: 1px solid white !important;
+  color: white !important;
+}
+
+.usa-button-yellow:hover, .usa-button-yellow:focus  {
+  border: 1px solid $color-primary-alt !important;
+  color: $color-primary-alt !important;
+}

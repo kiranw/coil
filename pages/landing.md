@@ -43,7 +43,10 @@ COIL's open innovation strategies include ideation workshops, user-centered desi
 <span class="section-header">
 **Upcoming Events**
 </span><br>
-{% include accelerate-events.html %}
+{% include three-accelerate-event-cards.html %}
+<a class="usa-button usa-button-yellow button-arrow" href="{{ site.baseurl }}/accelerate/createathons/">
+See more
+</a>
 </div>
 </section>
 
@@ -92,7 +95,7 @@ Learn about our impact
 <h2 class="text-large">Census Accelerate</h2>
 We match creatives with community-based Census outreach efforts to generate innovative content that addresses challenges for the 2020 Census specific to hard-to-count communities.
 <br>
-<a class="usa-button usa-button-primary button-arrow" href="{{ site.baseurl }}/apply/">
+<a class="usa-button usa-button-white button-arrow" href="{{ site.baseurl }}/apply/">
 Learn more about our progam
 </a>
 

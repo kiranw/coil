@@ -40,6 +40,7 @@
     z-index: 100;
     width: 27rem;
     height: 45rem;
+    text-overflow: wrap;
   }
 }
 
@@ -63,17 +64,31 @@
 }
 
 .accelerate-event-name {
-  font-size: $font-size-xs;
+  font-size: $font-size-m;
+  font-weight: 800;
 }
 
 .accelerate-event-city {
-  font-size: $font-size-xs;
+  font-size: $font-size-m;
+  position: absolute;
+  bottom: 0px;
 }
 
 .accelerate-event-date {
   font-size: $font-size-xxl;
+  font-weight: 600;
 }
 
 .accelerate-event-details {
   font-size: $font-size-xs;
+}
+
+
+.accelerate-event {
+  margin-bottom: 3em;
+  display: block;
+
+  .accelerate-event-city {
+    position: inherit;
+  }
 }

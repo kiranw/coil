@@ -16,8 +16,7 @@
     }
 
     a {
-      // color: $color-base;
-      color: $color-primary-alt-medium;
+      color: $color-primary-alt-dark;
       font-family: $font-serif;
       font-size: $font-size-xxs;
       font-weight: 400;
@@ -28,10 +27,11 @@
       border-bottom: 1px dotted $color-primary-alt-medium;
 
       &:hover {
-        background-color: $color-white-transprent;
+        color: white;
+        background-color: $color-primary-alt-lightest;
       }
       &:visited {
-        background-color: $color-white-transprent;
+        background-color: $color-primary-alt-light;
         border-bottom: 1px solid $color-base;
       }
       &:active,
@@ -44,7 +44,7 @@
         padding-left: 2rem;
         color: $color-base;
         font-weight: 600;
-        // background-color: $color-white-transprent;
+        // background-color: $color-white-transparent;
 
         &::before {
           content: '\2192';

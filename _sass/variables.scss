@@ -2,19 +2,21 @@
 // Color USWDS Overrides
 $visited: #406098;
 $color-base: #212121;
-$color-focus: #02BFE7;  //
+$color-focus: #02BFE7;
 
-
-$color-primary: #1b5bf3; // formerly #0071BC;
-$color-primary-darkest: #0744d7; // formerly #112E51;
-$color-primary-darker: #094ce9; // formerly #205493;
-$color-visited: #414f71;  // new color
+/* blues */
+$color-primary: #1b5bf3;
+$color-primary-darkest: #0744d7;
+$color-primary-darker: #094ce9;
+$color-visited: #414f71;
 
 $color-gray-dark: #323A45;
 $color-gray-medium-warm: #696969;
 $color-gray-medium-cool: #4F5A65;
 $color-gray-light: #AEB0B5;
 
+
+/* reds/salmons */
 $color-primary-alt: #ed613e;
 $color-primary-alt-darkest: #bf3310;
 $color-primary-alt-dark: #d85230;
@@ -22,6 +24,8 @@ $color-primary-alt-medium: #ed613e;
 $color-primary-alt-light: #ee7257;
 $color-primary-alt-lightest: #f89f8b;
 
+
+/* yellows */
 $color-secondary: #f7c644;
 $color-secondary-darkest: #f7c644;
 $color-secondary-dark: #f7c644;
@@ -29,7 +33,7 @@ $color-secondary-light: #fdd66d;
 $color-secondary-lightest: #ffe5a0;
 
 $color-gray-lightest: #F7F7F7;
-$color-blue-light: #e1f4f9; // was formerly #E0F3F8;
+$color-blue-light: #e1f4f9;
 $color-neutral-light: #F5FBFC;
 $color-gray-cool-light: #f2f5f6;
 
@@ -38,6 +42,7 @@ $large-screen:  960px !default;
 $site-max-width: 960px !default;
 
 // Unique colors
+/* pinks */
 $color-tertiary: #f4b9cc;
 $color-tertiary-darkest: #dc1f5c;
 $color-tertiary-dark: #f45e8e;
