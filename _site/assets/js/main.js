@@ -41,50 +41,6 @@ This award reflects NSF's statutory mission and has been deemed worthy of suppor
 
 
 {
-"title": "3Derm Systems, Inc.",
-"slug": "3derm-systems-inc",
-"date": "01/31/2019",
-"awardee": "3Derm Systems, Inc.",
-"city": "Boston, MA",
-"piName": "Kelsey Gross",
-"amount": "$225,000",
-"abstractText": "The broader impact and commercial potential of this Small Business Technology Transfer
-(STTR) Phase I project is to empower providers with the unprecedented ability to treat patients
-with chronic inflammatory skin disease effectively and at a lower cost. Today, primary care
-physicians often refer patients with these conditions to dermatologists for the initial diagnosis
-and multiple follow-up appointments, especially when patients are prescribed high cost, high
-touch therapies like biologics or procedures, such as phototherapy. By introducing this
-automated severity scoring system, these providers will have the expertise of dermatologists at
-their fingertips, giving them the ability to assess disease severity and provide systemic
-treatments previously available only through specialists. It will also establish more objective
-assessments, evaluating patient progress to adjust dosage and treatments as necessary. For
-pharmaceutical companies, the ability to have non-specialists make these severity assessments
-during clinical trials reduces expensive and restrictive staffing requirements. Less expensive trials can
-help expedite new drugs to market. This innovation will enhance scientific and technological
-understanding by applying known machine learning techniques in a novel manner to solve a
-difficult visual problem.
-
-This Small Business Technology Transfer (STTR) Phase I project will prototype a clinical tool
-that can assess images of a chronic skin inflammation, determine its severity, and suggest
-treatment. This system will be able to guide users with minimal training through the image
-collection process, determine if the information is sufficient, and request additional information if
-required via novel machine learning techniques. Currently, clinicians trying to assess the
-severity of chronic inflammatory skin diseases rely on a series of estimations and manual
-weighted averages, a time consuming and biased process. This Phase I research will explore
-what information is necessary for an algorithm to determine the severity of a psoriasis case. It
-will determine if it is possible for a machine to guide an imager through imaging regions of
-interest at higher detail, rather than the entire body at large. It will also explore how quickly and
-practically such a calculation can be performed. The end goal of the project is a working
-prototype that can consistently score a few psoriasis cases and serve as a proof of concept for
-expansion of the prototype in future work.
-
-This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria."
-},
-
-
-
-
-{
 "title": "4 D Technology Corporation",
 "slug": "4-d-technology-corporation",
 "date": "02/17/2016",
@@ -208,24 +164,6 @@ This award reflects NSF's statutory mission and has been deemed worthy of suppor
 
 
 {
-"title": "ANAFLASH",
-"slug": "anaflash",
-"date": "01/30/2019",
-"awardee": "ANAFLASH",
-"city": "San Jose, CA",
-"piName": "Seung-Hwan Song",
-"amount": "$224,931",
-"abstractText": "The broader impact/commercial potential of this Small Business Innovation Research (SBIR) Phase I project is to accelerate the adoption of AI features in Internet of Things and mobile devices.  The proposed multi-bit non-volatile memory (NVM) based Deep Neural Networks (DNN) IP is based on the standard CMOS logic processes. Existing solution for the DNN hardware typically requires off-chip access to retrieve neural network parameters from external memories, incurring additional communication latency and power consumption. Additionally, when critical neural network parameters are transmitted off-chip, security or privacy concern may arise, which is unacceptable especially for the applications such as personalized AI devices. Alternative approach integrating the DNN engine in a special NVM process requires as much as 10 additional masks beyond the conventional logic CMOS process which is not cost-effective for medium density DNN engine in cost-sensitive edge devices. With this proposed IP, any existing or new system on chip requiring persistent AI functionality can be built quickly and cost effectively.
-
-This Small Business Innovation Research (SBIR) Phase I project seeks to develop a cost-effective non-volatile neural network accelerator IP for edge devices. To solve the security, latency, power consumption, and cost issues associated with the traditional approaches, a single-poly based low cost, non-volatile, multi-bit eFlash cell is proposed. Multi-bit cell operation however presents significant challenges due to inherent reduction in signal-to-noise ratio. Key technical hurdles include solving disturbances of unselected cells, improving sensing margin, and overcoming reliability issues associated with high voltage operation in readout circuits as well as developing robust neural network cell arrays. To address these challenges, several new ideas related to multi-bit cell, high-voltage circuits, and cell programming methods have been proposed. Once verified successfully in this project, the multi-bit cell IP can then be integrated as logic compatible non-volatile memory to store neural network parameters on-chip, or as logic compatible non-volatile neural network IP to execute entire neural network operation.
-
-This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria."
-},
-
-
-
-
-{
 "title": "APPLIED LIFESCIENCES & SYSTEMS POULTRY, INC.",
 "slug": "applied-lifesciences-systems-poultry-inc",
 "date": "02/06/2018",
@@ -331,25 +269,6 @@ This award reflects NSF's statutory mission and has been deemed worthy of suppor
 
 
 {
-"title": "Accelerate Wind LLC",
-"slug": "accelerate-wind-llc",
-"date": "01/30/2019",
-"awardee": "Accelerate Wind LLC",
-"city": "St. Louis, MO",
-"piName": "Erika Boeing",
-"amount": "$224,999",
-"abstractText": "The broader impact/commercial potential of this project is to enable broad market adoption of rooftop and other methods for local wind energy generation through reduction in costs. This is achieved through development of technology designed to lower the cost of wind turbine drive trains and associated power electronics, high cost items which are often left without innovation in new wind turbine designs. Prohibitively high costs are currently the biggest barrier to widespread adoption of distributed wind turbines, and power electronics can be as much as 50% of these costs. Significant cost reduction has the potential to increase worldwide distributed wind power adoption. The innovative power train technology developed in this project is specifically designed to couple with a proprietary technology for wind capture at rooftop edges. When combined with this technology, costs estimates are competitive with rooftop solar energy, enabling wind energy to become a common addition to rooftop solar installations. Successful deployment of this technology will contribute to society by decreasing the carbon footprint of energy production, increasing energy resiliency, and creating new jobs associated with manufacturing and deployment. Significant manufacturing efforts are likely to remain in the US, creating local job opportunities and economic growth. 
-
-
-This Small Business Technology Transfer (STTR) Phase I project proposes to use a novel drive train architecture to reduce small wind turbine power train costs. In this architecture, costs are lowered by temporarily storing the energy coming out of the wind turbine rotor in a flywheel before passing it on to the generator. This allows for the power train to include a generator and inverter that are sized for average rather than peak power outputs, enables removal of diversion load, and allows for the use of a faster spinning, and therefore lower cost generator. The Phase I project seeks to prove the feasibility of developing a low-cost flywheel which meets the needs of the overall drive train (including efficiency and reliability), a powertrain control system which maintains high efficiency, and a powertrain system configuration which maintains the reduced cost projections required for market traction. Research efforts include development of a bench-scale drive train to test the controls of the flywheel, powertrain simulation to test alternative generator and converter topologies, and benchmarking of generator candidates to determine efficiency and power density.
-
-This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria."
-},
-
-
-
-
-{
 "title": "Accelevir Diagnostics, LLC",
 "slug": "accelevir-diagnostics-llc",
 "date": "09/18/2017",
@@ -377,24 +296,6 @@ The proposed project seeks to develop and optimize a sensitive, accurate, and sc
 
 
 This project will develop an innovative, market-disruptive technology for measuring toxic metals in water. This technology is inexpensive, portable, and does not require any power or external reading equipment. Furthermore, it can be adapted to a wide range of toxic compounds after initial commercialization around metals analysis. The system costs an order of magnitude less than the current "point of need" technologies capable of quantitative determination of toxic metals in water, and two orders of magnitude less than the traditional laboratory tests. Access Sensor Technologies is a new startup, but the core team has a strong track record in the field of microfluidic paper-based analytical devices for environmental analysis where the proposed system represents a major innovation in the field. The proposal has four technical objectives: (1) Expand the palette of applicable chemistry to include additional metals: cadmium, lead, manganese, and both chromium 3+ and 6+; (2) Test the prototype system in a relevant laboratory environment or in a simulated operational environment; (3) Achieve a successful customer-driven demonstration of the system in the field; and (4) Identify key elements of manufacturability that define the roadmap to production of the system at market scale."
-},
-
-
-
-
-{
-"title": "ActivSignal, LLC",
-"slug": "activsignal-llc",
-"date": "01/31/2019",
-"awardee": "ActivSignal, LLC",
-"city": "Belmont, MA",
-"piName": "Ilya Alexandrov",
-"amount": "$225,000",
-"abstractText": "This STTR Phase I project will develop a transformative platform for inexpensive screening for pancreatic cancer detection, based on profiling of cancer-related proteins from a small blood draw.  Pancreatic cancer is one of the deadliest types of cancer, killing over 50,000 each year in the US, and with a five-year survival rate below 7%.  However, currently there are no reliable diagnostic tests for pancreatic cancer, and the great majority of cases are detected at a late stage, with bleak mortality rates as a result.  As cancer is driven fundamentally by a dysregulation of key protein networks, directly measuring the activity of key proteins provides a robust bio-signature for cancer detection. The project will develop a scientifically novel diagnostic technology based on broad protein profiling for the accurate and low cost detection of pancreatic cancer, and thereby shift the therapeutic field of battle to an earlier stage of the disease, where the current treatments can be more effectively harnessed to improve patient outcomes and save lives, avoid unnecessary and ineffective procedures, and generate health system cost savings across the US and elsewhere. Commercialization of this diagnostic platform is expected to drive creation of a substantial enterprise, and related employment and tax-revenues.
-
-The major innovation of this project is the breakthrough technology for monitoring the state of dozens of cancer-related proteins in biological samples and its application for diagnosing pancreatic cancer from a minute sample of a patient?s blood. The innovative platform has superior levels of sensitivity and accuracy compared to existing technologies, and also offers substantially lower costs, which are critical advantages for the diagnostic application. A further innovation in this project is the development of the analytic engine and the bio-signature knowledge base, that will be used for analysis of the patient?s protein profile.  In this project, the Company will focus on several key technical challenges to develop and validate a 1.0 version of its diagnostic platform for pancreatic cancer detection:  i. identifying a robust, differentiated multi-target, bio-signature for pancreatic cancer; and ii. doing so with an accuracy and at a sufficiently early stage in the cancer emergence and progression to be medically useful. This project will extensively profile biobank samples from various stages of pancreatic cancer and normal patients to generate the differentiated bio-signatures, develop a diagnosis prediction engine to match the bio-signatures and inform diagnoses, and validate those results using additional samples. This award reflects NSF's statutory mission and has been deemed worth of support through evaluations using the Foundation?s intellectual merit and broader impacts review criteria.
-
-This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria."
 },
 
 
@@ -752,24 +653,6 @@ The objectives of this Phase II research project are to develop a prototype wate
 "abstractText": "This SBIR Phase I project seeks to transform treatment regimens for individuals suffering from malaria infections. Malaria, particularly caused by Plasmodium vivax (P. vivax) and Plasmodium ovale (P. ovale) remain a potential cause of morbidity and mortality amongst the 2.85 billion people living at risk of infection. The only drug currently available for treatment therapy for P. vivax and P. ovale is primaquine, which can cause life-threatening anemia in individuals with glucose-6-phosphate dehydrogenase (G6PD) deficiency. Clinicians often do not prescribe primaquine due to the high prevalence (8%) of individuals who are born with G6PD deficiency. The World Health Organization (WHO) and the Program for Appropriate Technology in Health (PATH) are urgently searching for a reliable assay for the diagnosis of G6PD deficiency to effectively treat patients and aid in the eradication of P. vivax and P. ovale malaria. This novel assay proposed will quantify G6PD and hemoglobin (Hgb) concentration simultaneously from a finger stick sample. This system comprises a single test strip coupled with a reflectance-based meter and cell phone application with Blue Tooth connectivity to incorporate a patient?s I.D., test results, global tracking, and history of treatment. It is projected that this point-of-care assay will be used to screen >23 million people for G6PD within 5 years of launch and generate over $27.5 million in compounded revenue. In the long term, the novel assay will create a universal point-of-care platform that can be utilized for other diseases or conditions that affect patients in the Unites States for which point-of-care assays are not currently available.
 
 The proposed novel platform will quantify both Glucose-6-Phosphate Dehydrogenase (G6PD) and hemoglobin (Hgb) concentrations simultaneously from a single finger stick sample using a point-of-care (POC) reflectance-based meter. There is currently no such device on the market, which is urgently needed to screen patients being treated for P. vivax and P. ovale malaria. A significant portion (8%) of the world population is G6PD deficient, which places these individuals at risk for life-threatening anemia after treatment with current therapeutics such as primaquine against malaria. The POC assay utilizes a novel lysis and reagent layer membrane platform to enable a reflectance-based meter to measure non-over lapping wavelengths to quantify G6PD and Hgb concentrations. In this proposal, a functional prototype reflectance-based meter and data collection software will be constructed and compared to readings obtained using the current ?gold standard? Konica Minolta spectrophotometer. Secondly, the POC assay will be validated through performance testing using a G6PD-deficient whole blood specimen bank provided by the Program for Appropriate Technology in Health (PATH). Concordance of the data obtained from 20 samples for the proposed assay will be compared to the World Health Organization?s (WHO) approved spectrophotometric method for measuring G6PD and an FDA approved method for measuring Hgb. Success will be indicated by an R2 > 0.95, which demonstrates linear equivalency, as well as a demonstration that 90% of the data points fall within 2 sigma of each value. A POC assay that can simultaneously screen patients for both G6PD deficiency and Hgb levels will allow clinicians to treat patients with P. vivax and P. ovale malaria infections effectively and aid in the eradication of malaria."
-},
-
-
-
-
-{
-"title": "Andluca Technologies LLC",
-"slug": "andluca-technologies-llc",
-"date": "02/04/2019",
-"awardee": "Andluca Technologies LLC",
-"city": "Princeton, NJ",
-"piName": "Nicholas Davy",
-"amount": "$225,000",
-"abstractText": "The broader impact/commercial potential of this Small Business Technology Transfer (STTR) Phase I project is a transparent photovoltaic technology that converts near-ultraviolet (NUV) light into point-of-use power for dynamic 'smart' windows. Energy use in buildings represents roughly 40% of total U.S. energy demand. It is projected that over half the buildings that will be in use in 2050 are already built. Retrofitting existing buildings with smart windows that regulate/monitor sunlight transmission could reduce building energy consumption by 10 - 40% and represents a $64B total addressable market, but is presently prohibitively complex and labor intensive. Transparent, NUV solar cells will simplify smart glass/film adoption by obviating the need for external wiring, thereby catalyzing deployment of smart window technologies in existing buildings to increase energy efficiency and enhance occupant health and productivity. Similarly, IoT smart devices/sensors promise to make the built environment more efficient by giving users more control over appliances, information, and energy use. Transparent NUV solar cells can provide point-of-use power to in-window IoT devices/sensors without altering aesthetics. For the photovoltaic community, the operation physics and performance of the NUV photovoltaic technology developed through this program will be of broader interest, as NUV wavelengths are inefficiently harvested by conventional photovoltaics.
-
-The proposed project will explore a photovoltaic technology that selectively absorbs near-ultraviolet (NUV) light - energy that is otherwise wasted - and efficiently converts it into high-voltage power. Solar cells harvesting NUV photons could satisfy the unmet need of powering smart windows monolithically without competing for visible or near-infrared photons that the windows seek to regulate or imposing design constraints on window aesthetics. First-generation NUV solar cells exhibit power scalability with area, and single-junction photovoltages exceeding 1.6 V (record for thin-film PV). This Phase I project aims to (1) translate NUV solar technology from rigid glass to a flexible substrate, and (2) demonstrate use of low-cost transparent electrode alternatives. These breakthroughs will allow for facile integration of NUV solar cells with smart windows for self-powered operation and intelligent management of the solar spectrum, with NUV photons powering the regulation of visible and near-infrared photons for natural lighting and heating purposes, respectively. Additionally, the aesthetically-discreet nature of flexible, transparent NUV solar cells can enable remotely-powered internet-of-things (IoT) smart devices/sensors. Accordingly, funding for this Phase I project will produce a flexible, transparent NUV solar cell prototype for field-testing with smart window and IoT device technologies.
-
-This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria."
 },
 
 
@@ -1538,23 +1421,6 @@ This award reflects NSF's statutory mission and has been deemed worthy of suppor
 
 
 {
-"title": "Bidea",
-"slug": "bidea",
-"date": "12/29/2017",
-"awardee": "Bidea",
-"city": "San Juan, PR",
-"piName": "Ramonita Diaz-Ayala",
-"amount": "$225,000",
-"abstractText": "The broader impact/commercial potential of this Small Business Innovation Research (SBIR) Phase I project, if successful, will be the implementation of an effective point-of-care (POC) test that will not only impact the lives of patients, but can reduce the costs to hospitals, health insurances companies, and government agencies. According to the National Institutes of Health, cancer cost the U.S. an estimated $219 billion in 2007, including $130 billion for lost productivity and $89 billion in direct medical costs. The proposed screening technology is expected to help gynecologists in hospitals or in private practice to provide a complete diagnosis in less time, reducing the number of visits and the endometrial cancer incidence through an early detection, especially in women over 50 years old. This would benefit the medical insurance by lowering the cost per patient with this type of cancer. If successful, the proposed non-label/real-time cancer diagnostic device will contribute to new scientific findings and engineering aspects in bio-sensing technology. The resulting device will also provide a non-invasive, fast, and accurate method to detect cancer for preclinical diagnosis. In addition, the research based on this technology will improve a range of equivalent studies that use similar systems and biological indicators. 
-
-
-The proposed project is aimed to develop a POC technology for the sensitive detection of telomerase as a cancer measurable indicator in real-time. Telomerase is a distinctive enzyme whose presence in cells or tissues is used for screening, early cancer detection, prognosis and/or monitoring a residual cancer disease. The proposed technology is based on the detection of telomerase in cancer cells through the measuring of an in-situ elongation process of an immobilized label-free single strand DNA probe by means of sensitive electrochemical events occurring at the conductive gold microchip surface. For the development of this new sensing microchip device the team will use commercially available products. Silicon wafers have been used as substrate with gold as electrodes due to their reliability but these materials are expensive and the fabrication is labor intensive. Therefore, important diagnostic device parameters will be studied after incorporation of bare bio-sensing strips. Phase I of this project, is aimed at demonstrating the feasibility of the proposed technology as well as testing the reliability and robustness of the microchip biosensor using uterine cancer samples."
-},
-
-
-
-
-{
 "title": "Big Blue Technologies LLC",
 "slug": "big-blue-technologies-llc",
 "date": "09/19/2017",
@@ -1938,24 +1804,6 @@ This award reflects NSF's statutory mission and has been deemed worthy of suppor
 
 
 {
-"title": "CLEARSIGHT, LLC",
-"slug": "clearsight-llc",
-"date": "01/31/2019",
-"awardee": "CLEARSIGHT, LLC",
-"city": "Aurora, CO",
-"piName": "Kevin Harris",
-"amount": "$225,000",
-"abstractText": "This SBIR Phase I project aims to address two conditions that are very prevalent in the aging population, presbyopia and cataract, with a single intraocular lens. Presbyopia, the age dependent loss in the ability of the eye to adjust focus, is expected to affect 1.37 billion people worldwide by 2020. Cataract, the irreversible clouding of the lens that results in blurred vision, is expected to affect 30.1 million Americans by 2020. Despite these ever-increasing numbers, there currently is no single product available that restores both visual acuity and a complete range of spectacle-free vision following cataract refractive surgery. Such a solution would provide a greatly improved quality of life for patients and would inform future scientific developments in human accommodation and cataract formation. Alongside improved quality of life, vision correction has the added benefit of increased productivity in the workforce. The cataract surgical and intraocular lens exchange markets are significant, with 25.5 million IOL implants and $3.3 billion in sales in 2016 worldwide. With the growing and aging population, these numbers are expected to increase at a rapid rate. This device will fill a significant unmet need and has the potential of restoring a range of vision unlike any device currently in the market. 
-
-The proposed intraocular lens utilizes a highly sensitive refractive system leveraging large differences in refractive indices and has a mechanism of action unlike any currently in the market. It has the potential of levels of accommodation that are on par with accommodative abilities in a healthy, natural human lens. Forces in the eye are minimal, so this level of sensitivity is critical to any effective accommodating intraocular lens solution. Current devices and those in development do not exhibit the required level of sensitivity and subsequent accommodative amplitude to warrant significant adoption in the industry. Additionally, the proposed device shape mimics the natural lens, which allows for maximum utilization of the minute forces in the eye and prevents posterior capsular opacification. The first goal of this research will be the design and optimization of the lens utilizing a combination of mechanical and optical modeling. Lens prototypes will then be molded in a biocompatible, medical grade silicone. These prototypes will then be assessed for accommodative ability - first in an established opto-mechanical model eye experiment, then in an established human cadaver eye experiment. Finally, the prototypes will be assessed for injectability, to assure smooth integration with standard cataract surgical procedures.
-
-This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria."
-},
-
-
-
-
-{
 "title": "CLOUDSEAL INC",
 "slug": "cloudseal-inc",
 "date": "01/31/2019",
@@ -2037,22 +1885,6 @@ This award reflects NSF's statutory mission and has been deemed worthy of suppor
 The intellectual merit of this SBIR Phase I project is to resolve a critical impasse in genomic workflow where inconsistent or unreliable identification of DNA variant function prevents actionable discoveries. Using the customized suite of bioinformatic tools provided by this technology development, the customer will be able to interrogate the database for any gene or gene system of interest, determine the normal range of DNA changes tolerated by the gene within functional space, and screen their own data against this baseline to identify variants causative in altered biological function and phenotypic traits. The research objectives include: Compiling proprietary and novel DNA sequences from thousands of genes, establishing and confirming the precise arrangement of these gene sequences guided by shared common ancestry to create the database framework, establishing a plan for product software and content to guide the user through proper use of the database and interpret variant function, and developing strategies to ensure product security and cloud-computing service data visualization and display to protect the processing of user data when passed within the software.
 
 This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria."
-},
-
-
-
-
-{
-"title": "CREmedical Corporation",
-"slug": "cremedical-corporation",
-"date": "09/05/2014",
-"awardee": "CREmedical Corporation",
-"city": "East Greenwich, RI",
-"piName": "Walter Besio",
-"amount": "$1,208,717",
-"abstractText": "The broader impact/commercial potential of this Small Business Innovation Research (SBIR) Phase II project is multi-fold: First, the proposed tripolar concentric ring electrode and instrumentation for acquiring brain signals, tripolar electroencephalography (tEEG), is a platform technology that has a variety of medical and commercial applications. By providing significantly clearer brain signals, tEEG will resolve conventional EEG?s major drawback of poor signal quality that clinicians and researchers have been struggling with for decades. tEEG can advance diagnosis and fill unmet clinical and research needs such as detection of biomarkers to quantify various neurological disorders. Second, commercially, tEEG can transform the market landscape and set a new standard for EEG equipment. The fundamental improvement promised by tEEG and its non-invasive nature are particularly appealing. tEEG could greatly simplify and advance the diagnosis of a wide spectrum of neurological disorders (epilepsy, sleep disorders, stroke, Parkinson?s, Alzheimer?s, etc.) and more effectively guide neurosurgical and other medical procedures. Third, the fundamental improvement in spatial resolution and artifacts rejection in EEG signals will help advance the understanding of brain activity, leading to new discoveries in the research of various brain diseases and neurological disorders. 
-
-The proposed project aims to develop a portable tripolar concentric ring electrode (TCRE) electroencephalography (tEEG) recording system and perform a comprehensive clinical evaluation to demonstrate that tEEG can detect certain important brain EEG signals better than conventional EEG. EEG is the primary diagnostic tool for epilepsy, the most common serious brain disorder worldwide, but misdiagnosis occurs in up to 50% of the patients. Artifact contamination seriously hinders the effectiveness of EEG and is a root cause of misdiagnosis. tEEG automatically suppresses artifacts and increases the interpretability of EEG through two inventions: (1) a transformative electrode configuration - the TCRE; and (2) the proprietary tEEG Interface and digitizer. The TCRE, tEEG Interface, and digitizer together comprise a complete, Portable tEEG system with the data stored and displayed on a laptop. In this project, clinicians will evaluate tEEG against conventional EEG in areas such as usability, ability to suppress artifacts, and superiority in seizure detection. If successful, tEEG would generate intense interest in the field because of the significant clinical and research impact. We expect that comparing tEEG and EEG in a clinical setting will demonstrate the superiority of tEEG for diagnosing epilepsy."
 },
 
 
@@ -2181,21 +2013,6 @@ This I-Corps project is based on the premise that the rational addition of nutri
 This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria."
 },
 
-{
-"title": "CUNY City University of New York",
-"slug": "cuny-city-university-of-new-york",
-"date": "02/15/2019",
-"awardee": "CUNY City University of New York",
-"city": "New York, NY",
-"piName": "John Blaho",
-"amount": "$50,000",
-"abstractText": "The broader impact/commercial potential of this I-Corps project is primarily a solution to recent concerns of the effects of nanoparticles on overall health. Based on scientific claims that nanoparticles are detrimental to an individuals health, regulatory agencies, companies, and the general public have become more vigilant in finding non-nano alternatives to materials and products that they have been using. In addition to providing a non-nano alternative to existing metal oxides used in many personal care products, this project also allows for more environmentally friendly manufacturing processes and end products. Cost-effective synthetic methods will allow for these alternatives to be feasible replacements to formulators, toxicologists, and other people involved in the manufacturing decision-making process.
-
-This I-Corps project aims to focus on finding the best product market fit for the novel synthetic methodology of Zinc Oxide. This synthesis relies on milder temperatures with only water-based precursors that are utilized to yield surfactant-free, morphologically identical, and non-nano zinc oxide particles. The same methodology can be use to yield metal-doped zinc oxide constructs with enhanced properties depending on the metal used. The eclectic nature and environmentally friendly qualities of the reactants make this one-pot synthesis a perfect candidate for an ecologically conscious alternative to the state-of-the-art zinc oxide synthesis.
-
-This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria."
-},
-
 
 
 
@@ -2306,19 +2123,6 @@ This award is co-funded by the Improving Undergraduate STEM Education: Education
 This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria."
 },
 
-{
-"title": "California State L A University Auxiliary Services Inc.",
-"slug": "california-state-l-a-university-auxiliary-services-inc",
-"date": "07/20/2015",
-"awardee": "California State L A University Auxiliary Services Inc.",
-"city": "Los Angeles, CA",
-"piName": "Frank Gomez",
-"amount": "$116,427",
-"abstractText": "This collaborative project will facilitate a three-year international research experience for U.S. undergraduates majoring in STEM disciplines. Students from a diverse regional population will be recruited as summer cohorts to participate in research projects with researchers from the Brazilian Science-Technology Corridor (Sao Paulo - Campinas - Sao Carlos).  The interest in analytical applications combining microfluidics and nanomaterials has grown exponentially in the last years. Considering these advances and their importance for future developments, this IRES program aims to provide the tools for students to develop the skills required to face an internationally-competitive job market linked to chemical analysis. This proposal aims to boost education and training in a creative, multidisciplinary, and culturally-rich environment.  A focus on minority recruiting, combined with the involvement of graduate students as mentors, will provide the support mechanisms required to expand and strengthen the pool of participants as well as the research experience. 
- 
-Recent developments in nanotechnology and microfluidics have allowed the understanding and rational utilization of a series of micro total analysis systems (uTAS). The existing links between these two fields have enabled crossing the traditional borders and the development of unique training opportunities for students in science and engineering tracks. Furthermore, the interest in analytical applications combining microfluidics and nanomaterials has grown exponentially in the last years. Although this integration has enhanced sensing, separation, and extraction procedures, the applicability of specific nanomaterials for chemical analysis depends mainly on the chemical composition, structure, size, morphology, and preparation method. Considering these characteristics and their importance for future developments, this IRES program aims to provide students an enriching research experience and link chemical properties with a real-world analytical problem."
-},
-
 
 
 
@@ -2335,19 +2139,6 @@ Recent developments in nanotechnology and microfluidics have allowed the underst
 The CSU students will validate the ATLAS Monte Carlo simulations, improve ATLAS software packages, and work on searching for new physics from ATLAS data. On ATLAS detector upgrades, the students will work on the installation, operation, and data analysis of ATLAS pixel detector, and improving software packages in monitoring various inner detector components. On ATLAS Trigger and Data Acquisition (DAQ), the students will install and test Fast Tracker (FTK) boards, improve and optimize FTK variable resolution patterns, and conduct offline and online testing of FTK performance. The students will also attend the renowned CERN Summer Student Lecture Series given by top physicists from all over the world. Upon returning to the US, student participants will give colloquia, seminars, and invited talks at CSU campuses, high schools, and local communities about their ATLAS research work and the CERN summer experience. Through the CSU Fresno PHYS 168S (?Physics Outreach?) course, the ATLAS students in PHYS 168S will visit at least two new K-12 classrooms each week to teach kinds about the CSU ATLAS and IRES programs and encourage them to pursue science. These outreach efforts will reach very large number of schools, their students and students? families in the Fresno and Central Valley area.
 
 This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria."
-},
-
-{
-"title": "California State University-Fresno Foundation",
-"slug": "california-state-university-fresno-foundation",
-"date": "07/27/2015",
-"awardee": "California State University-Fresno Foundation",
-"city": "Fresno, CA",
-"piName": "Yongsheng Gao",
-"amount": "$249,863",
-"abstractText": "This project will provide international research experience for students from the California State University (CSU) system through collaborative research projects and educational experience on the ATLAS experiment of the Large Hadron Collider (LHC) at the European Organization for Nuclear Research (CERN) in Switzerland. This program will send 5 CSU students per year to work on ATLAS research projects for ATLAS Run-2 and ATLAS detector upgrades. The physics potential of incoming Run-2 will be 10 to 100 times greater than Run-1 during which the Higgs boson was discovered. The CSU students will improve the NLO Monte Carlo generators (NLOjet++, APPLGRID, etc.), perform jet cross-section related simulations and measurements with ATLAS data, extract the Parton Distribution Function (PDF), and understand systematic uncertainties in Top quark reconstruction. The measurements of spin and polarization properties of the Top quark are important tests of the Standard Model and are sensitive to new physics beyond the Standard Model. On ATLAS detector upgrades R&D, the CSU students will work on the installation and data analysis of small stand-along pixel detectors, and improving software packages in monitoring various inner detector components. On ATLAS Trigger and Data Acquisition (DAQ), the CSU students will develop associative memory variables for Fast Tracker (FTK), improve and optimize FTK variable resolution patterns, and conduct offline and online testing of FTK resolution patterns performance. The students will also attend the renowned CERN Summer Student Lecture Series given by top physicists from all over the world. 
-
-The Higgs discovery by ATLAS and CMS experiments of LHC in 2012 has captured the attention and imagination of the public and students throughout the world. This International Research Experiences for Students (IRES) project will support 15 students over three years working on the Large Hadron Collider at CERN.  This CSU international research project is focused on the largest university system in the country with 23 campuses and total population of approximately 430,000 students. Because CSU has very large minority and first-generation college student populations, student recruitment in this project will attract underrepresented students.  Upon returning to the US, student participants will give colloquia, seminars, and invited talks at CSU campuses, high schools, and local communities about their ATLAS research work and the CERN summer experience."
 },
 
 
@@ -2411,22 +2202,6 @@ The proposed project will validate the safety and efficacy of a glaucoma drainag
 "abstractText": "The broader impact/commercial potential of this project is the first time commercial development of a copper cable which can transmit and store energy. Currently, copper cables are used for transmitting electricity. Adding energy storage capability to these cables is transformative and has the potential to be employed in a myriad of electrical and electronic applications. Making these cables into spools of wires and custom sliced into a certain length to achieve a required capacitance will be very attractive to commercial applications. The proposed study enables to understand how energy transmission and storage can be simultaneously performed without mutual interference. These cables can find niche applications in the automotive, energy, defense, and IT industries. Moreover, when made into thin wires, it can be weaved into a matrix which can be used to charge wearable devices. For example, currently, a soldier carries about 30-40 pounds of battery for a three-day mission. However, if energy storage devices like the one proposed here can be made into an advanced textile form and can be worn as a uniform, the weight currently carried by the soldiers can be considerably reduced. A cable energy storage device developed can also be beneficial for storing energy for clean-energy technologies such as wind and solar.
 
 This Small Business Technology Transfer (STTR) Phase I project fills the gap of a cable-type capacitor which saves space and fits well with electrical and electronic devices. The objective of this proposal is to use nanotechnology-based fabrication techniques to grow nanowhiskers with a high surface area on a copper cable to make cable-type capacitors. These nanostructures considerably enhance the surface area necessary for the storage of electrical charges. Since nanostructures are developed only on the outside of the electrical cable to store energy, the inner part of the cable can still be used for electrical transmission. The focus of the proposed research is to develop the processes which can be used to make these nanostructured electrodes into a cable capacitor. The fabrication techniques for growing nanostructures will be so designed that making long lengths of the cables are feasible. The performance of the cable-based capacitors will be tested in terms of capacitance, cycle life, voltage output, etc. In addition, the flexibility of the cable will be tested at different bend-angles to evaluate its applications in flexible energy storage applications."
-},
-
-
-
-
-{
-"title": "Carbon Technology, Inc.",
-"slug": "carbon-technology-inc",
-"date": "08/15/2016",
-"awardee": "Carbon Technology, Inc.",
-"city": "San Clemente, CA",
-"piName": "Dawei Wang",
-"amount": "$920,698",
-"abstractText": "The broader impact/commercial potential of this Small Business Innovation Research (SBIR) Phase II project can be found across the semiconductor industry with its initial market in wireless communications.  Due to the extraordinary properties of carbon nanotubes (CNTs), applications include low noise amplifiers (LNAs), mixers, and RF power amplifiers (PAs). Looking forward, carbon nanotube transistors (CFETs) can reshape analog radio frequency electronics, enabling the higher data rates and improved capacity demanded by next generation wireless systems due to their intrinsic linearity and associated low out of band interference . CFETs are highly efficient, dissipating less unwanted power than current state of the art technologies while handling high power levels. This translates into more battery life for mobile devices with lower cooling costs. With more linear RF transistors, many billions of dollars of spending on additional base stations, larger batteries, and radio spectrum can be avoided, at great savings to consumers and industry. More speculatively, the creation of reliable grwoth techniques for CFETs and associated manufacturing processes may offer an excellent sensor platform or better ways to form on chip interconnects. The key problems being investigating of in situ growth of high performance nanotubes are applicable to the fabrication of CNT based devices for many electronic applications.
-
-This Small Business Innovation Research (SBIR) Phase II project will develop electronic devices for radio frequency applications using carbon nanotubes (CNTs).  CNTs are a one dimensional material with diameters in the nanometer range. CNTs have unique and highly desirable properties ranging from superior mobility to current carrying capability to thermal stability.  Calculations show CNT amplifiers will be inherently linear with noise suppressed to the lowest possible quantum limit. These properties allow for electronic devices that will perform better than existing technologies, such as silicon and gallium arsenide.  Just as importantly, the cost for making these devices will be dramatically lower due to the relatively simple method for material synthesis and device fabrication. This work will enable wafer scale arrays of high density in-situ tubes to be grown on silicon enabling the development of carbon electronic components a manner comparable to silicon devices. This work will enable cost effective wafer scale growth of devices which exploit the groundbreaking linearity that CNTs can deliver."
 },
 
 
@@ -2558,24 +2333,6 @@ The ACNN will design, pilot and support powerful neuroscientific computational r
 This award received co-funding from CISE Divisions of Advanced Cyberinfrastructure (ACI) and Information and Intelligent Systems (IIS)."
 },
 
-{
-"title": "Case Western Reserve University",
-"slug": "case-western-reserve-university",
-"date": "05/31/2016",
-"awardee": "Case Western Reserve University",
-"city": "Cleveland, OH",
-"piName": "Daniel Lacks",
-"amount": "$249,930",
-"abstractText": "Electrostatic charging in wind-blown dust
-Daniel J. Lacks and R. Mohan Sankaran
-Case Western Reserve University
-
-
-This International Research Experiences for Students (IRES) program will provide an international research experience at the Lanzhou University in China for four students from the United States each year.   The intellectual merit of the work is to advance the scientific understanding of electrostatic charging in granular systems, both generally and specifically for the case of wind-blown dust.  Electrostatic charging of granular systems is ubiquitous and has important consequences in both industrial and natural processes, but is very poorly understood.  The impressive facilities at Lanzhou University, which include a wind-tunnel and a desert research station, offer a unique opportunity to carry out studies in a controlled but realistic environment and increase our understanding of particle charging in wind-blown systems. The broader impact of the program is to train US students in research with a global perspective; China is an ideal location for such a program, as the country has become a worldwide leader in industry, commerce and scientific research.  
-
-The specific goals of the study will be to carry out measurements of particle fluxes, particle size distributions, and particle charge distributions as a function of elevation in wind-blown dust systems.  We will also measure electric fields as a function of elevation which will allow us to compare with previous studies, and correlate with particle flux, size and charging  On one hand, we aim to understand how these electrostatic effects vary with parameters such as wind speed, overall particle size distribution, and humidity, and on the other hand how the electrostatic effects arise in natural conditions and what their consequences may be on dust migration. Our strategy will be to: (a) develop and validate methodology in laboratory scale experiments; (b) carry out well-controlled large scale wind tunnel experiments, where wind speed and direction, as well as other relevant parameters (e.g., particle size distribution, humidity), can be controlled; and (c) carry out field experiments in the desert, where the conditions (wind speed and direction, humidity, etc.) are not controlled and will vary significantly during the course of the experimentation, but where the results are most meaningful in regard to environmental and climatic implications.  Students will work in interdisciplinary teams, serving in different roles throughout the project from designing experiments to carrying out field studies, and analyzing data."
-},
-
 
 
 
@@ -2645,24 +2402,6 @@ The Chamela/Cuitzmala biosphere reserve in western Mexico is surrounded by some 
 "abstractText": "The broader impact/commercial potential of this Small Business Innovation Research (SBIR) Phase II project will be an instrument that alleviates several current difficulties in the growth measurement of many microbes, especially anaerobic and other fastidious organisms. A large number of these species are naturally occurring in the human body, and have recently been shown to play critical roles in allergies, autoimmune diseases, dietary health, cancer, infection response, and more. The study of these species is considered by many to be the next frontier of modern medicine, especially as current approaches to managing infectious diseases, such as traditional antibiotics, appear to be losing effectiveness. However, current measurement technology is largely incompatible with the specialized environments and chambers in which anaerobic organisms must be grown. There is a large unmet need for better ways to measure anaerobic bacterial growth; this need is growing quickly as interest in the field increases. The ability to conduct high-throughput experiments in specialized environments will become critical as research into various human microbiomes accelerates, and demand for high-volume data grows. The existing market for high-throughput measurement devices is at least $300 million and growing.  This platform will allow for systematic studies of cell culture growth that can be accomplished easily and economically. 
 
 This SBIR Phase II project proposes to develop and refine a miniaturized multi-well plate reader that measures optical characteristics of up to 96 cell samples for measuring growth of many microbial samples simultaneously. The continuing rise of systems and computational biology demonstrates a growing demand for large amounts of quantitative data, and the variety of microbes relevant to the human body necessitates such an approach. However, these measurement techniques are not universally accessible due to current instruments' complexity, size, and cost. This project will continue development of a miniature, simplified version of a device called a multi-well plate reader, expanding the availability of parallel growth measurement (and other metrics) to a wider array of researchers and environments. The first goal is to simplify the instrument's electronics, add an on-board display for clarity, and allow battery-powered operation. The next goal is to accelerate equilibration to any surrounding environment to allow proper functioning even in extreme conditions, by measuring a wide array of environmental variables at different points in space and time. The third goal is to solidify the device's mechanical aspects for reliability and stability in a shaker. Finally, this project will support the development of a fully-functional wireless interface for control and data management, allowing effective remote use in any environment.
-
-This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria."
-},
-
-
-
-
-{
-"title": "Charmtech Labs LLC",
-"slug": "charmtech-labs-llc",
-"date": "01/29/2019",
-"awardee": "Charmtech Labs LLC",
-"city": "Stony Brook, NY",
-"piName": "Yevgen Borodin",
-"amount": "$225,000",
-"abstractText": "This SBIR Phase I project seeks to develop a novel text simplification technology that will personalize text to the reading level of students. There is a demand for such tools in inclusive and integrated K- 12 classrooms to cater to the needs of students with varying reading levels. This is especially pertinent to English language learners (Els), international students, and Special Education students with learning disabilities such as dyslexia, ADHD, and other cognitive impairments that impede their reading abilities. Existing tools offer one-size-fits-all solutions offering no control over the simplification process. The proposed Personalized Text Simplifier (PeTeS) will adapt texts to the reading levels of individual students, thereby filling a much-needed gap in the marketplace. With over 60% of U.S. K-12 students reading below grade level, the broader impact of the proposed technology will be in improving the literacy of a diverse population. The expected outcomes of using PeTeS will be improved vocabulary acquisition and improved reading and comprehension of texts by ELs and international students. Using PeTeS for reading may lead to better grades and higher graduation rates. PeTeS will also save teachers time on not having to explain texts or translate for students. PeTeS, will complement the instructor and provide additional support to ELs and international students, especially, in content areas, where these students have very little support.
-
-The proposed PeTeS is envisioned to be an adaptive reading assistant for personalizing instruction. The key innovation of PeTeS is in the application of natural language processing algorithms to perform automatic text simplification to dynamically meet specific reading levels - simplification being defined as an adaptation of any given text in a way that maximizes the likelihood that the student will understand its content. The key idea here is to replace a word that is presumed to be not known by the student with a word that is presumed to be known, i.e., the replacement criteria is the student?s knowledge and not the word complexity. Towards that, the proposed PeTeS technology will maintain a student knowledge model representing the reading level of the student. PeTeS will rely on the model not only to simplify the text to the student's level and improve comprehension, but also to challenge the student to learn unfamiliar words while reading whatever they need to read.
 
 This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria."
 },
@@ -2788,19 +2527,6 @@ This award reflects NSF's statutory mission and has been deemed worthy of suppor
 "abstractText": "The broader impact/commercial potential of this I-Corps project is to enable the commercialization of the carbon dots technology, with the initial focus on uses in high-performance sensors for water and food analyses and in imaging techniques for the early detection of cancers and other biomedical applications. Carbon dots have been developed as nontoxic and environmentally benign alternatives to the commercially available semiconductor quantum dots, which are nanomaterials of excellent optical properties but mostly containing highly toxic heavy metals in order to achieve the desired properties and performance levels. With similarly excellent properties and high performance, carbon dots as carbon-based nanomaterials can be produced from abundant and environmentally friendly precursors. They are benign and nontoxic.  Because of the low-cost nature, the carbon dots technology is also expected to have broader applications beyond the initial focus for many other societal needs.
 
 This I-Corps project assesses the market potential and the likely customer base for a carbon dots technology. Carbon dots have emerged as a rapidly advancing and expanding field of research and development. Under the umbrella of the carbon dots technology, significant applications in a number of technological areas have been explored, including carbon dots as extremely sensitive, yet benign and nontoxic, optical probes, potent photocatalysts, photodynamic agents for therapy and other purposes, antibacterial and antiviral agents, and materials and components in various renewable energy and energy conversion devices. The focus of this project is on the technology for imaging and sensing to take advantage of the most important and uniquely advantageous characteristics and properties of carbon dots, specifically on several high-value uses for immediate commercial development."
-},
-
-{
-"title": "Clemson University",
-"slug": "clemson-university",
-"date": "12/04/2015",
-"awardee": "Clemson University",
-"city": "Clemson, SC",
-"piName": "Carlos Garcia",
-"amount": "$130,560",
-"abstractText": "This collaborative project will facilitate a three-year international research experience for U.S. undergraduates majoring in STEM disciplines. Students from a diverse regional population will be recruited as summer cohorts to participate in research projects with researchers from the Brazilian Science-Technology Corridor (Sao Paulo - Campinas - Sao Carlos).  The interest in analytical applications combining microfluidics and nanomaterials has grown exponentially in the last years. Considering these advances and their importance for future developments, this IRES program aims to provide the tools for students to develop the skills required to face an internationally competitive job market linked to chemical analysis. This proposal aims to boost education and training in a creative, multidisciplinary, and culturally-rich environment.  A focus on minority recruiting, combined with the involvement of graduate students as mentors, will provide the support mechanisms required to expand and strengthen the pool of participants as well as the research experience. 
- 
-Recent developments in nanotechnology and microfluidics have allowed the understanding and rational utilization of a series of micro total analysis systems (uTAS). The existing links between these two fields have enabled crossing the traditional borders and the development of unique training opportunities for students in science and engineering tracks. Furthermore, the interest in analytical applications combining microfluidics and nanomaterials has grown exponentially in the last years. Although this integration has enhanced sensing, separation, and extraction procedures, the applicability of specific nanomaterials for chemical analysis depends mainly on the chemical composition, structure, size, morphology, and preparation method. Considering these characteristics and their importance for future developments, this IRES program aims to provide students an enriching research experience and link chemical properties with a real-world analytical problem."
 },
 
 {
@@ -3050,24 +2776,6 @@ This award reflects NSF's statutory mission and has been deemed worthy of suppor
 
 
 {
-"title": "CorInnova Incorporated",
-"slug": "corinnova-incorporated",
-"date": "01/31/2019",
-"awardee": "CorInnova Incorporated",
-"city": "Houston, TX",
-"piName": "Christina Bolch",
-"amount": "$225,000",
-"abstractText": "This SBIR Phase I project seeks to address the lack of approved device therapies available for the almost 4 million patients in the U.S. who suffer from diastolic heart failure (DHF) - a disease for which the potential market is estimated to be approximately $5B worldwide. In DHF, the chambers of the heart become stiff and cannot relax completely, reducing the amount with which they fill with blood and thus reducing the amount of blood pumped by the heart during each cardiac cycle. The only evidence-based therapy to treat DHF is to manage blood pressure pharmacologically, and treat associated complications. DHF is a major cause of hospital admissions and has poor patient outcomes, without any discernable improvement over the last two decades. Thus, there is a strong need for an effective device solution that can alleviate the symptoms associated with DHF while improving patient outcomes, as well as further fundamental understanding of the key factors and mechanisms that lead to DHF. 
-
-This project is focused on the development of a non-blood contacting biventricular diastolic recoil device for the treatment of patients with heart failure with preserved ejection fraction (HFpEF), also referred to as diastolic heart failure (DHF). The proposed device will provide a patented minimally invasive, non-blood contacting approach to mitigate the symptoms associated with HFpEF, addressing a large unmet need in a market which currently lacks any approved device therapies. Primary goals of this Phase I project include investigating variations in device design, functionality, and mechanical properties in pilot animal studies in order to optimize augmentation of cardiac function and hemodynamics, as well as the development of an accelerated fatigue test apparatus to test the durability of the device components. The commercialization effort in bringing this novel device to market will address the largely unmet need for the millions of Americans who suffer from DHF by alleviating symptoms, significantly increasing quality of life, and reducing morbidity and mortality.
-
-This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria."
-},
-
-
-
-
-{
 "title": "Cornell University",
 "slug": "cornell-university",
 "date": "02/01/2017",
@@ -3199,43 +2907,6 @@ This Small Business Innovation Research (SBIR) Phase I project focuses on malwar
 
 
 {
-"title": "DIGITOUCH HEALTH LLC",
-"slug": "digitouch-health-llc",
-"date": "01/31/2019",
-"awardee": "DIGITOUCH HEALTH LLC",
-"city": "Valhalla, NY",
-"piName": "Marc Zemel",
-"amount": "$225,000",
-"abstractText": "The broader impact/commercial potential of this Small Business Technology Transfer (STTR) Phase I project is to drive hypertension awareness and control rates around the world, through the availability of low-cost, portable blood pressure monitoring. High blood pressure (BP) is a major cardiovascular risk factor that affects up to 1 billion people worldwide. It is treatable, yet hypertension awareness and control rates are low. Ubiquitous BP monitoring technology could improve hypertension management, but existing devices require an inflatable cuff and therefore do not afford anytime, anywhere measurement of BP. The market for a portable, cuff-less blood pressure monitor is estimated in the tens of billions of dollars. Successful completion of this project via demonstration of measurement accuracy across a broad range of blood pressures will provide the company with a strong position in this large market. Ultimately, the success of this project could translate to much greater awareness and control of hypertension, helping reduce the incidence and burden of cardiovascular disease around the world.
-
-This Small Business Technology Transfer (STTR) Phase I project aims to develop a technology for cuff-less and calibration-free measurement of blood pressure via a button on a smartphone. Existing automated cuff-based monitors are bulky and do not enable anytime, anywhere measurement of BP. The 'oscillometric finger pressing method'is an emerging approach that uses the same measurement principle that is employed by most automatic cuff devices, but instead of inflating a cuff, the user presses his or her finger (and the underlying artery) against a combination of optical and pressure sensors to determine the blood pressure. The objectives of this program are to shrink the current prototype design and validate its accuracy. The proposed R&D plan includes miniaturization of the circuit components to mount them on a single board and optimization of the sensing technology and algorithm to work in a broad range of normotensive and hypertensive individuals. This work will be followed up by a clinical test of the monitor. The resulting device is expected to be small and thin enough to mount to the back of a smartphone and demonstrate clinical-grade accuracy for the measurement of blood pressure.
-
-This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria."
-},
-
-
-
-
-{
-"title": "DIVERSE EMERGENT ENGINEERING PROSPECTIVE -DEEP- DESIGNS LLC",
-"slug": "diverse-emergent-engineering-prospective-deep-designs-llc",
-"date": "01/29/2019",
-"awardee": "DIVERSE EMERGENT ENGINEERING PROSPECTIVE -DEEP- DESIGNS LLC",
-"city": "Gainesville, FL",
-"piName": "Christin Shelton",
-"amount": "$224,986",
-"abstractText": "This Small Business Innovation Research Phase I project will address the challenge of developing students? empathy and emotional self-awareness with a mobile-based platform. Aligning with the NSF's mission to develop innovative education programs to enhance aspects of emotional intelligence, this project will address three major pain points for young learners with far-reaching implications. First, the need to develop emotional intelligence; which has been identified as a 21st-century literacy that is crucial for younger learners to thrive. Current school climate issues with bullying and violence consistently reinforce the need to address social and emotional learning. Next, the need to integrate social and emotional learning into regular classroom activities. With the demands placed on schools for testing, having a program that integrates with what schools are already responsible should support more widespread adoption. Finally, the program addresses a widespread need to combat the deleterious effects of the current uses of social media by young students. This project will bring a positive spin to social networking that can improve the emotional intelligence skills of students
-
-
-The proposed innovation is an augmented reality-based experience that immerses fourth and fifth-grade students in activities designed to build their skills of emotional intelligence; namely, emotional self-awareness and empathy, as they interact with a network of peers. The key technical challenges the project must solve include: refining core methods for developing emotional self-awareness and empathy, defining and refining a user experience that teachers/parents will find educationally compelling and with which learners will love to engage, designing a curating process for learner-generated content that will ensure the safety and security of all users and developing virtual interactions that engage students in emotional skill development, and connecting activities with the materials for which students are already responsible.
-
-This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria."
-},
-
-
-
-
-{
 "title": "DMC Limited",
 "slug": "dmc-limited",
 "date": "08/30/2017",
@@ -3264,30 +2935,6 @@ This SBIR Phase II project will develop a high throughput metabolic engineering 
 This project is designed to prepare a stable oral formulation of the Crypt-Reaching Particle (CRP), a novel drug-agnostic drug delivery vehicle, and demonstrate that it can deliver a functional DNA cargo for expression and secretion in intestinal epithelial cells in vitro and in vivo. This project focuses on the technical challenges associated with preserving the functionality of a DNA cargo as an example of a challenging drug delivery scenario that is difficult to replicate. The innovation is the design of the vehicle to penetrate through the mucus and transfect underlying epithelial cells by mimicking the enteric poliovirus. This will lay the foundation for the first oral gene therapy. Briefly, the project will address three objectives. First, preparation of a formulation for the CRP for oral administration via lyophilization with analyses to assess formulation and DNA stability as a function of time, temperature, and pH. Second, testing the ability of the orally formulated CRP to deliver a functional DNA plasmid encoding Gaussia luciferase to Caco-2 intestinal epithelial cells in vitro by measuring both cellular and secreted expression. Finally, testing the ability of the orally formulated and administered CRP to deliver a functional Gaussia luciferase plasmid to intestinal epithelial cells in vivo in Fischer 344 rats to assess expression and secretion.
 
 This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria."
-},
-
-
-
-
-{
-"title": "DOANE UNIVERSITY",
-"slug": "doane-university",
-"date": "04/27/2015",
-"awardee": "DOANE UNIVERSITY",
-"city": "Crete, NE",
-"piName": "Andrea Holmes",
-"amount": "$248,419",
-"abstractText": "Part 1:
-Doane College, a small liberal arts college in Crete, Nebraska, will send at least nine undergraduate science students and three postdoctoral fellows to Germany to conduct nanotechnology research at the Karlsruhe Institute of Technology (KIT). Three students and a postdoctoral fellow will go each summer for the duration of three consecutive years. The work involves the development of a versatile nano-scaled detection tool that could provide a high societal impact. In Germany, Doane students will work in the labs of Dr. Michael Hirtz and Dr. Pavel Levkin, both well-known internationally for their expertise on nano-scale phenomena. The undergraduate students will receive extensive research training, as well as culture and language preparation at Doane College before their departure to Germany. While in Germany, the research team will be given an in-depth orientation to the country and the research setting at KIT from the project?s Principle Investigator and the international collaborators. Through the PI, the student team will also be linked with investigators at the Center for Nanohybrid Functional Materials at the University of Nebraska in Lincoln, Nebraska. The students, who are relatively isolated in the US heartland, greatly benefit from the exposure to a culture abroad, providing a new experience for them. The project provides increased student, post-doc fellow, and faculty understanding of the collaborative research process, as well as potentially motivating undergraduates to continue their studies and/or careers in science, technology, engineering and math. 
-
-Part 2:
-The research collaboration with the Karlsruhe Institute of Technology (KIT) in Germany will advance a technology called DETECHIP (short for detection chip). This is a proven sensor technology based on differential responses of colorimetric and fluorometric sensing elements upon exposure to small molecules of interest, such as drugs of abuse, explosives, and pesticides. 
-
-DETECHIP is evolving from a macroscale, liquid-phase-testing array utilizing a 96-well plate to a micro-scale, solid-phase array through the use of piezoelectric and inkjet printing. Seeking to further miniaturize and optimize DETECHIP, this work will incorporate Dip-Pen Nanolithography (DPN) that is available at KIT for micro-to-nanoscale array fabrication on novel polymeric surfaces. In collaboration with the KIT collaborators, the Doane investigators will incorporate the chemical sensors onto amphiphilic nanoporous (HEMA) polymeric surfaces that are produced at KIT.
-
-The goal is the uniform fabrication and analysis of arrays for the detection of small molecules. Expected deliverables include: 1) a small micro-to-nanometer-scaled, polymer-supported DETECHIP array; 2) methodology for bench-top or portable analysis with the best imaging and/or read-out technology to be determined during this project period; and 3) reports documenting the efficacy, ease of use, and cost effectiveness of the resulting DETECHIP technology.
-
-This international collaboration sets the stage for US post-docs and undergraduates to apply for German Humboldt, Fulbright, and DAAD-RISE fellowships, while German KIT students can participate in academic exchange programs with Doane College."
 },
 
 
@@ -3460,21 +3107,6 @@ This award reflects NSF's statutory mission and has been deemed worthy of suppor
 {
 "title": "Drexel University",
 "slug": "drexel-university",
-"date": "02/04/2019",
-"awardee": "Drexel University",
-"city": "Philadelphia, PA",
-"piName": "Bahram Nabet",
-"amount": "$50,000",
-"abstractText": "The broader impact/commercial potentials of this I-Corps project include realization of ultra-fast optical receivers for applications in tele and data communication networks and centers both as in backbone infrastructure, and in end-user usage. This project provides unique technological advancements that circumvent traditional limits in speed of operation and in energy usage by taming the collective response of clouds of electrons in response to excitation - known as opto-plasmonic devices (OPD) - resulting in much more sensitive, high speed, and low power-consumption devices which convert optical signals to electrical ones, performing a crucial step in information transport.  This reduces the energy cost-per-bit of information, helping Photonics Integrated Circuit (PIC) technology to become mainstream for general public use in applications such as in affordable ultra-high-speed Internet, high-capacity Internet-of-Things (IoT), and energy-saving cloud data storage and processing. Notably, this project contributes to the technological leadership of the US in the multi-billion dollar global communications markets, by generating advanced technical know-how and intellectual property, holding the key in manufacturing of new OPDs. Successful completion of this project results in a business opportunity for several sustainable jobs for electrical and optical engineers with potential for exponential growth in line with increasing demand for data communication. 
-
-This I-Corps project produces market-ready high-speed photodetector technology based on Indium Phosphide material system that are i) capable of operation in tele/data communication rates of more than 200 Gbits/sec, which is six times faster than state-of-the-art, and ii) compatible with Silicon Photonics technology through a heterogeneous integration with silicon. Specifically, this product solves a bottleneck in high-speed operation of Silicon Photonics Integrated Circuits that rely on Germanium-based photodetectors as their optical receiver. For this product to be commercially ready, research and development plan includes major milestones of a) producing a stand-alone side-illuminated InP-based high speed photodetector compatible with optical communication wavelengths, and b) integration of the developed InP-based optical receiver into a Si-Photonics integrated circuit. Prototyping work will be done using NSF-supporting fabrication facilities, but volume production feasibility will be demonstrated by utilizing a fab-less model and using existing silicon foundry services across the United States.
-
-This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria."
-},
-
-{
-"title": "Drexel University",
-"slug": "drexel-university",
 "date": "03/01/2019",
 "awardee": "Drexel University",
 "city": "Philadelphia, PA",
@@ -3483,21 +3115,6 @@ This award reflects NSF's statutory mission and has been deemed worthy of suppor
 "abstractText": "The broader impact/commercial potential of this I-Corps project is to fill a void in the products and services that teach language to children with autism and to non-native English speakers. Approximately one-third of individuals with autism exhibit a deficit in expressing themselves in sentences. The traditional language remediation for autism is in-person therapy. Computerized therapies offer more intensive instruction at lower cost, but existing programs do not fully address the language deficits seen in autism. In addition, the National Council for Education Statistics reports a population of English as a Second Language (ESL) students that grew from 8.1 percent in 2000 to 9.5 percent in 2015.  The program developed here offers both ESL and autistic students personalized, automated instruction, along with a comprehensive curriculum, in core areas of English: grammar and syntax. Mastering these requires a level of extensive practice, personalized learning, and linguistic expertise that exceeds both the capacities of in-person therapies and teacher-directed instruction, and the capabilities of the language software programs that are currently on the market.
 
 This I-Corps project involves the development and commercialization of an English language teaching program providing personalized instruction in sentence construction.  Informed by research showing that mastering a language requires active practice, the system uses pictures and verbal prompts (spoken and written) to prompt learners put words together into specific types of phrases and sentences. These targeted language structures gradually increase in length and complexity. Learners construct their responses from scratch through open-ended word-button clicking, keyboard typing, or speech. The system provides interactive, step-by-step feedback (both spoken and written) that is informed by principles of explicit and implicit learning. This feedback, enhanced through color-coded highlighting, diagnoses problems with word choice, word endings, and word order, guiding users through self-corrections to well-formed sentences.
-
-This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria."
-},
-
-{
-"title": "Drexel University",
-"slug": "drexel-university",
-"date": "03/01/2019",
-"awardee": "Drexel University",
-"city": "Philadelphia, PA",
-"piName": "Gregory Fridman",
-"amount": "$50,000",
-"abstractText": "The broader impact/commercial potential of this I-Corps project is a new standard of plant purity, which can have tremendous positive health consequences for the millions of worldwide consumers. The cold plasma water purification and enrichment technology, utilized in our proposed hydroponic system, can extend to other areas of agriculture as the antimicrobial chemicals produced in plasma rapidly kill pathogens and are safe for both plants and animals. The potential benefits stemming from this technology can help vertical farmers to eradicate food scarcity challenges in urban centers all over the world, powered by the sun's energy. Given the imminent, significant, and accelerating problems of agricultural sustainability and water conservation facing humanity, this technology has the potential to play a significant role in helping to preserve and sustain life on Earth as we know it. Additionally, the decrease in water volume needed for irrigation and the increased yield of plants treated with plasma-treated water also supports applications of plasma treatment in various farming and reforestation efforts. Finally, an ambitious goal for the company is to implement this technology in environments where resources other than electricity are extremely limited, such as long-term space missions.
-
-This I-Corps project will allow the company to better understand the needs of the company's potential customers and how plasma technology can offer solutions to the commercial agricultural market while providing technological insight to members of the hydroponic agriculture industry and opportunities for significant improvements to their existing agricultural systems and practices. Through these plasma technology commercialization efforts, the team envisions facilitating bigger, healthier, and more sustainable crop harvests for the modern farmer, while also reducing the volume of potentially harmful chemical additives, environmental damage, and wastefulness associated with current production methods. Current lab-scale research results are very promising, however, detailed analysis of the market and interviews with professional hydroponic farmers, industry experts, vendors, and customers are required to validate full-scale commercialization.
 
 This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria."
 },
@@ -3547,22 +3164,6 @@ This award reflects NSF's statutory mission and has been deemed worthy of suppor
 "abstractText": "This Small Business Innovation Research (SBIR) Phase II project will address the challenge of fouling on membranes used in biopharmaceutical processing. The successful application of this coating would enable increase in the membrane lifetime and product yield of various production streams as less of the valuable compounds remain trapped in the membrane. This can increase production capacity for life-saving medicines, reduce production costs and, in certain cases, enable continuous biopharmaceutical manufacturing. Furthermore, functionalization of membranes currently involve significant quantities of environmentally harmful solvents, which may be leachable during usage of the membrane. This issue is avoided in the current project by utilizing initiated chemical vapor deposition (iCVD) process which does not require any solvent. This coating technology can also be extended to other systems including wastewater purification, food & beverage production, industrial separations, and medical devices that rely on a similar functionalization.
 
 The objective of Phase II will be to demonstrate a commercially viable manufacturing process to produce surface modifications within porous membranes using the iCVD process. Previous work in this subject has focused on top-coats on the top surfaces of reverse osmosis membranes, but the chemistries utilized have never before been demonstrated within interior structures of the membrane filters. During the Phase II work, the performance of the coatings will be optimized by using existing deposition equipment to tune the coating chemistry and process conditions to maximize the flux and throughput by minimizing protein fouling. The other main technical goal of the work will be to translate the current batch process into a continuous roll-to-roll process that is amenable to large-scale manufacturing. The outcome of this study will be a proven coating chemistry that is effective and durable in the membrane application, and an optimized manufacturing process capable of being implemented within current standards of membrane manufacturing."
-},
-
-
-
-
-{
-"title": "Duke University",
-"slug": "duke-university",
-"date": "06/27/2017",
-"awardee": "Duke University",
-"city": "Durham, NC",
-"piName": "Xinnian Dong",
-"amount": "$50,000",
-"abstractText": "The broader impact/commercial potential of this I-Corps project is revolutionizing how farmers grow their crops and significantly reduced the dependence on fertilizers or pesticides to maximize yields. Understanding how to manipulate natural components of the plant stress response to provide desirable beneficial traits will potentially lead to reductions in chemical use in agriculture.  This technology provides a novel mechanism to express broad spectrum immune response that would normally stunt plant growth. This novel mechanism has large potential societal and commercial impacts. Currently, agricultural companies express resistance genes using promoter systems that are specific for one strain of pathogen. Each resistance gene included in the plant seed results in a negative fitness cost. The technology developed here can potentially eliminate the need to express multiple resistance genes by replacing them with one broad spectrum resistance gene.
-
-This I-Corps project further develops a TBF1-Control Cassette technology (TCC) to regulate translation that is both inducible and specific. Current gene expression methods are primarily based on transcriptional regulation utilizing synthetic or native promoters, which were shown to be insufficient in overcoming negative fitness costs associated with expression of stress response genes. The TCC technology remediates these negative fitness cost by "stalling" the translation of the gene of interest until a trigger is present. This mechanism allows for the accumulation of transcripts without the subsequent translation, and hence no negative fitness costs until the protein is translated. The technology was proven to work in rice and can be applied to other economically important crops, such as wheat or corn."
 },
 
 
@@ -3677,24 +3278,6 @@ This award reflects NSF's statutory mission and has been deemed worthy of suppor
 
 
 {
-"title": "EQUILO INC.",
-"slug": "equilo-inc",
-"date": "02/01/2019",
-"awardee": "EQUILO INC.",
-"city": "Lawrence, KS",
-"piName": "Jessica Menon",
-"amount": "$224,814",
-"abstractText": "The broader impact/commercial potential of this Small Business Innovation Research (SBIR) Phase I project is to enable economic development aid organizations to plan, implement, measure, and achieve better gender equality and social inclusion outcomes. Gender equality is recognized as an important factor in catalyzing development and lifting communities out of poverty. Empowered women contribute to healthy and productive families, communities, and nations. An important step in doing this is to integrate high quality and timely gender analysis (examination of how differences in gender roles, activities, needs, and opportunities affect men, women, girls and boys in specific contexts), into decision-making and project planning. For both public and private sectors, early, action-oriented gender analysis is vital to tackle improve outcomes. In 2015 - 2016, OECD aid agencies spent, on average, $41.7 billion per year targeting gender equality and women's empowerment. Conservatively estimating that 3-5% of this expenditure is for gender analysis and action planning, that makes a market of $1.3-2.1 billion in the development sector alone. This project can potentially improve outcomes from that development funding.
-
-This Small Business Innovation Research (SBIR) Phase I project is to develop and test a web-based application that automates the currently manual process of conducting gender analyses. This addresses a real world challenge faced by aid organizations to effectively integrate gender analyses into planning to inform effective and timely decision-making. Despite being a requirement by many organizations, there are procurement and contract delays, shortage of gender experts, and manual research and data collection.  This project will develop a machine learning model that leverages big data, APIs, and text-mining, driven by an analytic framework created by experts, to automate this process and deliver customized results instantly for a fraction of the cost. Phase I will build, train, and test the model for one sector and select countries. By the end of Phase I, the model will be tested and iterated to meet high quality control standards. Once validated, it will be ready to scale globally across sectors.
-
-This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria."
-},
-
-
-
-
-{
 "title": "ETC SOLAR LLC",
 "slug": "etc-solar-llc",
 "date": "01/31/2019",
@@ -3705,42 +3288,6 @@ This award reflects NSF's statutory mission and has been deemed worthy of suppor
 "abstractText": "The broader impact/commercial potential of this Small Business Innovation Research (SBIR) Phase I project is to boost the power output of solar cells by 5-6% and reduce manufacturing costs by ~5%. By commercializing the proposed effectively transparent contact (ETC) technology the levelized costs of electricity (LCOE) of solar energy systems could be dramatically reduced, resulting in accelerated adoption of solar energy to address greenhouse gas emission and to become independent of fossil fuels. Improving power output of solar cells is one of the most effective means to drive down LCOE, and the ETC technology is broadly applicable to improve the power output of nearly all types of solar cells. Lower-cost solar cells can also be expected to benefit the developing world as well as disadvantaged communities that lack access to the power grid. In the near term, the proposed ETC technology will unlock higher power output and new applications for III-V photovoltaics, which are used predominantly in aerospace, defense, high performance consumer electronics and automotive. These rapidly growing markets require higher power output solar cells to add functionality (RADAR, LIDAR and surveillance) by increasing the payload capacity that is currently limited by the available space to mount the solar cells. 
 
 The proposed project will demonstrate the commercial viability of the ETC technology by demonstrating a new world record solar cell and scalable fabrication on commercial III-V solar cells. Metal contacts are required for charge extraction from solar cells, typically covering 5-6% of the front surface and blocking sunlight from reaching the photovoltaic material below. These losses due to blocking of incoming sunlight by the metal contacts are the largest single contribution to the performance loss in most solar cells. The proposed ETC technology eliminates these losses and thereby boost the solar cell power output by 5-6%. The ETC technology has been demonstrated at lab scale and is world's highest performing front contact technology. During the research project, ETCs will be integrated with commercial III-V solar cells supplied by prospective initial customers and world-leading research partners. The technical viability of ETCs will be established by achieving dramatic improvements in cell efficiency for each cell type, whereas the commercial viability will be established by successfully integrating the ETCs using techniques, materials, and tools suitable for commercial scale-up. Completion of these objectives will accelerate the efforts to commercialize the ETC technology, which will broadly increase power output and reduce cost of solar energy.
-
-This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria."
-},
-
-
-
-
-{
-"title": "EXOTANIUM, INC.",
-"slug": "exotanium-inc",
-"date": "01/30/2019",
-"awardee": "EXOTANIUM, INC.",
-"city": "Ithaca, NY",
-"piName": "Zhiming Shen",
-"amount": "$224,967",
-"abstractText": "The broader impact/commercial potential of this Small Business Innovation Research (SBIR) Phase I project will be to improve security of cloud computing without sacrificing performance and cost efficiency. Cloud computing has proven to be a disruptive technology in the Information Technology (IT) sector, and the application container market is a rapidly growing segment of this sector. Although containers provide a simpler and more efficient apparatus to host applications in the cloud, there are important problems to address, such as weak security isolation, low kernel compatibility, and poor kernel customization. Security is the most common concern because one infected kernel can affect a multitude of containers. So far, each organization that has adopted container applications has been required to independently ensure their own security. One study found that a majority (54% of participants) ran containers on top of virtual machines (VMs) for security isolation, which sacrifices performance and cost efficiency. Thus, there is a significant need to provide a container architecture that supports greater security without sacrificing performance and cost efficiency. This project addresses this urgent need, and the resulting technology can be applied broadly to domains such as cloud computing, Information Technology (IT) infrastructures, Network Function Virtualization (NFV), etc.
-
-This Small Business Innovation Research (SBIR) Phase I project will further improve usability, security, and efficiency of a novel software application container architecture, so that it can be easily deployed and evaluated by customers. While the current platform can run Docker containers without modifications, it is incompatible with the Docker and Kubernetes orchestration platforms, which is a probable obstacle to adoption for many container users and developers. The novel containers can run unmodified iterations of existing applications and automatically optimize performance of many applications by patching the binary during runtime. However, it is challenging to handle complicated scenarios in the application binary, and a more sophisticated technique is required to further improve the coverage of the automatic binary optimization module. Due to the licensing requirements of some of the software the novel container platform is based on, the research prototype is run open-source. The goal of this project is to address these limitations and challenges through five major objectives: support Docker and Kubernetes ecosystem compatibility; improve automatic binary optimization coverage; re-design the platform to avoid open-source license violations; further improve security; develop an automatic installation tool and a product demonstration.
-
-This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria."
-},
-
-
-
-
-{
-"title": "EXPERCOIN LLC",
-"slug": "expercoin-llc",
-"date": "01/31/2019",
-"awardee": "EXPERCOIN LLC",
-"city": "Hopkinton, MA",
-"piName": "Harpreet Singh",
-"amount": "$224,788",
-"abstractText": "The broader impact/commercial potential of this Small Business Innovation Research (SBIR) project is that it will reskill those being displaced by the disruption caused by the impending AI and automation that is sweeping every industry. By providing training and fully integrated career services platforms at significantly lower cost than traditional models, Expercoin Republics will make education more accessible to organizations seeking to upskill their employees and professionals looking to reskill. According to Harvard Business School professor Clayton Christensen, 50% of all American colleges are bound for bankruptcy in the next few decades. Due to the rapid pace of technological change and new employment requirements, we are moving away from credentialing to continuous learning. This project will allow organizations of all kinds to use its protocol to create expert networks and content platforms, while leveraging tokens to reward participation among their users.  400 to 800 million people globally need to be reskilled. This is estimated to translate to $8.5 trillion in unrealized revenue due to lack of talent by 2030.
-
-This SBIR Phase I project proposes to embrace a novel intellectual approach and business model that empowers employees and employers through upskilling, continuous learning, and skill verification. The mission of Expercoin Republics is to instantly allow anyone to create a specialized community with marketplaces for training, assessments, mentorship and work opportunities. Expercoin will use blockchain to create decentralized autonomous organizations that advance learning and facilitate employment through the creation of thousands of specialized learning communities. A notable achievement of Expercoin would be to create the underlying infrastructure that helps businesses and governments launch learning economies that consist of self-regulated decentralized entities with features such as transparent voting, effective governance, fraud adjudication, spam prevention, account verification and rewards. An Expercoin token will provide a wide range of functions necessary to create a decentralized economy that is not governed by any central authority.
 
 This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria."
 },
@@ -3915,24 +3462,6 @@ This project will leverage modern distributed cloud-based computing infrastructu
 "abstractText": "The broader impact/commercial potential of this Small Business Innovation Research (SBIR) project will be to develop a platform technology for detecting autoantibody markers for research and clinical diagnostics. Precision medicine requires the development of more powerful bioanalytic technologies to diagnose disease and direct targeted therapies. This platform uses a ligation-based DNA barcoding technology for improved antibody detection with increased analytical sensitivity and multiplex power to detect more at the most clinically useful time. Additionally, as a solution-phase assay, it is able to detect numerous clinically-relevant autoantibodies that are refractory to common techniques like ELISA.  This platform has the potential to accelerate the development of lifesaving diagnostics across a broad spectrum of human diseases. 
 
 This Small Business Innovation Research Phase II project aims to develop the first solution-phase, ultrasensitive and multiplex antibody assay platform for the early detection, monitoring and treatment of human diseases. The Antibody Detection by Agglutination-PCR (ADAP) platform represents a major advancement in multiplex immunoassay testing. Many current multiplex technologies, such as microarrays and bead-based arrays, scale poorly due to cross-analyte interference, and lack the analytical sensitivity to detect crippling diseases at the most favorable time.  The Phase I results showed the expanded and validated ADAP technology for the ultrasensitive and multiplex detection of antibody biomarkers. The Phase II objectives are: 1) Validation of the multiplex ADAP assay for clinical diagnostics serving autoimmune connective tissue diseases, thyroid disorders and celiac diseases; 2) High-throughput automation of multiplex ADAP assay technology for clinical diagnostics; 3) Manufacturing of assay reagents and establishment of quality control standards; and 4) Demonstration of the applicability of multiplex ADAP for a broader set of antibodies. The intellectual merit of this project resides in the achievement of 10,000x increased sensitivity, and 20-30% increased specificity at multiplex while having the option to use existing PCR reader platforms to help keep lab capital costs low.
-
-This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria."
-},
-
-
-
-
-{
-"title": "EnerMat Technologies, Inc.",
-"slug": "enermat-technologies-inc",
-"date": "07/20/2018",
-"awardee": "EnerMat Technologies, Inc.",
-"city": "Clifton Park, NY",
-"piName": "Rahul Mukherjee",
-"amount": "$225,000",
-"abstractText": "The broader impact/commercial potential of this Small Business Technology Transfer (STTR) project is the advancement of improved lithium ion batteries. The project will evaluate new battery chemistry enabling more rapid charging rates then currently available in the worldwide energy storage marketplace. Such high power density batteries would cater to a major emerging battery segment where current lithium ion battery technologies fall dramatically short. Successful development of this innovation will provide benefits to both current and future applications. Clearly, large scale deployment of a markedly superior energy storage device will have significant societal benefits by accelerating the move away from fossil fuel in many applications and products. For instance, a viable regenerative braking energy storage technology based on the proposed technology would result in a tremendous reduction in electricity used by subway trains, with a concomitant reduction of CO2 emissions. 
-
-This STTR Phase I project proposes to address the core of the microstructure - performance relations in energy storing materials, answering a series of fundamental questions regarding how a charge carrier is reversibly or irreversibly stored at high rates in manganese oxide - carbon nanocomposite anodes. In conventional LIBs, it is the graphite-based anode that limits charging rates, with catastrophic lithium metal plating and dendrite growth occurring at increased currents. It is expected that many of the existing "Graphite - Inherited" paradigms regarding fast rate in anodes would be done away with, or substantially redefined with the proposed approach for designing high power lithium ion batteries based on an inexpensive hemp-derived carbon nanosheets and nanostructured manganese oxide anodes. A much clearer understanding of the synthesis - structure - property relations in such nanocomposites will have wide-reaching scientific and technological implications. Research and development activities will focus on structural optimization and manufacturing scalability along with fabrication and testing of near-commercial pouch cell form factors in order to demonstrate device-level performance and commercial viability of the proposed technology.
 
 This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria."
 },
@@ -4416,42 +3945,6 @@ This award reflects NSF's statutory mission and has been deemed worthy of suppor
 
 
 {
-"title": "GEOSPIZA, INC.",
-"slug": "geospiza-inc",
-"date": "01/31/2019",
-"awardee": "GEOSPIZA, INC.",
-"city": "Denver, CO",
-"piName": "Sarah Tuneberg",
-"amount": "$225,000",
-"abstractText": "The broader impact/commercial potential of this Small Business Innovation Research (SBIR) Phase I project is to enable emergency managers, first responders, and elected officials across the country to increase community resilience in disaster to save countless lives, save key critical infrastructure, and save the environment from otherwise catastrophic outcomes during disasters, some of which continue to increase in frequency and severity.  It will allow for significant advances in protecting our society's most vulnerable populations in disaster.
-
-This Small Business Innovation Research (SBIR) Phase I project develop a platform to integrate, interpret, and organize a multitude of relevant data sources in order to deliver actionable insights to those responsible for intervention before, during, and after disaster. This project will enable a fully integrated, dynamic web-based tool capable of generating estimated and real-time results for a broad set of hazards across the nation down to the neighborhood level granularity. As a real-time, dynamic tool, it will operationalize population vulnerability data and provide forward-leaning decision support and actionable intelligence to first responders, emergency managers, and elected officials that will save lives by identifying those populations with the greatest needs and highest risk during a disaster.
-
-This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria."
-},
-
-
-
-
-{
-"title": "GHAMUT CORPORATION",
-"slug": "ghamut-corporation",
-"date": "01/31/2019",
-"awardee": "GHAMUT CORPORATION",
-"city": "Cambridge, MA",
-"piName": "Mohammad Ghassemi",
-"amount": "$224,995",
-"abstractText": "The broader impact/commercial potential of this Small Business Innovation Research (SBIR) Phase I project is the reinvention of community wellness programming from a typically qualitative process into an evidence-based procedure. Treating wellness as a science will allow for more efficacious use of wellness budgets (an annual expenditure exceeding $100 Billion), will create a positive social impact within organizations, and by extension, society as a whole. Organizations with effective wellness initiatives have higher employee engagement, improved productivity, and increased profitability. Hence, there is significant opportunity for societal and commercial impact through evidence-based wellness technologies.
-
-This Small Business Innovation Research (SBIR) Phase I project involves the theoretical development, and practical deployment, of recommendation algorithms that arrange meetings between groups of people with divergent interests and incentives. Our research objectives are (1) the development of a theoretically grounded recommendation algorithm that accounts for the effects of social dynamics and incentives on behavior, (2) the development of an application to facilitate community wellness through in-person meetings.  We anticipate the successful deployment of the platform, the collection of multi-center data for semi-supervised training and prospective evaluation of the developed algorithms.
-
-This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria."
-},
-
-
-
-
-{
 "title": "GLOBE BIOMEDICAL LLC",
 "slug": "globe-biomedical-llc",
 "date": "02/01/2019",
@@ -4682,23 +4175,6 @@ The George Washington University Office of Innovation and Entrepreneurship (OI&E
 "abstractText": "The broader impact/commercial potential of this I-Corps project is to enable personalized monitoring of sudden cardiac events and heart arrhythmia by combining a wearable device and cloud computing. The project will utilize a patented cloud-connected ring sensor for long-term on-demand Electrocardiographic (ECG) monitoring. Current ECG monitoring is a $4 billion dollar market. However no existing product can provide on-demand multi-lead ECG signals over long periods (over one month). Every year over 380,000 Americans die from heart attacks, of which one third happen outside a hospital, motivating a solution to a personalized cardiac monitoring device which can provide actionable diagnosis on-demand and is connected with physicians for quick intervention. This project will potentially enable a first-in-kind ring ECG sensor to serve this unmet need. This I-Corps project will support extensive customer discovery with cardiac patients, healthcare workers, cardiologists, nurses, and telemedicine companies.  In addition, through the NSF I-Corps Team program, two engineering doctoral students will learn important entrepreneurial skills such as the lean start-up model, go through an intensive and rigorous customer discovery process, and network with potential investors and partners.
 
 This I-Corps project integrates wearable devices with cloud computing to enable personalized cardiac monitoring on-demand. The intellectual merit of the project stems from the innovation of flexible electronics based miniature ECG sensors and cloud-based informatics system. By integrating wearable ECG sensors and cloud computing, on-demand cardiac monitoring information can be shared with cardiologists and emergency physicians. A smartphone can be used to receive physician-suggested actions for early intervention. During this I-Corps project, the team will explore the market potential for cloud-based wearable biosensors at point-of-care settings for cardiac applications where long term on-demand monitoring is important. The project will involve an extensive customer discovery process with potential stakeholders, business model generation and potential partner identification.   More broadly, this platform technology is also applicable to other wearable devices and chronic conditions such as high blood pressure, depression and dementia.
-
-This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria."
-},
-
-{
-"title": "George Washington University",
-"slug": "george-washington-university",
-"date": "02/15/2019",
-"awardee": "George Washington University",
-"city": "Washington, DC",
-"piName": "Yongsheng Leng",
-"amount": "$50,000",
-"abstractText": "The broader impact/commercial potential of this I-Corps project is to provide industrial lubricant companies or automotive lubricant companies with a better understanding and a design strategy for new lubricant products, especially for high-loading, ultra-thin film lubrications. It has been predicted that three major economic areas are related to tribology and lubrication engineering -- energy, manufacturing and transportation. These three areas all follow a trend towards increasing the efficiency, in which lubricants or new lubricant formulations are a critical component in an intense competition to provide goods at the lowest costs. This market pressure will continue to create a demand for new machinery and new type of lubricants that can improve the efficiency of manufacturing operations. 
-
-The project builds a bridge that connects research findings in the computational lab to the real industrial world. Commercial importance for the lubricant products is a significant energy and cost savings in many sectors and new enabling technologies. The project also provides a unique opportunity for students to practice computational nano-tribology and research commercialization training in the real world, benefiting the lubricant industry, environment, and society. 
-
-This I-Corps project uses core technology and innovation of computational molecular simulations to understand and design new lubricant products. Synthetic base oils with different viscosity modifiers under high loadings are targeted. The project explores the commercial opportunity of simulation technology through collaboration with potential customer lubricant companies. So far the nanoscale mechanical behaviors of base oils in boundary lubrication are still not well understood. This project focuses on atomic-scale friction behavior of realistic lubricant oils with/without additives and develops new computational models to provide unique insights into the atomistic behaviors of lubricants under compression and shear in boundary lubrication. Through collaboration with potential industry customers, computational molecular simulations reveal the fundamental lubricant-surface interactions under extreme boundary lubrication conditions. This project creates a new frontier for the advancement in tribology and lubrication engineering while meeting current customer needs. In addition, there is a commercialization potential to attract industrial partners to develop the next-generation lubricants for industrial and automotive lubricant companies.
 
 This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria."
 },
@@ -5065,22 +4541,6 @@ This SBIR Phase II research project proposes to continue the development of a ne
 
 
 {
-"title": "Guiding Technologies Corporation",
-"slug": "guiding-technologies-corporation",
-"date": "08/03/2016",
-"awardee": "Guiding Technologies Corporation",
-"city": "Philadelphia, PA",
-"piName": "John Nosek",
-"amount": "$932,657",
-"abstractText": "The broader impact/commercial potential of this Small Business Innovation Research (SBIR) Phase II project will revolutionize the treatment of individuals with autism. One of every sixty-eight US children has autism (over 1.1 million). The estimated cost of providing Applied Behavior Analysis (ABA) therapy to those who could benefit is $7.5 billion dollars annually. Societal impacts include: 1) more individuals with autism across the globe will receive treatment regimens that will enable them to live more fulfilled lives and reach their full potential; 2) families whose children are good candidates for treatment and receive it will experience reduced stress and better family life; and 3) the additional lifetime cost of not effectively treating children with autism, which is approximately ten-fold the cost of treatment, will be reduced. Because high-quality, contextually rich ABA performance data will be collected for the first time, efforts to apply data analytics will contribute in two important ways: a) patterns may be discerned across individuals with autism to better understand variations in autism and create therapies to target these differences; b) expansion of the frontiers of data mining to provide guidance in real time will contribute to a number of areas within and beyond ABA therapy.
-
-The proposed project will optimize therapy outcomes for individuals with autism by transforming agent-based guiding technology into an adaptive and intelligent ABA therapy assistant for supervisors and instructors. The project pushes the boundaries in providing cost-effective, adaptable, intelligent, real-time guidance and data-collection support to instructors that integrates naturally into the instructional process and is easy to learn and use. ABA therapy experts, supervisors and instructors will verify the analyses and resulting guidance incorporated into the technology.  Advanced theories of usability engineering, including some developed by the project team, will be used to build interfaces that supervisors and instructors can intuit without the need for learning new concepts and syntax. The project will utilize the collected logs from multiple sessions with multiple therapy recipients and multiple therapy providers to uncover hidden patterns and assist supervisors in selecting appropriate therapy steps personalized for the individual with autism. The project will build on a large body of recent work in visualization, machine learning on temporal predictive modeling and sequential pattern mining, including some of the previous results of the project team. Special attention will be paid to the recent work in educational data mining and intelligent tutoring."
-},
-
-
-
-
-{
 "title": "HALCYON BIOMEDICAL, INCORPORATED",
 "slug": "halcyon-biomedical-incorporated",
 "date": "01/29/2019",
@@ -5419,24 +4879,6 @@ This award reflects NSF's statutory mission and has been deemed worthy of suppor
 
 
 {
-"title": "INNAVASC MEDICAL, INC.",
-"slug": "innavasc-medical-inc",
-"date": "01/29/2019",
-"awardee": "INNAVASC MEDICAL, INC.",
-"city": "Durham, NC",
-"piName": "Joseph Knight",
-"amount": "$224,975",
-"abstractText": "This SBIR Phase I project will advance the development of a novel arteriovenous graft that will minimize injury and decrease the probability of serious complications for chronic hemodialysis patients. Hemodialysis is a life-sustaining therapy for patients suffering from kidney failure; it requires that blood be withdrawn and cycled through a dialysis machine that performs the function of the failed kidneys. This process must be performed at regular intervals and requires access to the blood with large bore needles. Graft failure complications, many directly attributable to  needle injury, cost the healthcare system billions of dollars per year and lead to significant morbidity and even mortality for patients. There are nearly 2.5 million patients with kidney failure who receive dialysis worldwide, and this population is growing at a rate of 8% per year. Currently, no technology on the market addresses dialysis graft needle injury or graft material degradation due to needle trauma. InnAVasc Medical's novel graft design has the potential to reduce complications associated with aggressive graft compression and inadvertent punctures, thus reducing adverse events and dramatically improving patient outcomes and quality of life while significantly reducing health care costs related to chronic dialysis graft injury. 
-
-This project will substantially advance the development of an innovative device that will simultaneously allow for immediate cannulation following graft implantation (typical is to allow 4 weeks to heal prior to cannulation) and eliminate complications associated with repeated cannulation during maintenance hemodialysis. The ultimate goal of this proposal is to identify and engineer a suitable biocompatible material that will provide the desired mechanical strength to withstand passage of the dialysis needle into undesirable areas, while being sufficiently flexible to allow for optimal blood flow through the device and adequate conformity for patients of all shapes, sizes, and skin integrity. The first technical objective will focus on identifying candidate materials and testing their strength, flexibility and durability. The second objective will take promising candidate materials and develop prototype devices to assess manufacturability and performance. These aims will identify a suitable material that will enable the InnAVasc graft to be marketable to the broadest patient population. Successful completion of this project will provide a prototype device constructed of materials that will simultaneously optimize the desired ratio of mechanical strength to flexibility.
-
-This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria."
-},
-
-
-
-
-{
 "title": "INTUITAP MEDICAL, INC.",
 "slug": "intuitap-medical-inc",
 "date": "01/29/2019",
@@ -5638,24 +5080,6 @@ This award reflects NSF's statutory mission and has been deemed worthy of suppor
 The ACNN will design, pilot and support powerful neuroscientific computational resources for high-throughput, collaborative, and service-oriented data aggregation, processing and open-reproducible science. The ACNN Spoke framework will address three specific problems related to neuroscience Big Data: (1) data capture, organization, and management involving multiple centers and research groups, (2) quality assurance, preprocessing and analysis that incorporates contextual metadata, and (3) data communication to software and hardware computational resources that can scale with the volume, velocity, and variety of neuroscience datasets. The ACNN will build a sustainable ecosystem of neuroscience community partners in both academia and industry using existing technologies for collaboration and virtual meeting together with face-to-face group meetings. The planned activities of the ACNN Spoke will also allow the Midwest Big Data Hub to disseminate additional Big Data technologies resources to the neuroscience community, including access to supercomputing facilities, best practices, and platforms.
 
 This award received co-funding from CISE Divisions of Advanced Cyberinfrastructure (ACI) and Information and Intelligent Systems (IIS)."
-},
-
-
-
-
-{
-"title": "IngateyGen LLC",
-"slug": "ingateygen-llc",
-"date": "01/31/2019",
-"awardee": "IngateyGen LLC",
-"city": "Elizabeth City, NC",
-"piName": "Hortense Dodo",
-"amount": "$225,000",
-"abstractText": "The broader impact/commercial potential of this Small Business Innovation Research (SBIR) Phase I project is to develop a hypo allergenic peanut (HAP) variety, which is expected to save human lives by preventing allergy-related deaths, reduce the incidence of peanut allergy, and increase security, comfort and peace of mind for those individuals sensitive to peanuts and their families, extended families, friends, schools, and restaurants.  HAP also may reduce and/or eliminate the number of institutional lawsuits resulting from peanut allergy events, and reduce and/or eliminate the number of costly food recalls due to peanut contaminations. Reducing allergens may gain back the loss endured by the peanut market, improve the U.S. competitive edge on the international peanut market, and increase sales by 15% to 20% due to an increase market by restaurants, airlines and more. Food allergies cost the US $25 billion annually and peanut is a major contributor. HAP will provide a significant solution to peanut allergy with the potential to reduce the overall cost of food allergy.  
-
-The intellectual merit of this SBIR Phase I project is to produce a commercial prototype for a hypoallergenic peanut as a solution to the serious health concern nationwide for peanut allergy. In previous work, a HAP was developed by concomitant silencing of the genes coding for the three most potent peanut allergens Ara h 1, Ara h 2 and Ara h 3. The HAP was 2 to 85-fold reduced in allergenic potency, and the HAP trait was transmitted to several successive generations in field trials. However, some of the transgenic peanuts were found to be chimeric and to produce non-homogeneous population of seeds with variable levels of allergenic potency. To solve this problem, repetitive somatic embryogenic tissue was used to produce first generation chimera-free HAP (T0 plants). During this Phase I project, the progeny T1 plants will be analyzed using Southern blot and quantitative PCR to confirm the chimera-free status of the plants. Reverse transcriptase quantitative PCR, Western blot, sandwich ELISA and immunoCap assay will be performed to confirm the population of the progeny T2 seeds is homogenous and has undetectable levels of the targeted allergens. A commercial prototype variety for the hypoallergenic peanut will be identified and selected for further studies.
-
-This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria."
 },
 
 
@@ -5926,24 +5350,6 @@ This award reflects NSF's statutory mission and has been deemed worthy of suppor
 
 
 {
-"title": "Isolere Bio, Inc",
-"slug": "isolere-bio-inc",
-"date": "01/31/2019",
-"awardee": "Isolere Bio, Inc",
-"city": "Durham, NC",
-"piName": "Kelli Luginbuhl",
-"amount": "$225,000",
-"abstractText": "The broader impact/commercial potential of this Small Business Innovation Research (SBIR) project is to improve manufacturing technology for the purification of monoclonal antibodies, which are important therapeutics as well as valuable tools in research and diagnostics. Approximately four new antibody drugs are approved every year, and while they can have tremendous clinical outcomes and are sometimes heralded as "magic bullets," they often come with a significant price tag. This puts a strain on patients and insurance companies, limiting the accessibility of antibody-based drugs. Furthermore, antibodies are critical research tools that enhance the understanding of biology. The technology developed in this research project will provide a completely novel method for the purification of antibodies from cell culture that will lower cost, increase manufacturing throughput, and accelerate the time to market for new therapeutics. Commercially, this technology will disrupt the current gold standard - Protein A resin - making antibody purification simpler, faster, and cheaper at all scales: research, clinical, and industrial. 
-
-The intellectual merit of this SBIR Phase I project is to develop technology for improved purification of monoclonal antibodies.  Although upstream production of antibodies in cell culture has improved dramatically, downstream purification has not kept pace, resulting in a production bottleneck and a major market opportunity. The objectives of this SBIR Phase I project are to demonstrate technical and commercial feasibility of a new technology that combines affinity with liquid-liquid phase separation to separate antibodies from cell culture contaminants. It involves an antibody-binding domain fused to a biopolymer with stimulus responsive phase behavior. When this fusion protein is added to cell culture harvest, it binds the antibody and, after triggering the phase separation with salt, pulls the antibody out of solution. The purified antibody can then be eluted from the fusion by lowering the pH. This project aims to 1) optimize regeneration conditions so that the fusion can be reused, 2) evaluate long-term stability, and 3) validate the technology at scale and conduct a head-to-head comparison to the industry gold standard, Protein A resin. The goal is to identify storage conditions that provide a long shelf life for a product that can be reused 10-100 times without compromising antibody yield or purity. The focus of the project is to demonstrate promising capabilities of the technology for use in industrially manufactured monoclonal antibodies, replacing conventional chromatography steps with a simpler and more cost-effective method.
-
-This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria."
-},
-
-
-
-
-{
 "title": "JAQ ENERGY LLC",
 "slug": "jaq-energy-llc",
 "date": "01/30/2019",
@@ -6074,21 +5480,6 @@ The I-Corps Site at JHU fills the fundamental educational disconnect between inv
 Innovation Network.
 
 Participants in the JHU Site include teams from other universities especially those with diverse populations such as University of Maryland Baltimore City, Morgan State University, and Coppin State University, fostering collaboration and economic growth in the city and beyond. Over five years, this grant will impact 150 JHU teams and to a minimum 45 non-JHU teams, each comprised of three team members, for a total of at least 585 participants."
-},
-
-{
-"title": "Johns Hopkins University",
-"slug": "johns-hopkins-university",
-"date": "02/20/2019",
-"awardee": "Johns Hopkins University",
-"city": "Baltimore, MD",
-"piName": "Amir Manbachi",
-"amount": "$50,000",
-"abstractText": "The broader impact/commercial potential of this I-Corps project is to ablate brain tumors and other cranial soft tissues with less infection, better outcomes, and reduced cost compared to current alternatives. Currently, there are around 700,000 individuals diagnosed with brain tumor in the US, with another 80,000 expected to be diagnosed this year (National Brain Tumor Society, 2017). Nearly two thirds, or 54,000, of these patients will undergo surgery as a first course of treatment at one of 5,000 neurosurgical centers in the US. The majority of patients are currently treated with invasive cranial flap resection procedures. Furthermore, the proposed technology may offer a therapeutic option for the 13,000 patients with high-risk primary malignant tumors that may be considered inoperable with current surgical approaches. The thermal ablation medical device market represents a $2.2B opportunity in the US, with ultrasound thermal ablation technology valued at $334M with an annual market growth rate of 13.5% (BCC Research, 2017). This innovation would offer a unique tool for neurosurgeons apart from cranial surgical navigation tools with a $459M US market, which are currently considered the standard of care for cranial surgery.
-
-This I-Corps project will explore a minimally invasive high-intensity focused ultrasound (HIFU) device to ablate brain tumors and other cranial soft tissues, which features a hybrid transducer tip to apply therapeutic ultrasound to the targeted anatomy while simultaneously using ultrasound imaging to visualize the surgery site. Our simulation modeling determined the appropriate parameters for an initial prototype to precisely focus ultrasound and create a lesion using a flexible transducer phased array in a heterogeneous medium volume simulating cerebrospinal fluid and brain tissue (Zhang et al., 2017, AAPM Annual Meeting). These data showed that our system could provide the same efficacy of treatment with two orders of magnitude less power than non-invasive, transcranial HIFU devices. The project team then built a prototype based on the simulation results, and showed proof-of-concept functionality using a bovine serum albumin protein phantom. One of the primary challenges of this project will be to maintain the acoustic performance of the probe as the project moves toward miniaturization of the technology to fit the probe within the brain ventricles. The team will pursue further customer discovery to gain a deeper understanding of the clinical workflow, revenue streams, reimbursement, and regulatory aspects, with the goal to build an evidence-based business plan.
-
-This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria."
 },
 
 {
@@ -6786,24 +6177,6 @@ The intellectual merit of this project is associated with its exploration of aqu
 
 
 {
-"title": "Lux Semiconductors",
-"slug": "lux-semiconductors",
-"date": "06/15/2018",
-"awardee": "Lux Semiconductors",
-"city": "Albany, NY",
-"piName": "Graeme Housser",
-"amount": "$224,949",
-"abstractText": "The broader impact/commercial potential of this Small Business Innovation Research (SBIR) Phase I project is to further the development of a patent pending technology aimed at producing flexible, lightweight, and low-cost semiconductor substrates. These flexible semiconductor films represent the next evolution of the silicon wafer, the foundation of over 90% of today's electronic devices, including computer chips, solar panels, microelectronics, and a wide range of sensors and similar 'internet of things' devices. The silicon wafer, in its current form, is essentially unchanged since its inception over 60 years ago. These wafers, although larger today, remain thick, rigid, fragile, and are limited to circular forms no larger than 450 millimeters (18 inches) in diameter. The ability to produce large-area, high-throughput quantities of this material, in a flexible, more durable format would be truly disruptive, and help to usher in the next generation of affordable, flexible, and pervasive electronic devices. Accelerating the commercialization of this 'wafer 2.0' will help to shape America's high-tech semiconductor manufacturing industry for the 21st century.
-
-The proposed project will focus on the development of this innovative technology at a simulated roll-to-roll prototyping scale, to enhance film crystal quality, repeatability, and electronic properties, while preparing the process for integration into large scale manufacturing. To date, no techniques exist that can produce large-area, highly crystalline silicon or other semiconductor films, that are suitable for high-throughput manufacturing. The technique in this proposed work is a novel, patent pending process, suitable for high-throughput roll-to-roll manufacturing and has several technical advantages that favor high-uniformity crystallization. Low-cost, flexible, wafer-like substrates will open the door for a wide range of electronic devices and fully integrated system-on-chip designs, including sensors, displays, lighting, processors, memory, microelectronics, and photovoltaics. Specific research activities will include optimization of the crystallization process via exploration of operating parameters; improvements and refinements to the prototype chamber equipment; evaluation of intermediate thin-film layers to provide ideal electronic properties and to promote more favorable recrystallization; and, finally, characterization of the resulting semiconductor films using state of the art semiconductor tools at the world's largest nanotechnology focused institute.
-
-This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria."
-},
-
-
-
-
-{
 "title": "Lygos Inc.",
 "slug": "lygos-inc",
 "date": "02/18/2015",
@@ -6876,42 +6249,6 @@ This award reflects NSF's statutory mission and has been deemed worthy of suppor
 
 
 {
-"title": "MEDNET, INC.",
-"slug": "mednet-inc",
-"date": "01/30/2019",
-"awardee": "MEDNET, INC.",
-"city": "New York, NY",
-"piName": "Nadine Housri",
-"amount": "$225,000",
-"abstractText": "The broader impact/commercial potential of this Small Business Innovation Research (SBIR) Phase I project is to put forth a solution to the critical problem of clinical trial enrollment, by improving awareness of clinical trials with physicians through technology that matches physician questions to relevant clinical trials via an online interactive social decision support platform. Patient enrollment is a significant weak link in the development pipeline and a significant pain point for organizations that sponsor clinical trials. More than two-thirds of trial sites fail to meet enrollment goals for a given trial, and up to 45% of study delays are caused by enrollment difficulties. This can result in lost revenues up to $1 million/day. Clinical trials are a critical link between scientific discovery and changes in clinical practice that advance prevention, treatments, and cures for diseases and disability. Increasing awareness of trials among physicians is key in increasing clinical trial enrollment, which in turn is essential in advancing health care practice as well as patient health and quality of life. While the area of cancer is an initial target for improved enrollment, ultimately the proposed solution can be applied to other medical specialties and be scaled globally using the same platform. 
-
-This Small Business Innovation Research (SBIR) Phase I project seeks to drive clinical trial accrual by changing how physicians learn about clinical trials. The major innovation is combining a credible online social platform with powerful natural language processing technology and machine learning techniques to deliver customized clinical trial information to physicians in their decision-making process. For this Phase I project, the key objectives are: 1) To build out a prototype to match clinical trial information to relevant physician questions. Natural language processing (NLP) technology will be created to match clinical questions to related clinical trials so that physicians learn about clinical trials at the time they are seeking information on how to best treat their patients. 2) To conduct a pilot assessment of clinical trial knowledge pre- and post-use. A small subset of users of the social network platform will engage in a comparative assessment, pre- and post-exposure to the clinical trial component, to determine the technology?s impact on clinical trial knowledge.  Successful completion of Phase I will result in a user-friendly platform that matches clinical questions to oncologists and relevant, open clinical trials, and will establish the technical and commercial feasibility of the proposed concept.
-
-This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria."
-},
-
-
-
-
-{
-"title": "MESODYNE INC.",
-"slug": "mesodyne-inc",
-"date": "01/29/2019",
-"awardee": "MESODYNE INC.",
-"city": "Somerville, MA",
-"piName": "Veronika Stelmakh",
-"amount": "$224,362",
-"abstractText": "The broader impact/commercial potential of this Small Business Innovation Research (SBIR) Phase I project is the demonstration of the technical and economic feasibility of a photonic crystal enabled thermophotovoltaic (TPV) system at scales over 10 watts, which would have transformative effects in power generation for portable and remote applications. A small, high energy density TPV power source has the potential to transform multiple markets that currently rely on battery power by reducing the battery weight by 75%. For example, remote scientific instrumentation stations in polar regions rely on 1000-2000 pounds of batteries to operate through the six-month polar night, resulting in high installation costs. Dismounted warfighters carry 10-20 pounds of batteries and would have greater capability if they could carry ammunition and water instead. Small unmanned aerial vehicles would be more effective if they could fly themselves to remote and inaccessible locations, perform their mission for longer, and then return.
-
-The proposed project will develop a new approach to photonic crystal fabrication to greatly improve the efficiency of TPV energy generation - the conversion of fuel into electricity with heat and light as intermediaries. A TPV generator works by burning fuel to heat a selective emitter to incandescence, leading to infrared radiation which drives specialized photovoltaic cells to generate electricity. A photonic crystal selective emitter greatly improves the efficiency of the generator by almost perfectly matching its emission spectrum to the photovoltaic cell. Our photonic crystal is a square array of cylindrical micro-cavities etched into a refractory metal substrate. The research objectives of this project address the technical hurdles that limit the use of photonic crystals in TPV: scalable substrate preparation from commercial foils using a novel high-throughput process; nanofabrication over large flexible substrates using traditional semiconductor manufacturing tools; and integration with the generator by brazing. The anticipated technical results of this project are to develop a process capable of a breakthrough fifty-fold increase in photonic crystal emitter area, to enable photonic crystal fabrication on flexible substrates, and to reduce photonic crystal cost - all leading to a practical TPV generator that meets market demands.
-
-This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria."
-},
-
-
-
-
-{
 "title": "MICROBIAL PULSE DIAGNOSTICS, LLC",
 "slug": "microbial-pulse-diagnostics-llc",
 "date": "01/29/2019",
@@ -6940,24 +6277,6 @@ This award reflects NSF's statutory mission and has been deemed worthy of suppor
 "abstractText": "The broader impact/commercial potential of this Small Business Innovation Research (SBIR) Phase I project will result from the development of a traveling-wave parametric amplifier (TWPA) prototype suitable to be marketed to the Quantum Information Processing community. Quantum computers require extremely sensitive amplifiers operating near absolute zero to amplify weak signals. There are two critical features of this amplifier that will benefit the community directly: 1) the ability to have more qubits per amplifier - essential for large scale quantum computers, and 2) the ability to use a commercial manufacturing process. As quantum hardware continues to scale, so does the number of qubits, making multichannel amplifiers essential. European and Asian investment in quantum technology is growing at an alarming rate. The US is at risk of losing the leading position in this technical space. The commercialization of TWPA technology is an example of technologies required for the US to remain competitive in quantum technology.
 
 This Small Business Innovation Research (SBIR) Phase I project will introduce a TWPA product prototype for the Quantum Information Processing market by addressing some of the interfacing, packaging and manufacturing limitations of experimental devices. Critical to the ability to distribute these amplifiers to the market is a means of manufacturing such devices at scale. A key advantage of the proposed technology is its ease of fabrication and the fact that it can be fabricated using an industry standard process, which will be demonstrated during the Phase I project.
-
-This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria."
-},
-
-
-
-
-{
-"title": "MOMENTUM OPTICS, LLC",
-"slug": "momentum-optics-llc",
-"date": "01/30/2019",
-"awardee": "MOMENTUM OPTICS, LLC",
-"city": "Longmont, CO",
-"piName": "Jeremy Goeckeritz",
-"amount": "$173,673",
-"abstractText": "The broader impact/commercial potential of this Small Business Innovation Research (SBIR) Phase I project is the development of an advanced manufacturing technology that will enable the production of high-quality optical glass lenses that are customizable and affordable, without the use of laborious machining or expensive tooling common in traditional lens manufacturing. The technology aims to reduce lens production costs by at least 5x while increasing throughput by ~6-8x. In addition, the project will address a key industry need to improve integration of optical components with electro-mechanical systems such as those found in compact camera modules. The methods and tools developed here will enable systems integration at a wafer level, thereby simplifying assembly, reducing cost/weight/size and improving the overall performance of many next-generation devices. This outcome will have a significant impact on imaging technology used in smartphones, wearable electronics, miniature aerial vehicles, medical endoscopes, and advanced automotive driver assistance systems. Hence, the project has the potential to benefit a diverse number of industries and strengthen U.S. economic competitiveness within the optics sector. In a broader sense, the technology developed in this project will also help revitalize American manufacturing.
-
-The proposed project will demonstrate a new method of lens manufacturing by leveraging semiconductor processing techniques and developing an innovative lens fabrication tool. The new tool will measure key optical metrics in real-time during lens creation for on-the-fly process adjustments. Closed-loop feedback during fabrication will improve tolerances and yields and produce higher quality lenses compared to traditional methods. This approach represents a paradigm shift in manufacturing as all commercial lenses today are created through iterations of lens forming and ensuing optical metrology. Furthermore, the tool will enable rapid production of customizable lens shapes, including a novel planar lens. The flat lens will be compatible with surface modification technologies such as those used to create electronics and micro mechanical structures, thus enabling, for example, thin film transistors or sensors to be fabricated with the optics at a wafer level. Specific research activities will include (1) designing and constructing manufacturing tools and fixtures, (2) experimentally correlating tool configurations with lens shapes, (3) constructing and characterizing concave, convex and planar lenses and (4) developing a software model of the lenses based on realistic manufacturing constraints.
 
 This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria."
 },
@@ -7416,22 +6735,6 @@ This award reflects NSF's statutory mission and has been deemed worthy of suppor
 
 
 {
-"title": "Medical Innovators Company, LLC",
-"slug": "medical-innovators-company-llc",
-"date": "12/26/2017",
-"awardee": "Medical Innovators Company, LLC",
-"city": "Houston, TX",
-"piName": "Tom Lee",
-"amount": "$224,935",
-"abstractText": "The broader impact/commercial potential of this Small Business Innovation Research (SBIR) Phase I project will be to develop and test feasibility of a web-based software and machine learning technology that is able to empower healthcare teams with community resource information as well as facilitate coordination of post-treatment care. Lack of access to community resources such as housing, food and transportation (also known as social determinants of health) has been associated with negative health outcomes such as unplanned hospital readmissions and emergency room visits. This leads to high healthcare costs. Therefore, healthcare teams (i.e. social workers, case managers and discharge planners) spend a significant amount of time to locate appropriate community resources for their patients. Our innovation will leverage a community of healthcare professionals and the resource providers to ultimately find community resources for patients in a faster and less costly manner. The machine learning technology supported by this award will connect healthcare professionals with relevant community resources that ultimately reduces the cost and time associated with this process. A successful implementation of this technology will lead to improved post-treatment care outcomes for the patients and reduced cost of care.  
-
-The proposed project will develop and test the feasibility of a web-based software platform to empower healthcare professionals to share community resources. Novel machine learning technology will be developed to facilitate appropriate and efficient exchange of community resources. Healthcare professionals using the platform will be able to get onto the platform as well as search and share resources. The machine learning algorithm leverages the relationships of healthcare professionals and resource providers to coordinate community resource sharing. A successful implementation of this algorithm will provide substantial improvements on the ability to acquire timely community resources as compared current methods. The goal of this research is to validate whether the machine learning technology is able to help healthcare professionals identify appropriate community resources."
-},
-
-
-
-
-{
 "title": "Medicool Technologies Inc.",
 "slug": "medicool-technologies-inc",
 "date": "04/04/2018",
@@ -7769,24 +7072,6 @@ This award reflects NSF's statutory mission and has been deemed worthy of suppor
 
 
 {
-"title": "MobIQ Technologies",
-"slug": "mobiq-technologies",
-"date": "01/30/2019",
-"awardee": "MobIQ Technologies",
-"city": "Woodland Hls, CA",
-"piName": "Yuanjie Li",
-"amount": "$225,000",
-"abstractText": "The broader impact/commercial potential of this Small Business Innovation Research (SBIR) Phase I project will result from advancing the application territory of Internet-of-Things (IoT) and 4G/5G/Beyond-5G ecosystems. If successful, the obtained results would directly benefit a large portion of the current 8.4 billion wirelessly "connected things" with an estimated $273 billion market. It will facilitate "always-on, anytime, anywhere" network services and further help enable many emerging IoT applications (e.g., safe driving, remote healthcare, smart city, wearables). The technology is expected to create new business opportunities for IoT vendors, service providers, and mobile virtual network operators. If successful, it will facilitate evolution from an operator-centric network ecosystem to a user/application-centric ecosystem.
-
-This Small Business Innovation Research Phase I project will develop a software-based solution to enabling dependable, software-defined network services for IoT applications. The objective for Phase I is to provide "always-on, anytime, anywhere" network service for billions of IoT devices and applications. Different from the current infrastructure-based solutions (using software-defined networking or network slicing), the proposed technology offers an in-device, SIM-based software solution without infrastructure upgrades or added device hardware. It enables in-SIM visibility to "black-box" mobile network operations, performs in-device optimizations using readily available mechanisms, and offers further value-added cloud services for network-wide optimization and management via crowdsourcing. The technology is readily deployable on today's IoT devices (both low-end and high-end) and provides "must-have" features for two customer segments (validated through NSF I-Corps interviews) - IoT mobile virtual network operators, and IoT application vendors.
-
-This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria."
-},
-
-
-
-
-{
 "title": "Modular Genetics, Inc.",
 "slug": "modular-genetics-inc",
 "date": "04/15/2014",
@@ -7937,24 +7222,6 @@ This award reflects NSF's statutory mission and has been deemed worthy of suppor
 "abstractText": "This Small Technology Transfer Phase I project will realize a sensorized soft robotic hand exoskeleton coupled with an interactive 3D virtual reality (VR) gaming environment that provides fine motor training for stroke patients' hands. There is a currently a lack of available devices that provide fine sensory and motor training of the hand. The potential benefit is to fill this niche market opportunity, especially when considering the high incidence of hand disability due to stroke and other neuromusculoskeletal injuries. This system can provide structured therapy sessions which requires minimal therapist supervision while improving patient engagement which enhances the broader participation. As a complimentary technology for current rehabilitation practice, it has a potential to lower health care and labor costs associated with neurological rehabilitation. The outpatient physical rehabilitation market is a $30 billion industry growing at a rate of 7% in the US, mainly due to the growing elderly population. The robot-assisted rehabilitation market is expected to grow dramatically, reaching $2 billion by 2020. As robot-assisted treatment becomes widely available, the customer base will grow from acute care clinics to long-term rehabilitation centers and finally to home-based care. 
 
 The intellectual merit of this project results from the combination of a soft robotic system with fine motor control synced to VR games for both sensory and motor stimuli. The robotic exoskeleton provides individual joint control to practice complex grasping while the VR environment provides targeted rehabilitation games. This system addresses the fine motor control needs that have not been met by current hand rehabilitation devices, which only offer gross motions. Adaptive algorithms will adjust to the patient's level of ability to accomplish the assigned tasks in virtual game scenarios, providing accessibility for a wide range of population with different levels of severity. There are three main goals for the project. First, we will develop a VR environment simulating real-world hand motion via interaction with objects in an immersive game. Second, we will develop adaptive control algorithms for the soft robotic exoskeleton to provide active assistive motion in performing rehabilitation-oriented tasks in the VR environment. Third, a pilot study will be conducted with both healthy individuals and hand-impaired stroke patients. The Phase I project will produce a system with assistive hand motion in a targeted rehabilitation virtual game environment, which can be tested for efficacy in a larger clinical population of stroke survivors.
-
-This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria."
-},
-
-
-
-
-{
-"title": "NEUROTRAINER, INC",
-"slug": "neurotrainer-inc",
-"date": "01/31/2019",
-"awardee": "NEUROTRAINER, INC",
-"city": "San Francisco, CA",
-"piName": "Jeff Nyquist",
-"amount": "$225,000",
-"abstractText": "The broader impact/commercial potential of this Small Business Innovation Research (SBIR) Phase I project lies not only with athletes, but with the 3 million Americans who suffer a traumatic brain injury each year, and the 40+ million more who are concerned about dementia and seek a way to measure their brain health. Current solutions (typically available only at facilities with trained professionals) assess only significant health changes to cognition. In contrast, our solution provides an affordable, reliable way to measure brain health and to monitor changes after treatment, training, and rehabilitation. Thus, it will be an excellent tool other companies can use to assess various interventions aimed at affecting brain function. The "quantified self" market sells technologies (wearables, DNA tests, software) that collect data to inform and guide health and self-improvement. The total addressable global market is estimated at ~$19B for 2019. The initial target market of customers are those seeking a competitive athletic edge by measuring, tracking, and training cognitive abilities such as reaction time, decision-making, and multitasking. These customers are coaches in high schools, colleges, and high-performance gyms across the US.
-
-This Small Business Innovation Research (SBIR) Phase I project will address the need to combine and harness the power of eye-, hand-, and head-tracking instruments, virtual reality, and cognitive neuroscience to accurately measure and monitor brain function. This Phase I SBIR project will complete four technical objectives: (1) to develop a highly controlled testing environment that can accurately measure the time users (athletes) spend on detecting, processing, and acting on different cognitive tasks; (2) to develop software that can collect reliable data from naturalistic inputs; (3) to develop a set of tasks that users can complete within 30 minutes and that will generate sufficient data for analysis; and (4) quickly process, summarize, and contextualize the collected data and report meaningful results to the athletes and their trainers. Successful completion of these objectives will realize a first-of-its-kind product that provides meaningful insight into the brain with laboratory-quality cognitive assessment in a real-world context.
 
 This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria."
 },
@@ -8181,21 +7448,6 @@ An I-Corps Site at NJIT will create pathway for underrepresented teams to partic
 The Kauffman Foundation has recognized that minorities are underrepresented among entrepreneurs. All entrepreneurs face resource constraints but the barriers to entrepreneurship may be insurmountable for economically disadvantaged students and students who don't have a strong network from which to derive resources. An NSF I-Corp Site at NJIT will draw students from one of the most diverse campuses within the US and will provide early stage funding to women, minorities, and economically disadvantaged participants on a meritocratic basis. 
 
 Leveling the playing field will broaden participation from underrepresented groups and create a new class of technology entrepreneurs and will benefit society by helping to move ideas out of academic silos. Nearly all net new job growth in the US has come from the formation of new companies and the subset of new companies that have grown most rapidly has been technology-based companies, the sorts of technology startups that would be fostered at NJIT."
-},
-
-{
-"title": "New Jersey Institute of Technology",
-"slug": "new-jersey-institute-of-technology",
-"date": "02/04/2019",
-"awardee": "New Jersey Institute of Technology",
-"city": "Newark, NJ",
-"piName": "Wen Zhang",
-"amount": "$50,000",
-"abstractText": "The broader impact/commercial potential of this I-Corps project is to catalyze the development and commercialization of innovative nanobubble technologies in environmental, agricultural and other potential engineering applications. In environmental applications, reactive nanobubble technologies could impact water or wastewater treatment industries, municipal water treatment plants, drinking water disinfection, natural and landscape water management and remediation of impaired water bodies (e.g., by algal bloom). Value propositions include the improved water treatment efficiency (e.g., increased disinfection efficacy), reduced use of traditional hazardous chemicals such as chlorine, and reduced maintenance/operational cost in water remediation. In agricultural fields, irrigation with nanobubble water can significantly improve dissolved oxygen in water by 100-5000% and efficiently deliver oxygenated water and growth elements such as nitrogen to plant roots. Thus, the value propositions include improving crop or plant's growth, health and quality. Moreover, nanobubble water can positively affect turf and grass business and promote reduced or chemical-free fertilization in turf or lawn maintenance and therefore increase ecosystem safety and reduce negative environmental impacts.  
-
-This I-Corps project explores fundamental engineering principles of colloidal bubble systems at nanoscale dimensions. Innovative scientific approaches employ reactive nanobubbles to control and mitigate water pollution as well as support smart agricultural irrigation/fertilization. Specifically, nanobubble technologies are processes that generate ultra-small sizes of bubbles with a diameter of < 1 um dispersed in water or other liquid media. Nanobubbles in water have a long residence time in water due to their low buoyancy and excellent stability against coalesces, collapse or burst, and the formation of bulk bubbles. Therefore, compared to regular bulk or large bubbles, nanobubbles have a higher efficiency of mass transfer due to their high surface areas, which also facilitates physical adsorption and chemical reactions in the gas-liquid interface. Therefore, nanobubble technologies are potentially useful in many industrial and engineering applications, ranging from ultra-sound imaging and intracellular drug delivery, pharmaceutical manufacturing, detergent-free surface cleaning, mining separation, water purification to wastewater treatment. This I-Corps project focuses on the evaluation of unique business models in water pollution control and mitigation as well as irrigation for agricultural applications.
-
-This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria."
 },
 
 {
@@ -8429,19 +7681,6 @@ This award reflects NSF's statutory mission and has been deemed worthy of suppor
 	The project's scientific focus will be on the development of self-assembling DNA nanostructures and on their application toward nanofabrication of electronic, photonic, and biomedical devices. The NCSU team has used DNA as a building material to implement molecular computers, and to organize proteins and metallic nanoparticles with molecular-scale precision, while the Aarhus team is expert in DNA-guided chemistry for programmed synthesis of very large organic molecules. Developing ways to control matter on the nanoscale by exploiting the same construction principles used by biology (i.e. molecular recognition) holds great promise for diverse nanofabrication and biomedical applications. Engineered supramolecular complexes comprised of DNA, polypeptides, and inorganic nanomaterials provide the right length scale, range of physicochemical interactions, and complexity of shapes for interfacing effectively with biological structures. As such, DNA nanotechnology represents a perfect approach for creating custom diagnostic and ?smart? therapeutic agents for medical applications. Likewise, these same principles and materials are ideal for developing bionanofabrication procedures to compete with lithography for generation of electronic devices and circuits. Pursuit of biomimetic materials science, including molecular engineering for bottom-up assembly of complex nanostructures with diverse chemical, biological, photonic, or electronic functions, requires highly interdisciplinary teams. This cross-disciplinary work will therefore provide opportunities for very broad-based educational experiences to the participants. The cross-pollination provided by IRES funded international travel will lead to molecular materials engineering advances which could impact many fields of science and technology through applications in low-power nanoelectronics, programmable nanochemistry, novel biosensors, and smart therapeutics for biomedicine."
 },
 
-{
-"title": "North Carolina State University",
-"slug": "north-carolina-state-university",
-"date": "07/24/2015",
-"awardee": "North Carolina State University",
-"city": "Raleigh, NC",
-"piName": "Daniel Stancil",
-"amount": "$249,855",
-"abstractText": "This U.S.-Czech International Research Experience for Students (IRES) project provides graduate and undergraduate students from North Carolina State University (NCSU) and nearby U.S. universities, North Carolina A&T and Shaw, with early career international research experience at the Czech Academy of Sciences' Institute of Physics, in Prague.  The goal is to contribute to a diverse and globally-engaged science and engineering workforce by providing eighteen U.S. student participants, six annually, with the opportunity to pursue mentored research on wide bandgap materials, i.e., nitride and oxide semiconductors materials.  At the Czech partners' institute, each participant will gain hands-on experience with advanced characterization techniques.  Overall, the research objectives of this IRES project are to study the fundamental and growth related properties of novel wide bandgap semiconductor materials, to identify current technology challenges, and investigate approaches for problem solving.  Such materials are of interest because they exhibit promise for future use in devices that would be capable of operating at high power and high frequency, and in harsh atmospheric conditions or biocompatible environments.  
-
-Under the direction of Principal Investigator Tania Paskova and her Czech counterparts, participant research activities span materials science, surface science, semiconductor physics, and chemistry.  The intent is to work cooperatively to increase our fundamental understanding of the inherent electrical, optical and surface properties of wide bandgap materials as well as their modifications, following a variety of chemical treatments to examine their potential and limitations for energy and biosensing applications.  The new knowledge and improved understanding of the surface properties, polarity, and doping effects in wide bandgap materials with different crystallographic alignments are expected to contribute to future applications, including power electronics, optoelectronics, and chemical and biological sensors. The early career international research experience will expose the U.S. students to current technology challenges and increase their awareness of the importance of novel materials for areas essential to our future quality of life."
-},
-
 
 
 
@@ -8570,24 +7809,6 @@ This award reflects NSF's statutory mission and has been deemed worthy of suppor
 
 
 {
-"title": "O2M Technologies, LLC",
-"slug": "o2m-technologies-llc",
-"date": "06/13/2018",
-"awardee": "O2M Technologies, LLC",
-"city": "Chicago, IL",
-"piName": "Mrignayani Kotecha",
-"amount": "$225,000",
-"abstractText": "This SBIR Phase I project will address a problem of poor oxygen delivery to the core of artificial tissues by providing reliable means of three-dimensional oxygen mapping in vitro and in vivo. The field of tissue engineering regenerative medicine combines the principles of the life sciences, cell biology, and engineering to create functional tissues and organs that can be used for replacing damaged tissues and organs. The public health benefit of replacing damaged tissues and organs is at par with curing cancer. Almost every part of the human body has been considered for replacement. Tissue engineering strives to solve arthritis, Type I diabetes, stroke, vascular diseases, liver and kidney damages, and many other medical problems by replacing or restoring damaged tissues or organs with artificial functional tissues. This project will address the problem of poor oxygen transport in artificial tissue grafts, which is one of the major causes of tissue failure, by developing an oxygen imaging instrument to generate three-dimensional in situ oxygen maps. This instrument will allow scientists to assess oxygen environment over the time of graft production and upon implantation and develop better artificial tissues. The oxygen imager uses cutting-edge radiofrequency and magnet technology and will help create high-tech jobs in the Midwest. 
-
-The oxygen imager will be based on the innovative noninvasive electron paramagnetic resonance oxygen imaging (EPROI) technology. EPROI uses an injectable water-soluble, non-toxic contrast agent, trityl that has oxygen-dependent relaxation rates. EPROI provides absolute partial oxygen pressure (pO2) maps with high accuracy (~ 1 torr) within 1-10 minutes. The oxygen imager will be equipped with a 25 mT magnet and ~720 MHz electronics suitable for in vitro and small animal in vivo oxygen imaging. The instrument will have user-friendly software for image acquisition, image registration, data processing and analysis. This project will develop the magnet with the top loading of samples along with temperature and gas controlled bioreactor sample chamber for in vitro oxygen mapping of artificial tissues. The robustness and performance of the imager will be tested by acquiring oxygen maps of cell-seeded biomaterials. It is expected that the oxygen imager will become an essential tool in tissue engineering labs of academic institutions and biotech companies and will have a major impact on the successful development of regenerative medicine therapies.
-
-This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria."
-},
-
-
-
-
-{
 "title": "ONECYTE BIOTECHNOLOGIES, INC.",
 "slug": "onecyte-biotechnologies-inc",
 "date": "06/14/2018",
@@ -8616,24 +7837,6 @@ This award reflects NSF's statutory mission and has been deemed worthy of suppor
 "abstractText": "This SBIR Phase I project will support the research and development of a new medical device designed to prevent deep vein thrombosis in hospitalized patients. Deep vein thrombosis occurs when blood clots form in the veins and is a common complication in hospital patients that is also a leading cause of preventable death in the United States. This project will develop a device that modifies blood flow patterns in the legs in a new manner designed to specifically activate genetic changes inside the vein that protect against blood clot formation. The goal of this project is to generate a new device that it is capable of creating the desired blood flow patterns in patients while maintaining a high level of device comfort, reliability, and ease of use for clinical staff and patients. In addition to preventing death and disability in the hospitalized population of the US, this project will move a new device towards commercial production, thereby supporting economic growth, job formation, and tax revenue. 
 
 This SBIR Phase I project will leverage novel molecular and cellular discoveries regarding the pathogenesis of deep vein thrombosis (DVT) to create a more effective device to prevent DVT in immobilized individuals who are at high risk for the disease. DVTs form in the sinus behind venous valves, where blood flow is reduced during immobility, promoting blood clot formation. This site is typically protected against clot formation by a powerful genetic program in the endothelial cells that is unique to the valve sinus microenvironment. Loss of this genetic expression program results in a prothrombotic environment that supports clot formation and DVT. Research has further revealed that the valve sinus anti-thrombotic genetic program is activated by a specific pattern of venous blood flow at that site that is driven by muscular activity. During prolonged periods of immobility, common during hospitalization, loss of this flow profile extinguishes the protective endothelial phenotype and supports DVT formation. Ultrasound analysis reveals that current mechanical therapy devices marketed to prevent DVT do not generate the hemodynamics at the valve that are produced by muscular activity due to their methods of action. This project will develop a device that generates a protective hemodynamic pattern in the valve sinus of immobile patients by actuating blood flow that accurately reproduce muscular activity. To accomplish this goal the device design alters the primary physical manipulation strategy of other existing devices away from calf and thigh compression and instead induces rapid calf expansion to replicate the effect of muscular activity on venous blood flow. Vascular ultrasound studies demonstrate that this actuation method successfully recapitulates the venous hemodynamics of the active limb required to support expression of the protective genetic pathway in the valve sinus. This SBIR Phase I project will optimize the device design to create this actuation while also improving patient comfort, mitigating common risks, and facilitating ease of use by clinical staff. This project will address key risks in advancing a medical device into clinical testing and use, thereby enabling the device to bridge to a phase of commercial manufacturing and use.
-
-This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria."
-},
-
-
-
-
-{
-"title": "OSSO VR INC",
-"slug": "osso-vr-inc",
-"date": "01/31/2019",
-"awardee": "OSSO VR INC",
-"city": "Belmont, CA",
-"piName": "Justin Barad",
-"amount": "$222,596",
-"abstractText": "The broader impact/commercial potential of this Small Business Innovation Research (SBIR) Phase I project will lead to broader adoption of newer medical technologies and increased revenue for medical device companies, decreased training costs, and decreased liability from misuse or lack of appropriate training on medical devices. Research has shown that surgical skill is directly related to a variety of patient outcomes, yet there are few tools that can reliably and affordably measure surgical proficiency. Providing objective measurements of surgical proficiency is not enough; the assessment method must also identify areas of difficulty during a task to improve the surgeon's future performance. The proposed innovation is an objective and scalable way to measure procedural competency using head and hand motion-tracking data collected in a surgical simulation and applying novel, deep-learning algorithms to the analysis. By providing surgeons with real-time feedback during training, this project will allow surgeons to rapidly improve training on specialized devices, thus leading to wider adoption of new technology. Adoption of this surgical assessment platform in medical schools and operating rooms across the country will enable an objective assessment of surgical proficiency, thus reducing training time and costs and lowering risk of medical error due to underdeveloped skills.
-
-This Small Business Innovation Research (SBIR) Phase I project seeks to develop an innovative, deep-learning Surgical Training and Assessment Platform to increase the commercial viability of a Virtual Reality (VR) surgical training program. VR surgical training technology holds enormous potential in improving the efficiency of learning by allowing for unlimited practice and rehearsal of surgical procedures; however, without the ability to reliably assess performance, such platforms cannot be used to their full potential. This application will translate the simulation environment into a vehicle for technical skills assessment to prevent trainees from graduating to independent practice without first proving competency in critical areas. The novel, proprietary software algorithms developed in this proposal will allow for the above applications and broad improvements to training efficiency and patient safety through the tracking and analysis of hand and head motion as a surrogate measure for surgical expertise. The Surgeon Assessment Platform will be developed by determining the most vital head and hand motion data to collect and validating the resulting assessment dataset in a small proof-of-concept study, while meeting the challenge of collecting, storing, and analyzing such a large, high-fidelity dataset.
 
 This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria."
 },
@@ -8749,21 +7952,6 @@ The OSU I-Corp Site impact includes the creation of STEM-related startups, licen
 "abstractText": "The broader impact/commercial potential of this I-Corps project is the ability to provide an easily accessible and reliable national sewer data inventory that will assist municipal utility districts in developing effective and proactive maintenance and rehabilitation plans, hence reducing the overall maintenance costs of sewer systems as well as avoiding costly repairs due to pipe failures. Moreover, if the technology is successfully commercialized, sewer officials such as National Association of Sewer Service Companies (NASSCO) will better understand the current and trend of sewer systems condition nation-wide; as such, they will have proven justification to secure adequate federal funding for sewer system improvements. This technology will support the nation's agenda of improving the condition of the aging and deteriorating sewer infrastructure, which will promote societal wellbeing and support the sustainable development of the society. In addition, it has been expected that the availability of national sewer inventory will help the industry to find new uses of sewer data and new collaborations. The participation in the NSF I-Corps program affords graduate students a great opportunity to cultivate their skills in innovation and entrepreneurship, which may lead to the creation of start-up companies and more job opportunities.
 
 This I-Corps project addresses common concerns -- data availability and data quality -- raised by sewer industry stakeholders. Understanding the current condition and deterioration mechanism of sewer pipe networks is a critical step in improving national wastewater systems, which requires easily accessible and reliable data. Although sewer inspection data have been collected by various utility districts across the country for many years, the data is not in a usable and uniform format for asset management purposes. This technology provides a visual tool to evaluate and report data quality issues and an innovative algorithm to resolve these issues. The preliminary results show that, by applying the proposed quality assurance algorithm to six datasets obtained by the team, the percentage of good quality inspection data increased from 50%-75% (pre-process) to 95% (post-process). More importantly, the proposed technology includes a comprehensive, uniform, and quality-assured national sewer inventory that documents the historical and current conditions of sewer pipelines. Through the regional NSF I-Corps site program, it was concluded that there is a tremendous need for the proposed technology among utilities and contractors because of the time and cost savings that can be realized in inspection processes and rehabilitation plans.
-
-This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria."
-},
-
-{
-"title": "Oklahoma State University",
-"slug": "oklahoma-state-university",
-"date": "02/05/2019",
-"awardee": "Oklahoma State University",
-"city": "Stillwater, OK",
-"piName": "Stephanie Link",
-"amount": "$50,000",
-"abstractText": "The broader impact/commercial potential of this I-Corps project is the opportunity to enhance inexperienced research writers? written science communication by using a self-paced, web-based research writing software that provides on demand instruction, practice, and feedback throughout the writing process. If successfully commercialized, the technology can transform how both educational and professional spheres approach the research writing process and understand disciplinary writing conventions. Hence, the technology can contribute to an increase in the research competitiveness of individual research programs. In addition, the availability of state-of-the-art writing resources will help promote science by enhancing the public dissemination of research results. Participation in the NSF I-Corps program also offers a great opportunity for graduate students to develop skills in entrepreneurship and innovation, which may lead to a start-up venture that can increase the economic competitiveness of the state.
- 
-This I-Corps project investigates the commercial potential of the technology, which leads users through a series of interactive, instructional videos that help users become critical readers of how language is used in discipline-specific, research writing in order to become better research writers. Users integrate their new knowledge of language use into practice tools derived from the field of applied linguistics. These tools help users analyze and discover language use patterns that are used to effectively structure a scientific argument. Automated feedback then guides users toward more purposeful analysis of writing. Studies have demonstrated that these tools can heighten user?s awareness of how to construct an original research argument while increasing their self-efficacy in becoming successful published research writers.  Furthermore, the tools have helped users become more independent writers, requiring users to seek less guidance about writing from research mentors who need the extra time to focus on their own research agendas.
 
 This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria."
 },
@@ -9147,24 +8335,6 @@ This award reflects NSF's statutory mission and has been deemed worthy of suppor
 
 
 {
-"title": "PYRAN LLC",
-"slug": "pyran-llc",
-"date": "01/29/2019",
-"awardee": "PYRAN LLC",
-"city": "Madison, WI",
-"piName": "Kevin Barnett",
-"amount": "$224,752",
-"abstractText": "The broader impact/commercial potential of this Small Business Innovation Research (SBIR) Phase I project lies in the replacement of key petroleum-based chemicals used in the paints and coatings industry, representing a $7B industry that is growing at 7% per year. The total addressable market includes 3 similar diols: 1,4-butanediol (1,4-BDO), 1,5-pentanediol (1,5-PDO), and 1,6-hexanediol (1,6-HDO). In this project, 1,5-PDO is produced from furfural, a chemical made from renewable agricultural residues such as corn cobs and wood chips.  Bio-based 1,5-PDO can be readily substituted for 1,6-HDO in many applications due to its analogous molecular structure and is similar enough to 1,4-BDO that it can be substituted for it in some applications. Rigorous technoeconomic analysis shows that this "green" 1,5-PDO can be made at 3x lower costs than oil-derived 1,5-PDO, opening new opportunities for its use as a renewable monomer for paints, coatings, adhesives and plastics.
-
-This Small Business Innovation Research (SBIR) Phase 1 project will allow the technology to be developed with commercially available fixed bed pellet catalysts to prepare the technology for scale-up.  Thus far, the technology has been demonstrated in small scale fixed bed reactors with powder catalysts.  A commercial scale process requires the use of pelletized catalysts due to inoperable pressure drops over powder catalysts in commercial-scale reactors. The higher flowrates inherent with larger scale reactors cannot flow through the tightly packed powder catalysts and cause a large degree of backpressure upstream of the catalyst bed; thus, pelletized catalysts must be sourced from commercial vendors and tested for activity and stability prior to scaling.  The next phase in technology development is to scale up the process by >100x, enabling testing and validation of larger amounts of the bio-based 1,5-PDO product in potential customers' product lines.  This SBIR Phase I project will also allow completion of the process design work needed to estimate the economics at commercial scale.
-
-This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria."
-},
-
-
-
-
-{
 "title": "ParaBricks LLC",
 "slug": "parabricks-llc",
 "date": "09/17/2018",
@@ -9456,52 +8626,6 @@ This SBIR Phase II project will use a biotechnology approach to increase the ess
 
 
 {
-"title": "Plasmonic Diagnostics LLC",
-"slug": "plasmonic-diagnostics-llc",
-"date": "05/29/2018",
-"awardee": "Plasmonic Diagnostics LLC",
-"city": "Columbia, MO",
-"piName": "Syed Barizuddin",
-"amount": "$224,876",
-"abstractText": "This SBIR Phase I project is intended to develop a noninvasive, ultra-sensitive molecular
-detection system for Tuberculosis (TB). Although the prevalence of TB has diminished, it still
-remains the second leading cause of death from an infectious disease. The latest global TB report
-from the World Health Organization with data compiled from 205 countries put the figures at 1.5
-million fatalities and 9.6 million infections annually. The proposed technology uses the nano-
-Plasmonic Grating (P-GRAT) properties to enhance the detection signal of the TB biomarker by
-more than 100X. This results in detecting concentrations in femto-gram/milliliter range resulting
-in early detection and treatment. The specificity, faster results, low cost/test and ease of use,
-makes this system a substantive innovation in the TB diagnostic market. The TB testing market
-accounts for $1.5 billion annually of which North America is the second largest in terms of
-generated revenue due to the higher pricing for TB detection. The proposed technology will
-benefit the patients with early diagnosis and provide the health care professionals with early
-treatment options. With all the advantages this technology has to offer, it is expected to gain a
-significant share in the market place and generate a revenue stream.
-
-The main limitation of the immunoassays is their inability to detect extremely small fluorescence
-signals that are associated with ultra-low concentrations of biomarkers. The proposed nano-
-Plasmonic Grating (P-GRAT) technology can overcome this limitation due to its exceptionally
-efficient light coupling, reduced scattering, high signal-to-noise ratio and directional
-excitation/emission. As a result, a fluorescence enhancement of P-GRAT is 100X or higher
-compared to a glass substrates or polyurethane well plates. Such enhancements translate to ultrasensitive
-detection and early diagnosis. Commercial immunoassays require hours to days to
-achieve pg/ml sensitivity. In comparison, P-GRAT can detect pg/mL range concentrations in less
-than three hours. P-GRAT utilizes a simplified design to exclude expensive optics like laser
-sources, high-magnification objective lenses and filter cubes. The use of 3-D printed parts to
-fabricate the system and use a smartphone as the detector further reduces the cost. We intend to
-develop and commercialize a noninvasive, ultra-sensitive (fg/ml) molecular detection system for
-Tuberculosis (TB). TB specific biomarkers Lipoarabinomannan (LAM) and Interferon gamma
-(IFN-g) will be detected in urine and saliva. P-GRAT is a platform technology and can easily be
-adapted for the ultra-sensitive detection and diagnosis of other diseases, such as Zika, Ebola,
-HIV and Cancer.
-
-This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria."
-},
-
-
-
-
-{
 "title": "PlayPosit, Inc.",
 "slug": "playposit-inc",
 "date": "03/05/2018",
@@ -9532,22 +8656,6 @@ This award reflects NSF's statutory mission and has been deemed worthy of suppor
 "abstractText": "The broader impact/commercial potential of this Small Business Innovation Research (SBIR) Phase II project will be to transform commercial construction through the democratization of scanning and automation of Building Information Modeling (BIM). Constant design and change management is a unique challenge that is costing the US construction industry billions of dollars annually. In order to prevent such a huge economic loss, this industry is in the path for a digital revolution. BIM is known as the first truly global digital technology that could revolutionize the construction industry. However, BIM usage is currently limited because it is only viable for large-scale projects. The primary reason is that the process is too laborious and expensive. The proposed technology will completely eliminate these barriers. Its ease-of-use, ubiquity of the capturing device, and automated object detection democratizes as-built BIM modeling. Enormous value could be generated due to streamlining and data management capabilities that are offered by the technology in the form of accelerated project schedules, reduced numbers of requests for information and change orders, and timely identified design clashes. This will pave the way to increase the competitiveness of the US construction industry, by enabling new products and services that support automatic BIM modeling.
 
 This Small Business Innovation Research (SBIR) Phase II project investigates the technical and commercial feasibility of an automatic and inexpensive solution for the Scan-to-BIM problem in the construction industry. Scan-to-BIM refers to 3D scanning of a physical structure and converting the captured raw spatial data into an object-oriented, semantically-rich model. Although there are a few technologies that aim to facilitate this process, the 3D modeling component remains primarily a manual and time-consuming task. When using the proposed technology, a non-technical worker videotapes the target structure. The video is automatically sent to a server for processing. A unique videogrammetric 3D reconstruction engine reconstructs the 3D geometry of the structure in the form of a 3D point cloud. It then extracts object hypotheses from key video frames and spatial data in the form of observations. Afterwards, it optimizes a novel coherent joint probability distribution function and infers a 3D layout. The outcome is an object-oriented 3D representation of the structure with embedded geometrical attributes and property sets. The main novelty of this technology lies in a hybrid approach that combines low-level segmentation with high-level space modeling. This advances the state-of-the-art in robust intelligence, particularly the interpretation of complex, unstructured data."
-},
-
-
-
-
-{
-"title": "PolyDrop",
-"slug": "polydrop",
-"date": "02/12/2016",
-"awardee": "PolyDrop",
-"city": "Seattle, WA",
-"piName": "Volha Hrechka",
-"amount": "$1,176,123",
-"abstractText": "This Small Business Innovation Research Phase II project aims to continue the development of a family of new nanostructured conductive additives for use in high-performance coatings and composite resins. Static charge buildup from the environment is a critical problem in a number of vehicular applications, which increasingly utilize lightweight components constructed from non-conductive plastic or composite materials.  Static charge buildup interferes with electronic components, such as distributed sensors, so that mitigation of this effect is essential for safe vehicle operation. The design of lightweight vehicles using composite materials, which requires high-performing antistatic coatings, will lead to large reductions in fuel consumption and carbon emissions in transportation.  In 2011, emissions from transportation accounted for 28% of U.S. greenhouse gas emissions. Modern aircraft designs, utilizing composite materials, show more than 20% reduction in fuel consumption compared to traditional vehicles.  Imminent increases in fuel efficiency standards in automobiles will also drive manufacturers to adopt the use of composite materials. The development of the proposed antistatic coatings is essential to enabling these new lightweight material technologies.
-
-The new additives are based on the synthesis of self-assembling nanostructures from conductive polymers and structure-directing agents. When successfully incorporated in commercial paints and primers, the conductive properties of the coating are enhanced without compromising adhesion and durability. In this Phase II effort, we will further optimize these additives, based on key customer requirements, and develop a plan to scale up their production tenfold with reduced waste and production time.  Corrosion properties for marine applications will also be evaluated, and the product portfolio will be expanded to address follow-on applications."
 },
 
 
@@ -9743,21 +8851,6 @@ This I-Corps project integrates the smartphone with external hardware and dispos
 This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria."
 },
 
-{
-"title": "Purdue University",
-"slug": "purdue-university",
-"date": "02/05/2019",
-"awardee": "Purdue University",
-"city": "West Lafayette, IN",
-"piName": "Alexey Shashurin",
-"amount": "$50,000",
-"abstractText": "The broader impact/commercial potential of this I-Corps project lies in the broad field of synthesis and application of protective coatings. One specific commercial application is synthesis of anti-corrosive coatings on variety of substrate materials. Owing to the unique intrinsic properties of graphene, the system enables lower coating cost and faster synthesis times. These protective coatings are utilized in multiple industries including aerospace, automotive, and oil and gas. This project will explore the commercial potential of the core technology and will inform further technical developments and possible commercialization paths and will create new research and commercialization thrusts in the overall field of plasma nanoscience.
-
-This I-Corps project is focused on advancing the innovative approach of Radio Frequency plasma Chemical Vapor Deposition (CVD) technique for synthesis the large quantities of graphene coatings on various substrate materials. Recent research advances indicate that graphene can be effectively generated in the plasma discharge environment. Plasma CVD synthesis has been shown to be effective in the production of monolayer and several-layer sheets of crystalline films of graphene characterized by high quality and low structural defects. In addition, utilization of plasma flux at synthesis enhances mobility and reactivity of the species participating in the synthesis process on the substrate's surface in comparison with that when atomic flux is used.  This enables synthesis at lower temperatures and widens range of substrate materials that can be used in the synthesis.
-
-This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria."
-},
-
 
 
 
@@ -9923,24 +9016,6 @@ This award reflects NSF's statutory mission and has been deemed worthy of suppor
 
 
 {
-"title": "ROOT AI, INC.",
-"slug": "root-ai-inc",
-"date": "01/29/2019",
-"awardee": "ROOT AI, INC.",
-"city": "Somerville, MA",
-"piName": "Joshua Lessing",
-"amount": "$220,982",
-"abstractText": "The broader impact/commercial potential of this project affects one of the most critical problems facing the United States agricultural industry, a shortage of available labor.   This shortage has had a particularly pronounced effect on the fruit and vegetable industry, where even a brief loss of labor can result in a total loss of harvestable products.  More recently, U.S. produce suppliers have been forced to rely heavily on imported produce sourced from greater distances and of lower quality.  Advancements in agricultural technology have already dramatically improved the efficiency of produce farms in terms of land utilization and water consumption by enabling produce to be grown indoors using highly sophisticated commercial greenhouses, automated nutrient delivery, and light control.  However, to date, these commercial greenhouses still lack a comprehensive solution for automating routine harvesting, pruning, and crop care labor tasks.  Thus, newly developed agricultural technologies which can automate these tasks have the potential for substantial commercial impact by making domestic farming operations more profitable and efficient.  Commercial adoption of automated harvesting technology will also benefit consumers by enabling higher quality produce grown closer to market and position the U.S. agricultural sector as a new area of growth for highly skilled technical jobs.
-
-This Small Business Innovation Research (SBIR) Phase I project will focus on the development of new deep learning techniques used to identify harvestable fruits (initially tomatoes) using computer vision cameras and to accurately estimate their orientation and connectivity (bunches of fruits that are connected by the same stem or vine).  Successful development of a method capable of running in real-time would resolve substantial technical risks which inhibit the ability to commercialize robotic automated harvesting solutions.  Such advancements would also contribute newfound insights to the broader computer vision and robotic manipulation communities into the unique challenges that sparse and deformable ?vine? like structures present to traditional methods of object pose estimation and grasping.  In the later portion of this Phase I project, Root AI will incorporate these new methods of sensing tomato fruit orientation into an improved motion and task planning system which uses the additional information to intelligently plan a complex movement path to harvest individual fruits in congested and heavily occluded natural growing environments.
-
-This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria."
-},
-
-
-
-
-{
 "title": "RUMI SCIENTIFIC, INC.",
 "slug": "rumi-scientific-inc",
 "date": "01/29/2019",
@@ -9951,24 +9026,6 @@ This award reflects NSF's statutory mission and has been deemed worthy of suppor
 "abstractText": "The broader impact/commercial potential of this Small Business Technology Transfer (STTR) Phase I project is to develop a widely applicable, innovative pipeline for drug discovery against rare genetic disorders. While each orphan disease affects a small fraction of individuals, thousands exist, affecting 400 million people world-wide. The challenge to bring therapies to the clinics for diseases that currently have no cure, which is coupled with an expanding market.  Orphan drug sales are expected to reach $262 billion in 2024.  Over the last few years, organoids made from human embryonic stem cells have raised the possibility of understanding the mechanisms leading to a genetic disorder by reconstituting, in vitro, a similar arrangement of the specific cell populations that are implicated in a certain disease. By comparing organoids made from healthy cells to those carrying the associated genetic mutation, drug testing may be performed in vitro to discover new therapeutics. However, this potential has not been harnessed due to technical limitations. In this proposal, as a necessary step towards this goal, the plan is to develop the analytical tools based on machine learning algorithms that will allow the analysis of drug therapeutic potential and toxicity when applied to organoid cultures.
 
 The intellectual merit of this STTR Phase I project is to develop and validate an unbiased analytical scheme to quantify the results of high-throughput phenotypic screens performed on micropattern organoids. Organoids have the potential to revolutionize the pre-clinical part of the drug discovery pipeline as they provide unbiased endpoints, they are disease relevant, and sensitive to toxicity. However, the use of multi-cellular organization in a high-throughput platform requires analysis of large amounts of information-rich microscopy images. The tools developed in this proposal will allow turning the biological complexity of tissue scale phenotypes into information predictive of the clinical potential of a compound. In the first aim, the goal is to demonstrate that the proposed method allows quantifying compound toxicity. The plan is to calibrate the toolbox against known methods quantifying cell viability, applying known toxic agents and withdrawn drugs. This will constitute a stringent test for the efficiency of the proposed method at quantifying deleterious effects of a compound. Second, the goal is to optimize the algorithm to measure therapeutic potential, using positive controls on micropattern-based organoids modeling Huntington's Disease (HD). The objective is to demonstrate the ability to analyze results of a screening campaign aimed at phenotypic reversal on the HD organoids, and detect hit molecules from a small library of FDA-approved drugs.
-
-This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria."
-},
-
-
-
-
-{
-"title": "RUTGERS, THE STATE UNIVERSITY OF NEW JERSEY",
-"slug": "rutgers-the-state-university-of-new-jersey",
-"date": "02/05/2019",
-"awardee": "RUTGERS, THE STATE UNIVERSITY OF NEW JERSEY",
-"city": "Newark, NJ",
-"piName": "Judith Deutsch",
-"amount": "$50,000",
-"abstractText": "The broader impact/commercial potential of this I-Corps VSTEP Digital Health project is to increase clinician efficiency and engagement with therapy for persons with neurological conditions such as post-stroke and with Parkinson Disease.   Using off-the shelf hardware and custom software decreases cost both for equipment purchase and providing care. It also facilitates that clinics of all sizes can adopt innovative technology in treatment of patients.  Customization of therapy may increase clinician productivity, enhance outcomes and decrease treatment time. Insights on patient and clinician performance can help clinics and insurance providers lower costs and provide better care. Societal impact may be achieved by providing an engaging therapy that increases socialization and decrease loneliness and most importantly increases activity and participation in society. The project will facilitate a decision about whether to pursue further development and commercialization of the technology.
-
-This I-Corps project seeks to explore the commercial potential of The VSTEP Digital Health Platform which is an integrated solution for the comprehensive examination and treatment of balance, mobility, coordination and fitness deficits of persons with neurologic conditions. These deficits which occur frequently after neurologic diagnosis, persist when not treated and interfere with activity and participation in societal roles. The technology integrates motion and heart rate sensing with activity based engaging therapeutic games presented in a virtual environment. It also has an examination suite which uses standardized assessments that guide the therapeutic activities. Customization of the therapy ensures that the patient's goals are achieved and the clinicians? insights and reasoning for care are incorporated with the technology.
 
 This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria."
 },
@@ -10018,24 +9075,6 @@ This award reflects NSF's statutory mission and has been deemed worthy of suppor
 "abstractText": "This Small Business Innovation Research (SBIR) Phase II project focuses on the development of a low-cost, wireless, and energy harvesting environmental sensor, and a data aggregation / visualization platform to enable effective communication of data to users and control systems. This project addresses major barriers in our main market, the application of IoT to the buildings sector, where complexity is encountered in the placement and powering of sensors in monitoring locations where access is limited. By reducing the upfront and maintenance costs of wireless sensor networks, the project allows cost-effective building sensor data collection of unprecedented longevity and density. These rich data sets in turn enable myriad benefits, including more effective building management controls and in-depth automated energy evaluations. The commercial availability of a low-cost, wireless, energy-harvesting environmental sensor would enable high-granularity sensing, feedback, and control to several additional markets including industrial, agricultural, and any other market application that would benefit from monitoring where power or access is in short supply. 
 
 This Small Business Innovation Research Phase II project focuses on developing a low-cost, wireless, energy-harvesting environmental monitor using commercially available components and standard processes. An energy harvesting sensor of this type is not available commercially, and is uniquely enabling for building energy auditing and controls, supporting a new generation of automation and systems integration while eliminating the cost of extensive powered sensor installation or battery maintenance. This device was developed through Technology Readiness Level (TRL) 7 in Phase 1 of the SBIR program, in parallel with supporting data infrastructure, including dynamic cloud databases, data access via API methods and a beta data visualization platform. Phase II of the program aims to expand the scope of the low-cost, wireless, energy-harvesting environmental sensor from a network of low-power, short-range devices to a plug-and-play building-wide sensing solution, which includes the incorporation of additional hardware elements, including routers to extend the range of the low-power devices, and the development of automated data analysis strategies to extract valuable building information for the end-user."
-},
-
-
-
-
-{
-"title": "Raydiant Oximetry, Inc",
-"slug": "raydiant-oximetry-inc",
-"date": "01/31/2019",
-"awardee": "Raydiant Oximetry, Inc",
-"city": "Mountain View, CA",
-"piName": "Nevan Hanumara",
-"amount": "$225,000",
-"abstractText": "This SBIR Phase I project is developing a breakthrough technology to non-invasively monitor fetal oxygen levels in utero, to enable the more accurately detection of fetuses in distress and facilitate safer births for mothers and babies. Currently, obstetricians struggle with a 50-year old monitoring technology, which reports fetal heart rate and maternal contractions, and that is associated with an 89% false positive rate for detecting babies in distress. This is a major contributor to high cesarean section rates worldwide and up to 40% in some US hospitals. Because of the costs, risks for mothers and negative implications for babies' health, C-section rates are coming under scrutiny from insurers and accreditors, however, clinicians lack the means to accurately identify oxygenation starvation and, to date, no non-invasive means of directly measuring fetal oxygenation has been developed. Raydiant's system builds off traditional pulse oximetry and will employ safe levels of light, through the mother's abdomen, to monitor fetal pulse and report oxygen saturation, the crucial, but missing diagnostic. This technology will be applicable to over 2.9 million births per year in the US as an enhancement to traditional monitoring whenever a heart rate signal of concern is observed. Both the absolute oxygenation value and its trend over time will enable more informed decision making throughout the birth process.
-
-This project pushes the fundamental boundaries of pulse oximetry and bio-photonics. Unlike traditional finger pulse oximetry, sensing non-invasively through the maternal abdomen presents a body in a body problem, where the fetal pulse signal is orders of magnitude weaker than and intertwined with the maternal. Photons are scattered and absorbed by multiple tissue layers and there are tradeoffs between signal strength, noise and the ratio of fetal to maternal signal. Non-homogeneities from subject to subject makes calibration difficult. Addressing these challenges will require innovation in photonics hardware and signal processing and this proposal has a three specific aims: the development of a specific sensor hardware architecture that will facilitate detection of the fetal signal; development of Raydiant's algorithm to separate fetal from maternal signal, reject noise and report saturation; and validation of the combined system in a pregnant animal model, where fetal oxygenation levels are actively controlled and compared to the device reading. This proposal encompasses developing a second generation prototype system and represents critical technology de-risking aiming towards a commercial system for integration with current monitoring technology and clinical practice.
-
-This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria."
 },
 
 
@@ -10247,24 +9286,6 @@ Small Business Innovation Research (SBIR) Phase 2 project addresses distributed 
 "abstractText": "This Small Business Innovation Research (SBIR) Phase II project will enable video-rate three-dimensional (3D) imaging within two-photon microscopes (2PMs) by developing novel deformable membrane mirror (DMM) technology for fast, precise focus control. As a subset of laser scanning microscopes (LSMs), 2PMs achieve very high spatial resolution by using a focused, high-power laser beam to excite fluorescence via the simultaneous absorption of two low-energy infrared photons to stimulate emission in the visible spectrum. Because of the increased resolution, and increased penetration of infrared light into tissue compared with other LSM methods, 2PMs have become widely accepted for use in the life sciences, specifically for neuroscience. The DMM technology developed for this project will address the $165 million 2PM market by delivering an electrically tunable optic capable of simultaneously controlling focus and aberrations while operating an order of magnitude faster than competitive technologies. The 3D imaging capabilities enabled by this technology will propel new research in the field of neuroscience aimed at solving widespread, chronic medical problems like stroke and Alzheimer's disease. Once the 2PM entry market is addressed, this technology will be refined to address the much larger $5.8 billion 3D laser printing market. 
 
 During the Phase I project, new mirror coatings were developed to handle the high-power lasers used in 2PMs. With the core DMM technology in place, this Phase II project is aimed primarily at control of mirror actuation and shape for reliable use in 2PMs. The first objective of this Phase II project will develop electronics for robust control of mirror actuation and shape. Objective two will center on refining the core DMM technology and fabrication methods to enable position sensing of the membrane and improve mirror stroke to satisfy customers in 2PM markets. The final objective will involve the creation of optical and mechanical assemblies and modules for incorporating the DMM technology into key microscopes. The result of this Phase II will be a market-ready DMM product with active focus control to address the growing 2PM market.
-
-This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria."
-},
-
-
-
-
-{
-"title": "Robotic Materials Inc",
-"slug": "robotic-materials-inc",
-"date": "01/29/2019",
-"awardee": "Robotic Materials Inc",
-"city": "Boulder, CO",
-"piName": "Nicolaus Correll",
-"amount": "$225,000",
-"abstractText": "The broader impact/commercial potential of this project is to enable a new generation of collaborative robots that are capable and safe. Collaborative robotics is poised to revolutionize manufacturing where they will enable better utilization of factory space and machines, reduce energy cost, and mitigate labor shortages. Safe operation is a critical factor for successful operation of collaborative robotics, especially if they are mobile. The proposed project will demonstrate that tactile sensing skins can make robots safer, more collaborative, and manufactured at reasonable cost. The proposed task will also contribute to workforce development and enhance scientific understanding in the critical fields of robotics, soft robotics, and artificial intelligence, as well as providing opportunities for local students.
-
-This Small Business Innovation Research (SBIR) Phase I project will investigate a novel type of tactile sensing skin to improve robot safety and its ability to interact with human users. Unlike previous work, the proposed skin can detect obstacles from a distance of up to 20cm, as well as measuring contact and force. Also, the ability to detect user gestures such as tapping, rubbing or poking, opens new avenues for human-robot interaction and will enable the study of truly collaborative robots. The proposed research and development project will overcome the following key challenges that stand in the way of commercializing the technology: scaling from single patches to full-body sensing skins, fusing proximity data collected from the skin with those provided by conventional 3D sensors, and demonstrating its benefits in a series of real-world use cases.
 
 This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria."
 },
@@ -10574,42 +9595,6 @@ This award reflects NSF's statutory mission and has been deemed worthy of suppor
 
 
 {
-"title": "SANGUINE BIOSCIENCES, INC.",
-"slug": "sanguine-biosciences-inc",
-"date": "01/31/2019",
-"awardee": "SANGUINE BIOSCIENCES, INC.",
-"city": "Sherman Oaks, CA",
-"piName": "Gerald Lee",
-"amount": "$224,981",
-"abstractText": "The broader impact/commercial potential of this Small Business Innovation Research (SBIR) Phase I project is to enable researchers to recruit participants for clinical trials more quickly and reliably. A major problem in medical research is that a majority of clinical trials are delayed or canceled because of insufficient recruitment of eligible participants. By developing an independent (third-party) data aggregation platform for detailed electronic patient data through this project, researchers will be able to efficiently reach a large pool of potential participants for trials, and increase the likelihood of trial success. The resulting platform will create a much more efficient recruitment system, as the data is shared among the broader research community rather than managed by any individual research organization. With subscriptions and fees per enrolled patient, the platform will be able sustain itself while at the same time lowering recruitment costs for researchers. More broadly, the greater ability to design and execute successful clinical trials will be a huge benefit to the medical community and accelerate the pace of research and new product development. 
-
-This Small Business Innovation Research (SBIR) Phase I project seeks to improve the speed, accuracy, and reliability of clinical trial design and recruitment. Research organizations like pharmaceutical companies and hospitals typically maintain isolated databases with limited, static patient data. This project focuses on building a third-party data platform that elegantly stores and organizes electronic patient data. The design of the platform enables ontological queries, allowing researchers to consult data when designing trials and quickly ?testing? specific inclusion/exclusion criteria to determine feasibility. When proceeding to execute the trial, the platform will rank individuals by likelihood to enroll, and facilitate contact with potential patients that have previously provide consent to be contacted. Initial objectives of the project include the development of a methodology to abstract patient data from medical records, and programming of the database structure. Later the work will focus on quality assurance software, and algorithms to translate free-text trial requirements into filters compatible with said database. The expected outcome is a platform storing accurate data of 200 patients, with filtering and ranking algorithms that match patients to trials with nearly the same accuracy of an experienced recruitment team.
-
-This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria."
-},
-
-
-
-
-{
-"title": "SGNT LLC",
-"slug": "sgnt-llc",
-"date": "01/31/2019",
-"awardee": "SGNT LLC",
-"city": "Tucson, AZ",
-"piName": "Emil Tremblay",
-"amount": "$224,470",
-"abstractText": "The broader impact/commercial potential of this Small Business Innovation Research (SBIR) Phase I project will be on any industry or product category that suffers from product counterfeiting; that is to say on nearly every industry imaginable. It is estimated that the global counterfeit market will grow from $1.2 Trillion in 2017 to more than $1.8 Trillion by 2020. In an attempt to combat this trend, spending on anticounterfeit packaging will grow from $122 Billion in 2017 to $264 Billion by 2023. Of most dire concern, the counterfeit pharmaceutical industry is estimated at approximately $200 Billion, resulting in about 1 million deaths annually. Existing anti-counterfeit packaging techniques have proven largely ineffective in combating this counterfeiting problem. This project will result, for the first time, in packaging or seals that, without ambiguity, inform users of the authenticity, integrity, and provenance of any product outfitted with the project?s resultant technology. All stakeholders in a supply chain will be enabled to detect fake goods before they can be used or consumed. This increased visibility into the supply chain will also broaden enforcement opportunities for relevant entities and/or authorities and provide special benefit to those industries most urgently impacted: pharmaceuticals, military/defense products and high-priced goods. 
-
-The proposed innovation is a novel enhancement to Radio Frequency Identification (RFID) that seals any package or container to which it is attached and, when queried by a reader/interrogator (e.g. any modern smartphone), provides the status (i.e. tampered/un-tampered) and identity to the user or system. The project will produce the designs and manufacturing techniques required to create RFID-based seals that provide assurance of authenticity, integrity, and provenance for products to which these seals are applied. Research will be conducted on several specific hardware components required by this innovation and will produce the requisite software and cryptographic systems for the testing, design, and commercialization of this proposed solution to product counterfeiting. Developed software will provide the testing and development framework for commercial applications of the proposed anti-counterfeiting solution. Advances in hardware design, especially concerning the minimization of power requirements for the RFID-based seals and the manufacturing techniques for specific required hardware components (i.e. the components that detect tampering events) will be accomplished during this research project. Research and development activities will employ varied techniques including iterative design, 3D printing, and advanced electronics prototyping. This SBIR Phase I project will ultimately result in the design and validation of production-ready seals.
-
-This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria."
-},
-
-
-
-
-{
 "title": "SIMPETUS, LLC",
 "slug": "simpetus-llc",
 "date": "02/05/2018",
@@ -10662,24 +9647,6 @@ This award reflects NSF's statutory mission and has been deemed worthy of suppor
 
 
 {
-"title": "SMART PAD LLC",
-"slug": "smart-pad-llc",
-"date": "01/31/2019",
-"awardee": "SMART PAD LLC",
-"city": "Rexford, NY",
-"piName": "Goo Youn Kim",
-"amount": "$225,000",
-"abstractText": "The broader impact/commercial potential of this Small Business Innovation Research (SBIR) Phase I project is to offers a way for semiconductor chip fabricators to extend Moore's Law and simultaneously allowing them to reduce costs in consumables and scrap wafers that have been damaged during polishing. Currently chip fabricators are challenged to continue Moore's Law due to the complexity and scale down sizes of semiconductor device structures. Improved computer chip performance is critical to countless applications as computers,mobile phones, tablets, and Internet of Thing have become ubiquitous in everyday life.
-
-This Small Business Innovation Research Phase I project will address the challenges which the semiconductor industry faces trying to move beyond 14 nm technologies by using Chemical Mechanical Planarization. Polishing pads are used to planarize wafer surface for multilayer stack integration. Conventional polishing pad technology has randomly distributed micro pores that lead to non-uniform polishing and scratched due to stress concentration on asperities with less than 1% real contact area. Additionally, conventional pads require a pad conditioning process to re-generate pad surface. This project proposes engineering micro features on the pad surface using micro fabrication technologies. In addition, the real contact area between the pad and wafer will be controllable increasing to 5-10 percent of the total pad-wafer contact. This will make the polishing performance more precise and consistent. The micro features are designed to retain polishing slurry longer so to increase the number of active slurry abrasives for polishing. The contact area and feature design will be tunable to specific polishing performance requirements per customer applications. The independent multi-body structure of a hard top-pad with a soft sub-pad will increase the conformity of the pad and distribute the pressure from polishing evenly across the pad surface. This will significantly improve the chip-level planarization and wafer-level uniformity, as well as reducing the pad wear during polishing.
-
-This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria."
-},
-
-
-
-
-{
 "title": "SOLVUS GLOBAL LLC",
 "slug": "solvus-global-llc",
 "date": "02/01/2019",
@@ -10708,25 +9675,6 @@ This award reflects NSF's statutory mission and has been deemed worthy of suppor
 "abstractText": "This SBIR Phase I project examines the feasibility of using magnetic sensors based on Acoustically Driven Ferromagnetic Resonance (ADFMR) for neurological imaging. Information about brain activity is critical to the diagnosis and treatment of a variety of disorders including epilepsy, traumatic brain injury, and Alzheimer's disease. The most powerful non-invasive technique for measuring brain activity, magnetoencephalography (MEG), uses magnetometers that require liquid helium cooling and magnetic shielding to operate. Due to these requirements, current MEG systems are large and expensive, limiting their adoption and accessibility. ADFMR sensors could allow for the measurement of biomagnetic fields without the need for cryogenics and magnetic shielding, dramatically reducing the size, cost, and power consumption of such systems. The portability of this improved technology would allow for functional neuroimaging outside of the carefully controlled imaging suites where it is possible today. This could allow for diagnosis of previously unreachable patients (ie. in the ICU, operating room, or ambulance) as well as the development of new uses for this technology (ie. long-term monitoring, scanning during movement). This improved, portable MEG could also enable the first practical, portable brain-computer interface ? applicable across a wide variety of applications in both defense and consumer sectors.
 
 This SBIR Phase I project investigates the ability for ADFMR sensors to measure extremely small magnetic fields, such as those generated by the human brain. The ADFMR phenomenon has been shown to be a much more power and size efficient alternative to traditional methods of exciting ferromagnetic resonance, allowing for its use as a sensing mechanism for chip-scale magnetometers. In the proposed program, a number of methods to improve the performance of current ADFMR devices will be investigated. First, a compact model will be developed to allow for fast modeling of ADFMR devices and their associated detection circuitry. Using the results of this model, devices will be fabricated in order to experimentally validate various mechanisms for the reduction of 1/f noise in the detector circuitry and for the optimization of the ADFMR absorption profile for maximum sensitivity to applied magnetic fields. These sensor elements will initially be tested using standard benchtop characterization equipment. Following a benchtop demonstration, challenges in miniaturizing the full sensor system will be addressed by developing fully integrated magnetometer prototypes.
-
-This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria."
-},
-
-
-
-
-{
-"title": "SOWN TO GROW, INC.",
-"slug": "sown-to-grow-inc",
-"date": "12/21/2018",
-"awardee": "SOWN TO GROW, INC.",
-"city": "Oakland, CA",
-"piName": "Dennis Li",
-"amount": "$224,539",
-"abstractText": "This SBIR Phase I project will develop an Artificial Intelligence (AI) /Machine Learning (ML) driven solution to automate the process of giving qualitative feedback on student reflections. The automated reading of student reflections for quality and content is a new and innovative technology that is currently not available in the market, as all applications in this realm focus on grammar and writing structures. The innovation will understand the specific actions and strategies students are using (many of which are unique to an individual learner), and help students get the support they need to improve in those techniques or try new ones. This process would build learning skills and growth-oriented belief systems in students, both of which lead to significantly improved academic and career outcomes. Fundamentally, the proposed project will help students learn how to learn.
-
-
-This SBIR Phase I project will build the first phase of personalized insights for impactful student goal-setting and reflection. The company will leverage natural language processing (NLP) and ML algorithms to 1) parse, process, and analyze reflections written by students, 2) return a score for each reflection based on a research-based rubric, and 3) notify teachers when a student has a low score and needs support. At the end of Phase I, the company will examine whether the prototype functions as intended with 90%+ accuracy, if teachers can integrate the prototype into their classroom practice, and if it shows early promise of improving the quality of student reflections and learning. With a proprietary dataset of 400K+ written student reflections and data points, the company is uniquely positioned to develop and scale this product vision. Phase II research will develop personalized feedback, strategies and suggestions to help students and teachers find the best strategies faster.
 
 This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria."
 },
@@ -10772,24 +9720,6 @@ This award reflects NSF's statutory mission and has been deemed worthy of suppor
 
 
 {
-"title": "SPOTLESS MATERIALS LLC",
-"slug": "spotless-materials-llc",
-"date": "01/30/2019",
-"awardee": "SPOTLESS MATERIALS LLC",
-"city": "State College, PA",
-"piName": "Birgitt Boschitsch",
-"amount": "$225,000",
-"abstractText": "The broader impact/commercial potential of this Small Business Innovation Research (SBIR) Phase I project will be the development of an easy-to-apply anti-fouling, liquid- and sludge-repellent coating aimed to reduce the water footprint, required cleaning frequency, and need for aggressive cleaning chemicals to maintain bathroom fixtures. Advanced ecofriendly technologies that enhance cleaning efficiency are highly sought after in janitorial services for large institutions and homeowners alike. Specifically, the household cleaners market size was valued at $5.79 billion in 2016 in United States, of which ~20% is toilet bowl cleaners that aim to remove bacteria and hard-water stains.  From a societal perspective, we estimate that about 6.1 billion gallons of water is flushed down the toilet nationally each day - that is 2.2 trillion gal of water each year in the United States alone. Incorporation of this coating into bathroom fixtures, can significantly reduce the water footprint of bathroom fixtures. Viable low-flow or no-flow toilets may also help help address the open defecation problem affecting over 1 billion people globally.
-
-This Small Business Innovation Research (SBIR) Phase I project will develop and investigate a new class of viscoelastic-repellent surface coatings with anti-bacterial and anti-scaling functions for cleaning and sanitation industries. Surface coatings that can resist bacteria and mineral fouling while maintaining both liquid and viscoelastic solid repellency are rare. The proposed project will investigate and quantify the coating design parameters required to significantly prevent the attachment of bacteria and mineral deposits, while remaining durable against mechanical abrasions under realistic operating conditions. This SBIR Phase I project will demonstrate that a sprayable surface coating not only can repel both liquids and viscoelastic solids, but can also resist fouling from bacteria and hard water stains without the use of aggressive chemical cleaners or excessive amounts of water. The best coating parameters identified in Phase I project will be considered for pilot tests in Phase II. The development of such a robust, non-fouling coating will offer significant reduction in the use of cleaning chemicals, flush water, and cleaning time, which has the potential to reduce costs associated with sanitation facilities maintenance.
-
-This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria."
-},
-
-
-
-
-{
 "title": "SQZ Biotechnologies Company",
 "slug": "sqz-biotechnologies-company",
 "date": "04/04/2016",
@@ -10818,22 +9748,6 @@ This SBIR Phase II project proposes the continued development of the intracellul
 This Small Business Innovation Research (SBIR) Phase I project provides a revolutionary solution to a problem that has haunted chemistry for more than 150 years. Existing fluorescent materials are formulated with pigments that have thinly dispersed colorants, which dilutes their color and makes them susceptible to degradation. This is done by necessity, because fluorescent dyes have a tendency to aggregate, causing unwanted color changes and loss of the fluorescence effect. This solution utilizes a bottom-up "self-assembly" strategy to eliminate aggregation and create stable fluorescent solids that maximize the longevity and boldness of the color. This research will study this novel class of fluorescent pigment to gauge its resistance to fading, improved chromaticity, and material performance in realistic conditions. This will be done by measuring changes to fluorescence intensity and color appearance under natural and laboratory-accelerated weathering conditions, and creating test "products" in the form of paints and polymers. These test materials are expected to have stronger color for longer periods of time while still being amenable to commercial processing techniques. In addition, this project is an opportunity to study the behavior of self-assembling materials inside polymer formulations, which is a new research area with broad scientific and commercial potential.
 
 This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria."
-},
-
-
-
-
-{
-"title": "SUNY System Administration",
-"slug": "suny-system-administration",
-"date": "08/05/2015",
-"awardee": "SUNY System Administration",
-"city": "Albany, NY",
-"piName": "Joseph Skrivanek",
-"amount": "$50,000",
-"abstractText": "Through the NSF Innovation Corps for Learning Program (I-Corps L), this project will develop ways to increase the scale and impact of a tutoring, mentoring, and advising program to help community college students to complete Associate's degrees and successfully transfer to four-year institutions. Increasing the number and diversity of students entering, persisting and graduating with STEM degrees; and significantly aiding them with STEM internships and job placements is imperative to solving the critical national and state workforce deficit that encompasses 63 STEM occupations categorized by the U. S. Department of Labor. Improving STEM education pathways to engage and retain students in STEM programs requires creative interdisciplinary real world experiential learning strategies that integrate technology in delivering and reiterating content to 21st century learners.  Community colleges represent a special opportunity for increasing STEM majors. Two-year institutions are 'the entry point into higher education for most first-generation college students, particularly those from low-income, minority, and immigrant backgrounds'. Studies have shown that only 25 percent of these students complete a two-year degree and transfer to a four-year institution and only 17 percent complete a bachelor's degree. In 2000, the Baccalaureate and Beyond Community College Mentoring Program (BBCCMP) was founded to assist underrepresented minority, low income, and first generation community college students from six State University of New York (SUNY) community colleges with the transition from the two-year to four-year institutions and transitions either into the workforce or to graduate or professional school. The program involves tutoring, mentoring, and advising at the two and four-year institutions as well as a summer research program. In the almost fifteen years of the program, over 300 students have been involved. Over 80 percent of these students completed their Associate's degree and transferred to four-year institutions. Over 70 percent of these students are completing their bachelor's degree and 33 percent are going on for post-graduate work. This I-Corps for Learning project will develop ways to extend the impact of this program to other institutions throughout the country.
-
-The BBCCMP Program at Purchase College provides an extensive array of student supports. These begin when the student is recruited from the community college. Faculty coordinators at the community college identify and advise students who wish to enter the program. In addition, the program provides peer tutors and mentors at the community college. Students participate in a summer research program that not only provides research opportunities, but also has workshops on skills building, transferring, and career and post-baccalaureate opportunities. Students also participate in cohort and career building. In 2010 the SUNY Replication Project created a New York-based ecosystem in STEM based on the success of the Baccalaureate and Beyond Program within SUNY. Subsequently, six regional hubs comprising a mixture of two-year and four-year institutions were formed, and representatives met again at a second conference in 2012, to scale-up working with community colleges on student transitions. Through the NSF I-Corps initiative, this project will investigate sustainable methods to expand the success of BBCCMP to a larger number of institutions."
 },
 
 
@@ -11062,31 +9976,6 @@ This award reflects NSF's statutory mission and has been deemed worthy of suppor
 
 
 {
-"title": "Saint Edward's University",
-"slug": "saint-edward-s-university",
-"date": "05/06/2016",
-"awardee": "Saint Edward's University",
-"city": "Austin, TX",
-"piName": "Peter Beck",
-"amount": "$250,000",
-"abstractText": "Assessing the effects of human activity related to sustainability and biodiversity conservation on tropical forests and primates
-
-Michael D. Wasserman & Peter A. Beck, Environmental Science & Policy, St. Edward's University
-
-
-Non-technical Project Description
-
-Biodiversity loss, climate change, and pollution are major threats to ecosystem functioning and quality of human life, especially for societies that directly depend upon the local environment for resources.  Addressing human-environment interactions is particularly important for tropical forest ecosystems. These ecosystems contain approximately half of all living species, play an important role in climate change mitigation through carbon storage, and filter pollutants from water and air.  However, traditional conservation strategies that exclude local populations have often been ineffective leading to significant forest loss over the past several decades.  This NSF IRES research program will evaluate the effectiveness of alternative conservation strategies to maintain tropical forest ecosystems and primate populations, while also maintaining the livelihoods of local communities surrounding the forests.  Through this research program, underrepresented students in the environmental sciences will gain international field research experience.  The investigators will integrate ecological and social research methods to address questions critical to fields of ecology, anthropology, and environmental policy, address current environmental issues such as habitat fragmentation and biodiversity loss, and provide STEM training for underrepresented students at two biological field stations in Costa Rica (La Selva and Las Cruces) in collaboration with the Organization for Tropical Studies.  Students will work closely with Costa Rican field assistants and local communities during their research, thus providing multiple opportunities for cultural exchange.  Interested Costa Rican university students will be included in the projects and encouraged to apply for the master's program in environmental management and sustainability at St. Edward's University.  At the end of the 10-week program, students will present their initial results to local communities and Costa Rican scholars at a public forum and will be encouraged to communicate their final results through peer-reviewed publication and presentations at professional conferences.  An additional end product associated with this program and utilized by the IRES students will be a fully functioning laboratory capable of running immunoassays for quantifying primate hormone levels in the field, thus transferring scientific knowledge and infrastructure to a developing country.  Results from this research program will provide important insight useful to the design of policies for sustaining both biodiversity and human livelihoods, particularly in tropical forest regions.  
-
-Technical Project Description
-
-Tropical forests are one of the world's most important ecosystems, containing at least half of all species, regulating climate, purifying air and water, and providing resources for local communities.  Nonetheless, over the past few decades widespread deforestation has significantly reduced the extent of tropical forests, leading to declines in wildlife populations that depend on them through habitat loss and fragmentation.  Primate populations have been especially affected with more than 60% of all species considered vulnerable or endangered by the IUCN.  Efforts to preserve the remaining forests and threatened species dependent on them have largely focused on creating protected areas, such as national parks.  However, citizens often rely heavily on natural resources for subsistence and environmental laws are regularly breached in developing countries, thus weakening the effectiveness of protected areas.  As a result, conservation policies have evolved from exclusionary protected areas to strategies that focus on local communities by providing economic and other incentives.  Despite the increasing promotion of community-based alternatives by both scholars and practitioners, little evidence exists that they are any more effective than protected areas at maintaining forest quality or sustaining primate populations.  Therefore, this NSF IRES research program has two main objectives: 1. To quantify how policies integrating conservation and development objectives, such as ecotourism, academic research activities, and multiple-use protected areas, influence tropical forests and their primates, as well as how effective these environmental policies are at maintaining human livelihoods.  2. To provide international field research experience to underrepresented students in the environmental sciences.  To meet these objectives, student projects will examine differences in forest condition (e.g., fragment size, % canopy cover, carbon storage, diversity) and primate biology (i.e., physiology, behavior, population size) across a number of forests at and surrounding Las Cruces and La Selva Biological Stations in Costa Rica that are protected for various objectives (i.e., ecotourism, research, national conservation).  Students will also examine the effects of these strategies on local community livelihoods and how this influences local perception of environmental policy.  Specifically, 15 ten-week independent master's student research projects will occur across a three-year period to survey primate populations, quantify behavior, measure primate fecal hormone levels with immunoassays in country (an environmental endocrinology laboratory will be established in Costa Rica), conduct interviews and surveys of local landowners, other stakeholders, and tourists, and quantify forest characteristics.  By examining interactions between people, parks, and primates through independent, yet interrelated, student projects, we will be able to provide a thorough analysis of the effectiveness of private ecotourism, public protected areas, and academic research stations to maintain livelihoods for human populations and promote conservation of biodiversity.  Results from this project will add significantly to the knowledge of how economic, participatory, and research incentives can affect conservation decisions and outcomes.  As a breakdown in either natural ecosystems or human society will negatively affect the other, quantifying the effectiveness of various environmental management strategies to maintain both biodiversity and local community livelihoods is necessary to ensure that these policies are actually promoting sustainability and conservation."
-},
-
-
-
-
-{
 "title": "Saint Louis University",
 "slug": "saint-louis-university",
 "date": "08/30/2018",
@@ -11151,27 +10040,6 @@ The integration of water reuse and resource recovery into wastewater treatment a
 This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria."
 },
 
-{
-"title": "San Diego State University Foundation",
-"slug": "san-diego-state-university-foundation",
-"date": "09/04/2014",
-"awardee": "San Diego State University Foundation",
-"city": "San Diego, CA",
-"piName": "Natalie Mladenov",
-"amount": "$249,304",
-"abstractText": "Technical Description 
-
-With the rise in global population and rapid growth of urban and coastal areas worldwide, providing clean water is a major challenge particularly when basic sanitation needs are not met. Water scarcity, poor sanitation, and economic disparity tend to characterize many densely populated urban areas throughout the world. There is no doubt that new solutions are needed to improve the availability of clean water and basic sanitation for underserved populations. Moreover, solutions that also recover energy and resources for net-zero impact have the potential to lessen the burden for communities dealing with water scarcity, and energy and food security issues.
-
-Consequently, there is a need to improve fundamental knowledge on decentralized wastewater systems technologies (DEWATS) that lead to net-zero energy and resource use. IRES students from San Diego State University and California State Poly-technical University in Pomona will contribute to fundamental research in collaboration with the University of KwaZulu-Natal (UKZN) on biological and physico-chemical processes in DEWATS and resource and energy recovery from wastewater. Students will use traditional methods (microbiological techniques, water chemistry and solids analyses) and novel applications of fluorescence spectroscopy to evaluate the performance of an anaerobic baffled reactor (ABR) with water reuse for agricultural applications. This IRES project aims to be a transformative scientific and cultural experience for US students that will advance fundamental knowledge of ABR and other DEWATS treatment processes implemented at the full-scale in South African communities.
-
-Broader Description
-
-This project is a unique opportunity for environmental engineering undergraduate and graduate students to visit the UKZN in Durban, South Africa, where they will conduct fundamental research on resource and energy recovery from wastewater, new perspectives on wastewater treatment, and sustainable sanitation. Over the course of the three year project, fifteen US students will be supported to work on novel research at the nexus of water, energy, and food with a focus on decentralized wastewater treatment systems in growing urban centers. Students will be mentored by active research faculty at the Pollution Research Group at UKZN and obtain an enriching international experience on topics highly relevant for environmental scientists and engineers.
-
-This research experience will equip upper-level undergraduates with research skills needed to transition to graduate school and strengthen the research and mentoring skills of graduate student participants. The US student cohorts will be recruited from groups, including those underrepresented in environmental science and engineering, at San Diego State University and California State Poly-technical University in Pomona. A pre-departure orientation program is designed to promote team building, cultural sensitivity, and adequate preparation for students to conduct collaborative research internationally. As part of the evaluation of this project and for knowledge transfer from cohort-to-cohort, exit surveys will be conducted and videos of the research and student perceptions will be disseminated to subsequent cohorts. Participants will present their research at UKZN and at local and regional research symposia, professional society meetings, or conferences. IRES participants will conduct outreach for K-12 audiences via after-school programs."
-},
-
 
 
 
@@ -11230,24 +10098,6 @@ This award reflects NSF's statutory mission and has been deemed worthy of suppor
 
 
 {
-"title": "Scribe Biosciences, Inc.",
-"slug": "scribe-biosciences-inc",
-"date": "01/29/2019",
-"awardee": "Scribe Biosciences, Inc.",
-"city": "San Francisco, CA",
-"piName": "christian siltanen",
-"amount": "$225,000",
-"abstractText": "The broader impact/commercial potential of this Small Business Innovation Research (SBIR) project is to provide the biomedical research community with a new tool for next-generation tissue culture platforms, including those derived from patient samples.  If successful, this technology will enable researchers to automate and standardize 3D cell culture techniques in a format that is broadly compatible with current laboratory infrastructure.  It would bridge a gap between commercial biomanufacturing/pharmaceutical development and the academic state-of-the-art.  Moreover, the proposed technology will provide the scientific community with novel tools to perturb and observe how individual cells interact with each other and with their microenvironment.  Probing biological signatures at single-cell resolution underpins major current trends in biomedical research, from clinical applications in cancer therapy, diagnostics, and immunology, to global basic science initiatives such as the Human Cell Atlas project.  The goal of this grant is to facilitate commercialization of a single-cell handling instrument for use in research universities and pharmaceutical R&D laboratories.
-
-The intellectual merit of this SBIR Phase I project is to develop an automated instrument for seeding organoids or other 3D tissue cultures with single-cell resolution.  Organoids have the potential to transform personalized medicine and disease modelling, but current culture methods are poorly controlled, leading to wide variability between individual samples and across labs.  It is recognized that standardization, reproducibility, and tight control of cell seeding parameters will be paramount for drawing predictive value from organoids in the clinic, particularly when many statistical replicates are required.  The technology developed is a high-resolution robotic cell printing instrument capable of rapidly and deterministically seeding single cells contained within sub-nanoliter liquid volumes.  The goal is to evaluate the feasibility of implementing the proposed cell printing technology to seed organoid cultures with complete control of the type and number of constituent cells in each organoid.  Using Lgr5+ stem cell-derived intestinal organoids as a model culture system, protocols will be developed for preparing "printer-ready" input single stem cells from primary tissue.  Then, the plan is to evaluate the effects of cell seeding state on organoid morphology by varying cell number, cell type and ECM components, to test the hypothesis that controlled seeding will result in improved morphological reproducibility, as assessed by high-content imaging.
-
-This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria."
-},
-
-
-
-
-{
 "title": "Sensatek Propulsion Technology, Inc.",
 "slug": "sensatek-propulsion-technology-inc",
 "date": "03/01/2019",
@@ -11294,22 +10144,6 @@ The proposed project tests (i) the ability of the device to detect and character
 This SBIR Phase I project proposes to develop a low-dose, bacteriophage-based feed additive that can be prophylactically administered to control the growth of pathogenic Fusobacterium necrophorum in cattle rumen. F. necrophorum is a causative agent of liver abscesses in grain-fed cattle, and antibiotics are currently added to feed to prevent its growth and limit abscess occurrence. However, in-feed antibiotics promote the proliferation of antibiotic resistant bacteria, and can cause undesirable off-target effects to the rumen microbiome. This research seeks to develop broad host-range (polyvalent) bacteriophages as an economical means of controlling cattle pathogens. Polyvalent bacteriophages will be isolated using specialized methods that select for those with a predetermined host-range based on rumen microbial composition. Each bacteriophage will then be characterized and tested for efficacy within a bioreactor operated to simulate the cattle rumen. Bacteriophage cocktails will be formulated and tested for their ability to minimize the development of bacteriophage resistance. The expected outcome of the proposed research is a library of polyvalent bacteriophages that can effectively control F. necrophorum under rumen-like conditions, and which will be further tested in animal studies.
 
 This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria."
-},
-
-
-
-
-{
-"title": "Sequal Inc",
-"slug": "sequal-inc",
-"date": "12/21/2017",
-"awardee": "Sequal Inc",
-"city": "Ann Arbor, MI",
-"piName": "Kush Goliya",
-"amount": "$225,000",
-"abstractText": "The broader impact/commercial potential of this Small Business Innovation Research (SBIR) project is to revolutionize the healthcare industry by developing computing solutions for precision medicine.  Next-Generation Sequencing (NGS) now produces a large amount of genome data at an affordable cost. Analyzing large volumes of genome data from diverse populations will lead to a better understanding of the causes of various diseases ranging from cancer to rare genetic disorders, and develop better cures. By sequencing a patient's genome, it is possible to more specifically determine his/her condition and devise an individualized treatment plan. And, if every newborn's genome was sequenced, it would allow for proactive identification of disease risks, and early intervention. Understanding viruses and bacteria will help us gain a better understanding of infectious diseases, and thereby enable us to develop better immunization and disease control methods. In addition to health-care, genomics also may help engineer better food crops and attain food security.  This project will develop novel computing hardware solutions that are customized for genomics sequencing software. These computing solutions can help realize an exponential growth in the digital genomics market and bring affordable personalized medicine to all.
-
-This SBIR Phase I project proposes to accelerate Whole Genome Sequencing (WGS) by building a customized processor for genomics automata.  Over the last decade, the production cost of sequencing has plummeted from ten million dollars to a thousand dollars, and is soon expected to go below a hundred dollars per genome. Advancements in processor performance, however, have not kept pace. It can take several days on a computing cluster to sequence a genome. For genome sequencing to become as affordable as a routine medical test, computing solutions are required that can sequence a genome in minutes, and cost only a few dollars per genome. This project is developing a novel ASIC hardware accelerator for computing finite state automata, which supports approximate string matching, a computational kernel widely used in genomics applications such as sequencing. The design is based on a novel in-memory hardware technology for efficiently implementing state transitions. The goal is the improve efficiency of genomics automata by two orders of magnitude compared to modern processors."
 },
 
 
@@ -11664,24 +10498,6 @@ This award reflects NSF's statutory mission and has been deemed worthy of suppor
 
 
 {
-"title": "SpIntellx, Inc.",
-"slug": "spintellx-inc",
-"date": "02/08/2019",
-"awardee": "SpIntellx, Inc.",
-"city": "Pittsburgh, PA",
-"piName": "Akif Tosun",
-"amount": "$224,999",
-"abstractText": "The broader impact/commercial potential of this Small Business Innovation Research (SBIR) Phase I project is to accelerate the implementation of digital pathology by giving pathologists computational guides to help them achieve higher accuracy and efficiency in making their "calls". Currently biopsy diagnosis is a labor-intensive process that relies upon 19th century microscope technology; pathologists are doctors who use microscopes to make diagnoses. Pathologists examine slides from breast biopsies as part of breast cancer screening programs for more than a million women each year in the US.  This is a highly subjective process and there is evidence that even pathologists may disagree with one another, especially with difficult cases. This is potentially large patient safety issue, as some patients may not be optimally triaged.  It is currently possible to digitize the slides as whole slide images (WSIs), but there are very limited options for computer assisted pathologist review and this is a major reason that the digital pathology market has not developed as rapidly as most experts predicted. This project is a major advance as it addresses a large clinical need ? augmenting pathologists in their ability to make efficient and accurate diagnoses; and it also has great commercial potential as a disruptive, must-have application in the early digital pathology marketplace.
-
-This Small Business Innovation Research (SBIR) Phase I project will address the issue of accuracy and efficiency of pathologist diagnosis in breast core biopsies, and this should validate our approach as an unmet need in the current digital pathology marketplace. There are other groups applying machine learning to pathology, but this project is a unique approach that addresses practical issues related to expert training of the machine, rapidly displaying targeted images to pathologists, and providing a guiding support while keeping the doctors in control. The project will ask pathologists to label WSIs with their diagnoses; this data will be used to train an AI system; and the AI system performance will be studied. Preliminary studies seem to support that a human and AI system working together will be both more efficient and more accurate than a human working alone. If this expanded project validates this, then there is a tremendous commercial opportunity that can also have a positive impact on patients. Not only access to better diagnoses for patients, but also the possibility for any pathologist to perform at a higher level.
-
-This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria."
-},
-
-
-
-
-{
 "title": "Speak Agent, Inc.",
 "slug": "speak-agent-inc",
 "date": "08/09/2016",
@@ -11761,24 +10577,6 @@ This project will create a design for a building which will utilize as many of t
 "abstractText": "This Small Business Innovation Research (SBIR) Phase II project will enable a commercial implementation of holographic video microscopy, a fast, precise and flexible technology for measuring the properties of individual colloidal particles suspended in fluid media. This disruptive technology solves critical manufacturing problems across industries that work with colloidal dispersions.  Demonstrated applications include: 1) monitoring the growth of nanoparticle agglomerates in precision slurries used to polish semiconductor wafers where scratches due to slurry agglomerates are responsible for waste valued at $1 billion annually; 2) tracking concentrations of dangerous contaminants in wastewater streams; and 3) measuring the concentration of protein aggregates in biopharmaceuticals, a safety concern noted by the Food and Drug Administration (FDA) in this $250 billion industry.  Holographic video microscopy is unique among particle-characterization technologies in providing comprehensive information about the size, shape and composition of individual particles in real time and in situ. Having access to this wealth of data facilitates product development, creates new opportunities for process control and provides a new tool for quality assurance across a broad spectrum of industries enabling safer, less expensive products for consumers while providing cost savings to manufacturers.
 
 The technical objectives of this project are: 1) to optimize the design of the underlying holographic microscopy system without compromising the quality of results; 2) to enable quantitative concentration determination including corrections for perturbations introduced by flow dynamics; 3) to expand the domain of operation to characterize non-spherical particles and 4) to apply machine-learning algorithms for automated robust operation.  Using holographic video microscopy for commercial applications requires adaptation and innovation in the design of the prototype instrument that was used to demonstrate feasibility. Streamlining the optical train will require advanced modeling and the creation of new methods of correcting optical aberrations to enable ease of manufacture. Additional improvements in design will include advances in improving microfluidic flow control to generate accurate concentration determination, to adapt holographic analysis algorithms for characterizing the structure of aspheric particles, and to extend analytical capabilities for turbid fluids. Finally, innovative machine-learning using neural network algorithms demonstrated significant improvements for analytical robustness in Phase I and will be extended to a wider range of applications. The Phase II effort will enable holographic video microscopy of real-world samples with typical measurement times of a few minutes."
-},
-
-
-
-
-{
-"title": "Spine Align LLC",
-"slug": "spine-align-llc",
-"date": "01/30/2019",
-"awardee": "Spine Align LLC",
-"city": "Baltimore, MD",
-"piName": "Amir Soltanianzadeh",
-"amount": "$225,000",
-"abstractText": "This SBIR Phase 1 project will advance technology to significantly improve the standard of care within corrective surgery for spinal deformity. Approximately 55,000 patients with spinal deformity seek improvement in their reduced quality of life through surgery each year in the US. The goal of these surgeries is to mechanically adjust and fix the spine into a biomechanically balanced position.  It is common for surgeons to plan these intensive surgeries before the operation.  However, the operating room environment introduces many challenges that make it difficult for the surgeon to measure the contour of the patient's spine as it changes during surgery.  Current commercial offerings rely on radiation-based imaging which involves significant operative delays, ionizing radiation exposure, and narrow 2-dimensional fields of view.  These suboptimal solutions contribute to the high rates of continued postoperative deformity along with the need for repeated surgeries. This project focuses on the development of imaging technology that will enable real-time, 3D, whole-spine assessments of a patient's spinal alignment with significant reduction in both time per alignment assessment and radiation exposure compared to current standards. By providing real-time, quantitative feedback to surgeons during these cases, the technology stands to greatly improve surgical outcomes and reduce the need for repeat operations. 
-
-This project repurposes the functionality of an off-the-shelf optical tracking system by coupling it with novel hardware and software registration algorithms.  When coupled with these enhancements, the camera system will enable rapidly-generated, quantitative measurements of a patient's spine while in the operating room.  By leveraging technology that is already present in the majority of surgical centers, the path to commercialization for this innovation is greatly accelerated. This removes the need for most centers to purchase additional capital equipment, while also integrating seamlessly into a system that is familiar to many surgeons. The expansion of this high-precision technology will also enable more data-driven and patient-specific decisions to be made for a variety of surgeries The project is led by a multidisciplinary team of scientists, engineers, and world-class neurosurgeons with experience in translating medical devices into impactful commercial products. The aims within this project include the development of novel tracking-system augmentation hardware, image-analysis algorithms, optimization of accuracy via benchtop testing, and validation via testing with cadaveric specimens.
-
-This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria."
 },
 
 
@@ -11956,22 +10754,6 @@ This award reflects NSF's statutory mission and has been deemed worthy of suppor
 
 
 {
-"title": "Stratio, Inc.",
-"slug": "stratio-inc",
-"date": "08/12/2015",
-"awardee": "Stratio, Inc.",
-"city": "Palo Alto, CA",
-"piName": "Jae-Hyung Lee",
-"amount": "$1,409,999",
-"abstractText": "The broader impact/commercial potential of this Small Business Innovation Research (SBIR) Phase II project is to allow a greater number of organizations, businesses, and individuals to access shortwave infrared (SWIR) imaging technology. Modern SWIR technology has existed for more than 40 years, but its expense has limited its use to the military and large corporations; this project is grounded in the belief that when everyone has access to SWIR technology, the benefits to society are exponential.  SWIR image sensors have potential applications in food safety analysis (e.g., identifying harmful adulterated foods and revealing sub-surface flaws in produce), manufacturing (e.g., sorting), security (e.g., night vision), medical sensing (e.g., vein mapping and blood oxygenation monitoring), and the automotive field (e.g., night/inclement weather vision systems and for self-driving vehicles). A low-cost sensor will open the SWIR imaging market to players in these fields who have so far been shut out due to price. In addition, a low-cost, high-quality sensor will also make SWIR imaging directly available to the general public for the first time ever in the form of a SWIR camera smartphone add-on, establishing a new market for SWIR imaging. 
-
-This Small Business Innovation Research (SBIR) Phase II project will produce low-cost germanium (Ge)-based shortwave infrared (SWIR) image sensors with features superior to those of currently available SWIR sensors. The research objective is to resolve issues of resolution, power usage, size, and sensitivity that limit advancement in the SWIR imaging field. This project will address these problems by utilizing a unique Ge-based SWIR sensor structure. In addition, a monolithic method of integrating the image sensor material onto the Si readout integrated circuit will be pursued. This will enable precise alignment of the readout integrated circuit  and the imaging device, which will lead to smaller pixel size and better resolution. Finally, issues of power use and sensitivity will be addressed through an innovative structure called Gate-controlled Charge Modulate Device. Research will focus on refining and improving the fabrication processes necessary to reliably produce low-cost, high-quality Ge-based SWIR image sensors."
-},
-
-
-
-
-{
 "title": "Subspace Labs, Inc.",
 "slug": "subspace-labs-inc",
 "date": "02/08/2019",
@@ -12102,22 +10884,6 @@ The broader impact/commercial potential of this project is that it will facilita
 This Small Business Innovation Research (SBIR) Phase I project seeks to make a durable, superhydrophobic, high-performance anticorrosive coating through creation of dual-function coating additives. Coatings and corrosion inhibitors are generally the first line of defense in this fight against corrosion. Highly-water repellent superhydrophobic coatings are leading contenders for delivering a step change in corrosion protection performance. However, current solutions suffer from two notable issues: high cost and low durability in highly corrosive marine environments. Existing superhydrophobic coatings require complex and expensive equipment and materials. In addition, these coatings are easily damaged during use, resulting in the loss of their water repellency and corrosion protection ability. The key innovation of this project is a novel dual-function additive that can impart coatings with both superhydrophobicity (passive corrosion protection) and on-demand corrosion inhibitors release (active corrosion protection). This additive based approach results in a durable coating that retains its protective abilities even through significant use and abrasion and enables adaptation to many other coating applications, even ones outside of corrosion.
 
 This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria."
-},
-
-
-
-
-{
-"title": "SynTouch LLC",
-"slug": "syntouch-llc",
-"date": "09/11/2015",
-"awardee": "SynTouch LLC",
-"city": "Montrose, CA",
-"piName": "Rahman Davoodi",
-"amount": "$1,113,517",
-"abstractText": "The broader impact/commercial potential of this project is to provide a new standard of quantifying touch for industries currently relying on qualitative data from expert sensory panels (the tactile equivalent of professional wine tasters). Advancing the understanding of the role and function of tactile sensing in perception and manipulation is also essential if robots are to behave like humans. Studies have demonstrated that humans who cannot feel due to permanent disease or temporary anesthesia perform poorly in fine manipulation tasks (similar to even the best robotic systems without touch). The research proposed in this project is the next step to bring tactile sensing and sensory-motor intelligence to the next generation of robotics. The successful demonstration of a tactile sensor with perceptual similarity to the human fingertip would mark substantial progress in the field of telemanipulation, bringing the world one step closer to remote haptic perception.
-
-This Small Business Innovation Research (SBIR) Phase 2 project seeks to develop the world's first standard of human tactile perception. It has been proposed that tactile recognition presents a more difficult problem than vision and hearing, requiring not only intelligent sensory processing, but also intelligent algorithms to select and control movements, which have a tremendous influence on what is sensed. Artificial sensors that mimic the mechanical properties and sensitivity of the human fingertip have not existed until recently. The research proposed herein will test hypotheses that a biologically inspired robotic system can measure properties that correspond to subjective percepts, descriptors and associations that humans use to characterize objects by touch."
 },
 
 
@@ -12874,43 +11640,6 @@ This Phase II effort includes four technical objectives.  Firstly, the approach 
 
 
 {
-"title": "Transaera, Inc.",
-"slug": "transaera-inc",
-"date": "06/14/2018",
-"awardee": "Transaera, Inc.",
-"city": "Cambridge, MA",
-"piName": "Sorin Grama",
-"amount": "$225,000",
-"abstractText": "The broader impact/commercial potential of this project is the ability to sustainably produce more food with fewer water and energy resources. To feed nine billion people on this planet by 2050 we need to develop new systems of agriculture. Indoor agriculture has the potential to transform the way we grow and source our food, enabling locally-sourced crops at higher yields. Food crops can be grown sustainably year-round near all major urban centers if the energy and water consumption of greenhouses could be reduced. This research will lead to the creation of a suite of water management products and services for indoor farming applications thereby making indoor agriculture environmentally sustainable and economically viable.
-
-This Small Business Innovation Research Phase I project will commercialize a novel metal organic framework (MOF) material that enables a new class of compact, energy-efficient cooling and dehumidification systems for greenhouses. Recent discoveries at MIT have revealed a novel MOF material with unprecedented water adsorption capacity. Moreover, the MOF material may be readily synthesized from low-cost, bulk commodity chemicals. A dehumidifier operating with this material can harvest waste heat to provide optimal temperature and humidity conditions for controlled environment agriculture. To translate the MOF material from research lab into large scale production, the material must demonstrate sufficient durability under cycling conditions, be designed to afford low cost processing and be integrated into a cost-efficient climate control system that takes advantage of its unique properties. The goal of the proposed R&D is to accelerate durability testing, design a process chemistry to enable low-cost manufacturing and develop system-level models to
-analyze lifecycle performance and cost sensitivity in an indoor farming application.
-
-This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria."
-},
-
-
-
-
-{
-"title": "Travera LLC",
-"slug": "travera-llc",
-"date": "02/01/2019",
-"awardee": "Travera LLC",
-"city": "Pacifica, CA",
-"piName": "Selim Olcum",
-"amount": "$225,000",
-"abstractText": "This SBIR Phase I project aims to demonstrate the technical feasibility of a microfluidic instrument as a clinical tool for measuring a new single-cell biophysical biomarker; mass accumulation rate (MAR). Successful completion of the proposed project will constitute the foundation of a medical instrument that will improve treatment strategies for cancer patients. Assigning the optimal therapy for individual patients is particularly important for the treatment of cancer, since every individual's cancer is unique. Although genetic profiling of tumor cells has been the gold standard for personalized medicine approaches in cancer, recent results demonstrate that only a small percentage of patients actually benefit from therapies specifically assigned for them. Aside from few cancer types, where drastic patient responses can be observed using genetic profiling, most cancer patients continue to suffer from ineffective or sub-optimal therapies, which in one of the main drivers of the cost of cancer treatment in the US. This stands in stark contrast to personalized medicine in infectious diseases, where almost all patients are prescribed optimal treatments determined by functional assays based on monitoring the proliferation of microbes ex vivo under the influence of a panel of drugs. Unfortunately, no proliferation-based test for cancer has proven to be sufficiently reliable to be widely adopted for clinical use, mostly because unlike bacteria most cancer cells quickly die when removed from the human body. This SBIR Phase I project will develop the techniques to measure MAR of cancer cells as a metric for drug response. MAR response reflects how individual cells change their growth in response to drugs in very short timescales without the long-term effects of ex vivo culturing. The research that will be conducted in this project will prove the technical feasibility of measuring MAR in a clinical setting for a panel of treatment options. Outcomes of this project will directly enable clinical studies to be conducted, before ultimately seeking FDA approval through clinical trials. 
-
-The focus of this project is a new technology known as the serial Suspended Microchannel Resonator (sSMR), which can measure mass and mass accumulation rates (MAR) of single cells with extreme precision. This SBIR Phase I project will test the technical feasibility of the sSMR platform for measuring drug susceptibility of primary tumor samples with a clinically and commercially relevant speed, versatility and robustness. The company aims to develop sSMR as a platform and introduce MAR as biophysical biomarker guiding clinicians in identifying the best therapy options for a specific cancer patient. Therefore, the goals of this first phase are critical, as tumor cells in biopsy samples taken from patients show differences in heterogeneity, count, and in most cases, lose their viability within 24-48 ex vivo. In Phase I, key technologies will be developed that will enable a sSMR chip to process samples with various cell types and counts at a high throughput and rate. The research activities to address the technical challenges for analyzing primary samples will be three-fold. First, while maintaining the measurement precision, the flow rate of cells in the chip will be increased to prevent primary tumor cells from adhering to channel walls. This is challenging, because the precision of measurement is inversely proportional to the time duration each cell spends in the chip. Second, an opto-fluidic switching technique will be implemented on chips with a new microfluidic T-junction design enabling imaging and characterization of particle morphology, and the avoidance of dead cells, debris, and doublets to improve assay robustness and throughput. Third, by leveraging the microfluidic T-junction and developed imaging capabilities, a microfluidic cell enrichment technique will be developed. This feature will allow for a larger panel of drug conditions to be tested on tumor biopsies with limited cell counts. For validation of these innovations, response of tumor cells taken from 10 multiple myeloma patients to a panel of three drugs and their combinations will be measured and analyzed.
-
-This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria."
-},
-
-
-
-
-{
 "title": "Trustees of Boston University",
 "slug": "trustees-of-boston-university",
 "date": "09/17/2018",
@@ -12991,25 +11720,6 @@ This award reflects NSF's statutory mission and has been deemed worthy of suppor
 This I-Corps project will introduce a new platform technology for preclinical drug screening to evaluate multi-cellular and multi-system responses. The technology represents a significant advancement to the field of tissue engineered models for drug screening by incorporating multiple tissue-systems into a single assay that provides physiologically relevant readouts for reliable drug response prediction.  The model integrates vascular function across multiple physiological systems; multi-system readouts are important for evaluating the effects of drugs on a tissue as an integrated whole. The technology has been initially demonstrated for preclinical drug screening through the application of an anti-cancer drug that prevents the growth of blood vessels.
 
 This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria."
-},
-
-{
-"title": "Tulane University",
-"slug": "tulane-university",
-"date": "07/30/2015",
-"awardee": "Tulane University",
-"city": "New Orleans, LA",
-"piName": "Jordan Karubian",
-"amount": "$249,371",
-"abstractText": "IRES 1460048 ABSTRACT (KARUBIAN, TULANE UNIVERSITY)
-
-NON-TECHNICAL DESCRIPTION
-
-International collaborations are becoming increasingly important in scientific research, but students and young researchers from the US face significant barriers to establishing productive research collaborations with international colleagues. This in turn limits the competitiveness of the US to conduct top-level science. This IRES project is designed to help meet these challenges by providing students and young researchers with opportunities for international training early in their educational and professional trajectories. This three-year project will support a total of 21 undergraduate and graduate students from three US institutions for research training and cultural experiences in Australia. The students will work with the U.S. PIs and Australian researchers on how dynamic environmental factors influence the social structure, behavior, and fitness of small songbirds in an understudied environment?dry forests -outside Brisbane. The project will provide technical training in modern integrative behavioral ecology methods, and will build the capacity of IRES students to work with foreign collaborators in the future. IRES students will also use a range of dissemination modalities, including professional presentations at conferences, peer-reviewed journal publications, video, and internet productions, to increase interest in international research among US university students, K-12 students, and the general public. Participants will receive intensive mentoring before, during, and after their international experience from both U.S. and Australian senior researchers. The project will broaden access to international STEM research by actively recruiting and retaining students from under-represented groups. In doing so, it will fulfill the IRES program goals of educating a globally-engaged science and engineering workforce capable of performing in an international research environment. 
-
-TECHNICAL DESCRIPTION
-
-This IRES project is designed to educate a globally-engaged science and engineering workforce capable of excelling in an international research environment. It will achieve this goal by providing individuals with opportunities for international training early in their educational and professional trajectories, with a focus on students in groups that are traditionally under-represented in STEM. The three-year project will provide a total of 21 undergraduate and graduate students from three US institutions with international research training and cultural experiences in Australia. The students will work with the U.S. PIs and Australian researchers on how dynamic environmental factors influence the social structure, behavior, and fitness of small songbirds in an understudied environment?dry sclerophyll forests outside Brisbane. IRES students will leverage a NSF-funded automated telemetry system and existing research by PIs and Australian hosts on the study site to produce high tier, student-led publications. In doing so, this project will train a cadre of undergraduate and graduate students and motivate these students to pursue scientific research careers with an international focus, thus contributing to the U.S. scientific workforce and making a significant contribution to STEM education for under-represented groups."
 },
 
 
@@ -13390,21 +12100,6 @@ This three-year IRES project will provide approximately 30 undergraduate and gra
 This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria."
 },
 
-{
-"title": "University of Alabama at Birmingham",
-"slug": "university-of-alabama-at-birmingham",
-"date": "04/21/2016",
-"awardee": "University of Alabama at Birmingham",
-"city": "Birmingham, AL",
-"piName": "Andrei Stanishevsky",
-"amount": "$274,880",
-"abstractText": "IRES: Nanofibers for Resource Efficiency
-
-A thematic basis of this program is the emerging area of nanofibers. Nanofibers have diameters from one to four orders of magnitude smaller than the diameters of conventional microfibers produced by mechanical drawing.  As a result of their small size, nanofibers can demonstrate superior properties that provide critical advantages in many applications.  Nanofibers (NF) are increasingly explored in high performance filtration, batteries and fuel cells, wound healing, composite material reinforcements, blood vessel and tissue engineering, smart textiles, drug delivery, gas sensors, electronics, and catalysis. The global market for NF is expected to grow at an annual growth rate of 35% between 2014 and 2020 and reach ~$1 billion by 2017.  There are huge needs in the development of sizeable and ?green? production of NF from a larger range of materials, providing easier ways for NF processing into functional structures, and developing a skilled workforce.  This IRES will provide at least 18 undergraduate and graduate students from the University of Alabama at Birmingham with unique hands-on experience and significant knowledge of cutting-edge NF fabrication methods, as well as NF testing and application by providing an intense research program at the Technical University of Liberec (TUL), Czech Republic, a leading academic center in nanofiber research and commercialization, and at the Lodz University of Technology (UT-Lodz), a regional leader in catalysis and bio-fuels in Poland. Students will develop practical skills needed to address the knowledge gaps in NF science and technology, bring their experiences back to their home institutions, and help to develop a global-capable workforce for this emerging market. By using a cohesive approach and drawing on complementary expertise, facilities and traditions across the nations and regions, will enhance the intellectual as well as the societal and economic returns of this IRES program.
-
-This program will provide 18 students from the University of Alabama at Birmingham with a unique opportunity to carry out 8 week of cutting-edge research at the forefront of nanofiber science, technology, and biomedical and energy applications at the Technical University of Liberec (TUL), Czech Republic, a leading academic center in nanofiber research and commercialization, and at the Lodz University of Technology (UT-Lodz), a regional leader in heterogeneous catalysis, Poland.  Nanofibers (NF) form a large class of materials that can exhibit nano-enabled unique properties, which are unattainable at a larger scale.  However, the growth potential of the NF materials market is still hindered by the limited ability to efficiently generate sizeable quantities of nanofibers with predictable and controllable complex, macroscopic architectures and desirable properties.  Students will work at TUL with a new, high-rate, alternating-current electrospinning (ac-electrospinning) process that unveils several new physical phenomena which help to overcome major disadvantages of commonly used dc-electrospinning, such as ?whipping? instability and residual electric charge, while increasing the process productivity by 1 ? 2 orders of magnitude. Students will explore selected NF-based materials for advanced catalytic systems with improved activity, selectivity and stability in many reactions at UT-Lodz, along with other applications tested at TUL.  During the pre-trip training, foreign site work, and post-trip activities, students will focus on advancing basic understanding of all aspects of emerging high-rate ac-electrospinning, in order to direct the assembly of NF into desired configurations and to stimulate the development of commercializable processes for nanofiber-based materials for heterogeneous catalysis, biomedical uses, and other potential applications.  Overall, this program shall facilitate a broader long-term collaboration between the US and international research groups within the nanofiber research and manufacturing domain by bringing new collaborators and facilitating multiple international links between the researchers and students in related areas."
-},
-
 
 
 
@@ -13445,36 +12140,6 @@ I-Corps Sites also strengthen innovation locally and regionally and contribute t
 The University of Arizona (UA) is home to Tech Launch Arizona(TLA), a technology commercialization unit. The TLA I-Corps Site broadens awareness and relevance with respect to commercialization  for pre-tenured faculty, postdoctoral researchers and student entrepreneurs. This focus aligns well with UA faculty now having the import of patent and commercialization work in their promotion and tenure cases. 
 
 The UA I-Corps Site emphasizes services for pre-tenured faculty, students and postdoctoral researchers, all typically under-resourced in commercialization efforts, to support their entrepreneurship. The UA program positions financial, network and intellectual resources to pursue game-changing innovations. Students and postdoctoral researchers are provided with the opportunity to engage in innovative use-inspired research and have access to resources used in assessing and developing new technologies. Program metrics and assessment allow the further development and expansion of practices for entrepreneurship education and commercialization and particularly the impact of I-Teams on the inclusion of underrepresented participants from the targeted populations. At UA, 40% of postdoctoral researchers are women. Additionally, UA is an Emerging Hispanic-Serving Institution with a Hispanic student population approaching 25% of total enrollment. Positioning an I-Corps Site at UA with a focus on pre-tenured faculty, postdoctoral researchers and student entrepreneurs strengthens entrepreneurial opportunities for women and minorities and allows the UA to develop models that successfully engage underserved innovators."
-},
-
-{
-"title": "University of Arizona",
-"slug": "university-of-arizona",
-"date": "02/04/2019",
-"awardee": "University of Arizona",
-"city": "Tucson, AZ",
-"piName": "Bruce Wright",
-"amount": "$50,000",
-"abstractText": "The broader impact/commercial potential of this I-Corps project is that ultrasound is a life-saving technology.  Fifty percent of the world does not have access to ultrasound, a lifesaving tool, and yet there are more cell phones than toilets in the world, and mobile devices are multiplying faster than people. This concept leverages this trend of going mobile with a key technology to improve health outcomes for patients around the world.  This technology will be developed to reach the 50% of the world that still needs access to ultrasound imaging by increasing support and access to assistance with image interpretation. Clinicians in emerging economies are impeded by limited economic resources and lower levels of training that preclude the standard adoption of expensive traditional cart-based ultrasound imaging.  While improving maternal health is a key United Nations health objective and hence the first area of focus for this project, the ultimate goal is to be the number one mobile ultrasound in the world for healthcare professionals serving trauma/emergency care, women's health and family medicine patients.  
-
-This I-Corps project will focus on learning about pain points of using existing ultrasound technology and barriers to adoption.  Medical students, OBGYN, family and emergency physicians will provide data and observations about their use of cart-based ultrasound.  Interviewing end users and buyers of ultrasound technology will illuminate challenges with learning ultrasound, understanding diagnoses, and navigating software platforms.  Knowing these challenges that potential customers have, the team will further develop and fine-tune the handheld ultrasound software platform they have created.  The technology has an advanced user interface and display, the ability to gain insights about a patient?s medical images, and the ability to conduct real-time diagnoses.  The technical results on which the project is based on feedback from probe manufacturers, ultrasound technology specialists, and clinicians of varying skill levels.  In addition to interviewing users and experts, the team will also conduct in-depth observations of various types of ultrasound technology in use.
-
-This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria."
-},
-
-{
-"title": "University of Arizona",
-"slug": "university-of-arizona",
-"date": "02/20/2019",
-"awardee": "University of Arizona",
-"city": "Tucson, AZ",
-"piName": "Goggy Davidowitz",
-"amount": "$50,000",
-"abstractText": "The broader impact/commercial potential of this I-Corps project is to create an integrated food-energy-water system that uses agricultural waste to generate a high-protein food product. Large-scale use of agricultural waste (mostly leafy greens) as a food source for mealworms, which are a dry-goods pests and do not survive on wet foods. This project will develop a passive solar dryer to dry agricultural waste on a large scale with very little energy input and high efficiency so that it can be set up any where in the world near agricultural fields. This system for producing protein for human consumption is designed to have a water-use footprint close to zero. 
-
-This I-Corps project will develop the large-scale use of agricultural waste (mostly leafy greens) as a food source for mealworms. Second, mealworms are dry-goods pests and do not survive on wet foods. This project will develop a passive solar dryer to dry agricultural waste on a large scale with very little energy input. It is the company's intent to develop the dryer with minimal moving parts and high efficiency so that it can be set up any where in the world near agricultural fields. Third, this system for producing protein for human consumption is designed to have a water-use footprint close to zero. Mealworms growth performance increases dramatically at high relative humidity. The passive solar dryer will dehydrate the agricultural waste to a dryness appropriate for the mealworms. The water released during desiccation will be recaptured and reused to humidify the mealworm rearing facility. Together, the intellectual merit lies in an integrated system to produce a high quality food source with minimal energy and water need, that can be set up relatively inexpensively anywhere in the world.
-
-This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria."
 },
 
 
@@ -13624,21 +12289,6 @@ This award reflects NSF's statutory mission and has been deemed worthy of suppor
 {
 "title": "University of California-Berkeley",
 "slug": "university-of-california-berkeley",
-"date": "02/06/2019",
-"awardee": "University of California-Berkeley",
-"city": "Berkeley, CA",
-"piName": "Rhonda Shrader",
-"amount": "$50,000",
-"abstractText": "The broader impact/commercial potential of this I-Corps project is to increase student and eventually, employee engagement, by better aligning skills and innate interests with degree programs, particularly novel STEM programs. In response to increasing demand for new types of jobs, degree programs such as Computational Genomics and Music Technology have combined fields that have historically been distinct.  This project enables students to discover both traditional and emerging majors relevant to them. By providing actionable insights and better alignment of interests early on, this decreases the friction of changing majors (~80% currently) during college and begins to mitigate widespread lack of engagement (~70%) in the workplace.  Compared with traditional methods that match GPAs, test scores, unstructured essays, and resumes, with schools, majors, and job openings, this project could revolutionize the way students identify, train and prepare for their future careers.
-
-This I-Corps project is based on a novel patent-pending technology of a unified multi-dimensional data representation method called Skills Genome. Skills Genome can be exploited by several machine learning models, allowing for capturing and modeling complex student data inputs such as critical thinking, communication, interests, leadership, etc. with temporal graphs.  By making the structure of the graph accessible to several machine learning models, the method improves accuracy, relevance and facilitates scale.  Specifically, this tracks the student?s development timeline, so they can best determine the timing and sequencing of skills needed for their chosen careers.  Further, by matching profiles at scale, new insights into potential careers can be surfaced, along with the next steps needed to achieve them.
-
-This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria."
-},
-
-{
-"title": "University of California-Berkeley",
-"slug": "university-of-california-berkeley",
 "date": "06/15/2018",
 "awardee": "University of California-Berkeley",
 "city": "Berkeley, CA",
@@ -13713,19 +12363,6 @@ This I-Corps project is a proposal for a medical device designed to decrease med
 The basis of this device is a barcode medication administration (BCMA) system to give medication to patients and manage inventory of medications in pharmacies. Most medication errors occur from the use of intravenous medications from a number of different sources and are the leading cause of complications by anesthetists. This apparatus can improve workflow efficiency and provide multiple safety nets by automatically alerting the anesthetist to contraindicated medications and allergies, sending reminders for redosing medications, and documenting medication administration.
 
 This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria."
-},
-
-{
-"title": "University of California-Irvine",
-"slug": "university-of-california-irvine",
-"date": "08/01/2016",
-"awardee": "University of California-Irvine",
-"city": "Irvine, CA",
-"piName": "Geoffrey Bowker",
-"amount": "$366,478",
-"abstractText": "The world is being changed by Big Data, and data science is receiving a remarkably rapid uptake across the nation and the globe as it institutionalized in university curricula, state governance, and industry strategy. Across the sciences, state and industry, new forms of data collection and analysis hold the prospect of our being able to address the major social and scientific issues of our times: from responding to natural disasters to monitoring the environment to developing fundamental technological insights which will revolutionize industry.  None of this will happen by fiat ? the development of the appropriate data analytics must be accompanied by new organizational alignments between research, policy and industry.  The Big Data Hubs and Spokes (BDHubs) program is a key site for analyzing the nature of these alignments with a view to gaining a basic understanding of the stakes as the terrain shifts.  All long-term research and innovation infrastructure must adapt to such ongoing changes. This research will contribute to understanding institutional flexibility: strategies, techniques and organizational innovations to adapt to changes in regulatory, policy and funding environments.  We can expect but not precisely predict, continuing transformations in the sociotechnical, scientific and institutional ecologies of today?s research and scientific infrastructure.  This project will investigate the ongoing activities at the BDHubs and its partner institutions, their emerging plans for the future, and tie these to the long-history of developing research infrastructures (50+ years) to understand the changes we can expect BDHubs to encounter over time (scientific, technological and institutional), and what strategies they employ in the face of transformations to the landscape of science, information technology and institutional environment. 
-
-Many challenges facing contemporary science such as environmental research or chronic disease management require long-term studies and supporting infrastructures. This project will contribute directly to NSF and other efforts to build more open, effective, and sustainable knowledge communities across the sciences, industry and government. Improving understanding of the long-term trajectory of research infrastructure will lead to smarter and more sustainable investment and design choices on the part of project leaders, participants, tool builders, and funders. Many other science agencies are in the midst of funding such cross-cutting projects. This research will inform science policy and regulatory environments to help develop sustainable and productive research infrastructures. In order to do so, this study will develop a general organizational understanding of the development of large-scale and long-term endeavors in the data sciences and map the institutional landscape of modern data science with particular focus on the activities of infrastructure building, policy development and community formation. In addition, this study will help to develop an understanding of the ?rise of the data sciences? in the US both as an institutional movement and as a form of technical research, with special focus on establishing a framework for evaluating and understanding large-scale, cross-disciplinary collaboration on big data tools, techniques and methods."
 },
 
 
@@ -13937,21 +12574,6 @@ This Site is the outcome of a Type II proposal from UCSD. There are two types of
 {
 "title": "University of California-San Diego",
 "slug": "university-of-california-san-diego",
-"date": "02/05/2019",
-"awardee": "University of California-San Diego",
-"city": "La Jolla, CA",
-"piName": "Vidyadhar Upasani",
-"amount": "$50,000",
-"abstractText": "The broader impact/commercial potential of this I-Corps project is that the SoleMate Solutions' smart insole will optimize patient rehabilitation for lower extremity conditions. Currently, issues with patient compliance lead to unintended costs to the healthcare industry. Lower extremity conditions are especially prone to issues because of the lack of clarity on how to recover at home. This process is subject to confusion which can cause patients to either apply too much or too little weight during rehabilitation, leading to many complications. These can include malalignment of bone which requires additional treatment or even surgery. 15 million people experience lower extremity injuries each year and the rate of complications lead to approximately $12 billion in unintended costs. The SoleMate insole aims to resolve this issue by providing patients with real-time feedback to correct form by measuring weight applied while walking. This information is not only helpful for patients, but physicians are also informed on how compliant patients were during recovery. There are no other products that can track rehabilitation based on weightbearing. Furthermore, the applications for this technology extend past medicine. An insole that can accurately track how someone walks can be applied to sports and orthopedic research.
-
-This I-Corps project is aimed for manufacturing a device that can accurately measure weightbearing while walking during an episode of care. Sensors placed in the insole are coupled with a patient-specific algorithm that generates a summary that patients can check on their smart phone. This information will also be integrated into a patient?s summary on recovery at the doctor?s office. Real-time feedback on how much weight a patient applies throughout the day can correct for form. From a clinician?s perspective, this information can be useful on tailoring future treatment to the individual. There are other research devices that can accurately measure how someone walks, but these devices are typically expensive and wired to a computer. Creating a wireless device allows for continual feedback and a more accurate picture of someone?s activity throughout the day. Lower extremity rehabilitation would be less confusing with a smart insole that can track form and activity.
-
-This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria."
-},
-
-{
-"title": "University of California-San Diego",
-"slug": "university-of-california-san-diego",
 "date": "06/07/2018",
 "awardee": "University of California-San Diego",
 "city": "La Jolla, CA",
@@ -14039,21 +12661,6 @@ Particular strengths of the proposal include: offering the I-Corps curriculum du
 This I-Corps project will explore commercial opportunities for hollow metal nanoparticles. Hollow nanoparticles have substantial advantages over their solid counterparts, including lower mass per particle for reduced material costs, higher surface-area-to-volume ratio for increased loading, and enhanced plasmonic performance. The company?s primary technology is the highly uniform synthesis of hollow metal nanoparticles with predetermined dimensions, surface morphology, optical response, and metal composition. Currently, most conventional LFAs use 30-40 nm solid gold particles, which suffer from low capture rate and low visual contrast. In order to improve the sensitivity of these devices, we have developed more advanced nanostructures which will be captured more effectively and provide greater contrast. Implementing robust customer discovery will enable us to determine the extent of product customization that would be most useful to this target industry. Successfully making this determination and subsequently commercializing the company?s technology would enable LFAs with greater sensitivity, opening the door for platform expansion to previously undetectable diseases and toxins. Moreover, through the company?s immersion into customer discovery and business model canvas principles, we will become experts in the Lean LaunchPad methodology and can then apply this methodology to future target customer segments.
 
 This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria."
-},
-
-{
-"title": "University of California-Santa Cruz",
-"slug": "university-of-california-santa-cruz",
-"date": "07/24/2014",
-"awardee": "University of California-Santa Cruz",
-"city": "Santa Cruz, CA",
-"piName": "Adina Paytan",
-"amount": "$250,000",
-"abstractText": "Dr. Adina Paytan of the University of California, Santa Cruz will lead a three-year International Research Experiences for Students (IRES) project supporting collaborative research projects by 18 U.S. graduate students with scientists from the InterUniversity Institute (IUI) in Eilat, Israel. The project provides international research opportunities related to coastal zone sustainability to US graduate students in the geosciences. The project also trains these students in the processes required to formulate, design and conduct original research overseas, an essential skill for today?s scientists who must function effectively on multi-national teams and work on projects that are globally relevant. 
-
-This project focuses on coastal zone research, covering the complex ecosystems extending from fresh water systems to near-shore ocean systems. These ecosystems face numerous challenges and offer significant research opportunities of global importance. The students will work with well-regarded Israeli researchers and will use the excellent facilities of the IUI located on the Gulf of Aqaba. A total of six students per year over three years (18 total students) will participate in this summer research program in collaboration with scientists from IUI. 
-
-This project is somewhat unusual in that a clear research plan for the students is not defined at the outset. However, this is also a crucial strength of the project, since students will develop the skills needed to perform independent, globally oriented research. Students will apply by preparing their own proposal for a summer research project in Israel that complements their ongoing thesis work in the US. Students who are accepted will then further develop the idea in collaboration with the selected Israeli investigator over the course of a quarter-long planning course. The U.S. students will get first-hand experience in skills essential for their long term scientific success:  constructing scientific research questions that link local and international coastal zone sustainability issues,  initiating interactions with non-U.S. scientists, collaboratively designing and executing a research plan, dealing with logistics related to work overseas, communicating and disseminating results jointly with their collaborator, and maintaining long term relations with their international partners."
 },
 
 
@@ -14193,22 +12800,6 @@ This award reflects NSF's statutory mission and has been deemed worthy of suppor
 
 
 {
-"title": "University of Colorado at Boulder",
-"slug": "university-of-colorado-at-boulder",
-"date": "01/08/2018",
-"awardee": "University of Colorado at Boulder",
-"city": "Boulder, CO",
-"piName": "Matthew McBride",
-"amount": "$50,000",
-"abstractText": "The broader impact/commercial potential of this I-Corps project will result in higher performing polymeric photonic materials (plastics which interact with light) which will have extensive application in consumer devices such as computers, cell phones, lighting units, telecommunications, cameras, and sensors.  Polymeric photonic materials are finding evermore application in devices due to their low weight, high-impact resistance, and ability to be fabricated into unique shapes/architectures, however, have paltry optical performance when compared to their heavier, costlier glass counterparts.  The material developed here combines the existing positive attributes of polymeric optical materials while offering significantly higher performance without large increases in price.
-
-This I-Corps project will develop high optical quality crosslinked polymer networks with the unique ability to be remolded, reshaped, and repurposed when placed under the correct conditions without loss of mechanical integrity or optical properties.  Polymeric optical components (lenses, waveguides, etc.) are desirable over fragile and heavy glass counterparts, however, defects and birefringence (stresses which negatively interact with light) prevent polymers from being used for applications requiring high optical quality materials.  This proprietary technology allows for microscopic scrambling of chemical bonds to occur in the polymeric materials only when it is placed under certain conditions, effectively annealing out the aforementioned defects and birefringence in the polymer, giving high optical quality materials.  Current research is focused on taking this dynamic platform and placing it into commercially relevant resins that fabricate tough, robust, optically clear, high performance materials."
-},
-
-
-
-
-{
 "title": "University of Connecticut",
 "slug": "university-of-connecticut",
 "date": "01/26/2015",
@@ -14341,36 +12932,6 @@ This award reflects NSF's statutory mission and has been deemed worthy of suppor
 {
 "title": "University of Delaware",
 "slug": "university-of-delaware",
-"date": "02/20/2019",
-"awardee": "University of Delaware",
-"city": "Newark, DE",
-"piName": "Wesley Connor",
-"amount": "$50,000",
-"abstractText": "The broader impact/commercial potential of this I-Corps project is to change the way vehicles are driven to save energy, which will reduce fuel consumption and pollution near public roadways.  The first iteration of the technology will be in the form of recommendations made to drivers to affect velocity at different points along a route.  With the recent advancement to autonomous driver system implementation, this technology can be applied by directly interconnecting with the automated control systems rather than working through driver recommendations.  The safety of highways and all roadways will be enhanced with the system to recommend a maximum velocity prior to reaching road curves, preventing tipping and sliding.  Furthermore, less maintenance and longer lasting parts on vehicles such as brake replacements, tire replacements, and engine and transmission work will be needed.  This will benefit all of society in the form of reduced transportation cost.  
-
-This I-Corps project is the result of studies done in the field of control systems. Specifically, control systems which optimize velocity to minimize energy consumption over a driving route through the implementation of dynamic programming.  The technology uses vehicle characteristics such as mass, air drag coefficients, and motor efficiency, as well as altitude and heading to determine the speed profile which is a minimum for a given route, while still adhering to local speed laws.  The technical results which the project is based stems from simulations done in Matlab concerning all these parameters in different situations and environments.  The initial simulations have shown a 16% energy saving for city driving in a scenario.  The amount of energy saving will be highly situational and will likely vary widely depending on the vehicle studied and circumstances.
-
-This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria."
-},
-
-{
-"title": "University of Delaware",
-"slug": "university-of-delaware",
-"date": "02/12/2019",
-"awardee": "University of Delaware",
-"city": "Newark, DE",
-"piName": "Zhihao Zhuang",
-"amount": "$50,000",
-"abstractText": "The broader impact/commercial potential of this I-Corps project is to provide a biological measure of Parkinsons disease (PD) which is extremely valuable in determining treatment strategies for PD patients and in drug development against PD. PD is the second most common neurodegenerative disease in the United States with treatment costs that exceeded $14.4 billion in 2010 and projected to double by 2040. Effective treatment of PD requires reliable early diagnosis of PD, however no objective test for definitive diagnosis of PD currently exists. Current diagnosis is based on outward symptoms like tremors, slow movement, rigid muscle, brain imaging and usually requires multiple visits with neurology specialists to avoid misdiagnosis. In fact, a 2013 study determined that the direct cost of diagnosis for a new PD patient on average amounts to $7,322 and with 60,000 new diagnosis of PD made every year in US, the market of PD diagnosis is estimated to be a minimum $0.4 billion. A new diagnostic approach for early stage of Parkinson's disease (PD) will have a tremendous impact on the prevention and treatment of PD by providing a stratification strategy of patients and increase the success in clinical trial of PD treatment. 
-
-This I-Corps project is based on an understanding of the role of protein homeostasis in the cell and developing tools and techniques to decipher these pathways. PD is a neurological disease with the key hallmark of large deposits of Lewy bodies, an amalgam of aggregated proteins, in the affected motor neurons. Literature reports have identified certain biomarkers in Lewy bodies that have unique signature of post-translational modification which can cross the blood brain barrier. This project leverages techniques that identify signatures on the biomarker in PD blood samples and utilize tools that recombinantly generate biomarkers and develop antibodies against them, which will allow development of a test kit for early detection of PD non-invasively.
-
-This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria."
-},
-
-{
-"title": "University of Delaware",
-"slug": "university-of-delaware",
 "date": "08/16/2018",
 "awardee": "University of Delaware",
 "city": "Newark, DE",
@@ -14391,21 +12952,6 @@ This award reflects NSF's statutory mission and has been deemed worthy of suppor
 
 
 
-
-{
-"title": "University of Florida",
-"slug": "university-of-florida",
-"date": "06/18/2018",
-"awardee": "University of Florida",
-"city": "Gainesville, FL",
-"piName": "Gloria Kim",
-"amount": "$50,000",
-"abstractText": "The broader impact/commercial potential of this I-Corps project will be the improvement of the quality of lives of both the individuals with Autism Spectrum Disorder (ASD) and their caregivers. The prevalence of autism has increased by 15% in 2014. Now, 1 in 59 children born in the US has ASD. This translates to roughly 5.5 million individuals in the US who are less likely to go to college or find a job after high school. Our user-friendly, discreet device can help affected individuals gain independence and create a supportive learning or working environment for them. Pre-emptive meltdown detection and care devices are virtually non-existent in the current marketplace. As the first to enter the market at an affordable price point, we expect to lead and spawn derivative products. Beyond autism, our platform technology can be utilized to push data to a healthcare professional, catalyzing informed and personalized preventive care. Other conceivable application is monitoring compliance and measuring the effectiveness of rehabilitation exercises for muscle engagement of stroke patients. Our innovation also has the potential to reach and assist those affected by other types of anxiety disorders. It can help people become more informed about their own mental health, intervene, and lead healthier lives. 
-
-This I-Corps project involves wearable technology for predicting, detecting, tracking, and mitigating meltdowns for individuals with Autism Spectrum Disorder (ASD). We have developed a biometric sensing suite comprising two components: The hardware portion consists of a detachable, water-resistant core unit for biosignal filtering, processing, and transmission as well as machine washable sensors that can be embedded into apparel; The software portion consists of our proprietary machine learning models for determination of when a meltdown is to occur, alerting the parent or caregiver of a high risk of a meltdown, and an assessment of mitigation techniques afterwards. Our innovation will advance autism research, as the technology has the potential to open the doors to a better understanding of behavioral phenotypes. Being able to tell what a non-verbal child is feeling can pave the way for more efficient and productive lessons for social/education development as well as broader phenotypical research. The assessment feature of our product will lead to the improvement of mitigation techniques for meltdowns. gaia's competitive advantage is in its pre-emptive nature of care. Proof-of-concept was demonstrated, and a beta prototype will be complete by the end of Summer 2018.
-
-This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria."
-},
 
 {
 "title": "University of Florida",
@@ -14660,25 +13206,6 @@ The technical work of IMaD will involve integration of software and services fro
 This award received co-funding from the Math and Physical Sciences Directorate (MPS) Division of Materials Research (DMR)."
 },
 
-{
-"title": "University of Illinois at Urbana-Champaign",
-"slug": "university-of-illinois-at-urbana-champaign",
-"date": "04/26/2016",
-"awardee": "University of Illinois at Urbana-Champaign",
-"city": "Champaign, IL",
-"piName": "Thanh Nguyen",
-"amount": "$250,000",
-"abstractText": "IRES Water Quality and Household Energy in Post-Earthquake Nepal: Long Term Protection of Community Health
-
-Non-technical description
-
-This IRES award brings together a diverse community of researchers and students from the United States and Nepal. In addition to working directly with local and international scientists, U.S. students will communicate to other undergraduate and graduate students through blogging about international research experience. Participants will also develop education materials, with help from local collaborators, to help inform community members in host countries. Upon return to their home institution, students will present their results through professional seminars and scientific publications. The students trained by this proposed program will be the future leaders of an elite international development workforce diminishing the impact of infectious disease on human health by nurturing the interaction of persons of different disciplines and skill sets to meet water, sanitation, and household energy needs worldwide.
-
-Technical description
-
-This U.S. - Nepal international research experience for students (IRES) project supports partnership between researchers from the University of Illinois at Urbana-Champaign (UIUC), the Environment and Public Health Organization, Nepal (ENPHO), the Center for Rural Technology Nepal (CRT-N), the Institute of Engineering, Nepal (IOE) and the Nepal Department of Health Services. Over a three-year period, this program will engage three U.S. undergraduate and three U.S. graduate students annually, for a total of eighteen participants, at multiple research sites in Nepal to study the aftermath of natural disaster like earthquake on microbial water quality compounded with sanitation practices. Following training and research preparation at UIUC, students will travel to Nepal, where they will be co-mentored by professors and researchers from the partner institutes. Each student's research training will include experience with planning and implementation of field strategies for drinking water sampling in the affected areas; interviewing local people to understand the sanitation practices and the sustainability of relief efforts; and data collection on waterborne illnesses. Following each portion of fieldwork and sample processing in Kathmandu, participants return to UIUC to prepare collected samples for metagenomics, 16S and 18S sequencing, qPCR and bioinformatics analysis. These will be studied to identify opportunistic pathogens in collected water sample, and patterns of presence with different sanitation practices. Results will provide new insights on the risks of outbreak of diarrheal diseases after extreme natural events in developing world, and how human practices may increase or decrease these risks."
-},
-
 
 
 
@@ -14863,21 +13390,6 @@ This project will continue to contribute a wide range of I-Corps materials, trai
 {
 "title": "University of Maryland College Park",
 "slug": "university-of-maryland-college-park",
-"date": "02/15/2019",
-"awardee": "University of Maryland College Park",
-"city": "College Park, MD",
-"piName": "Dennis vanEngelsdorp",
-"amount": "$50,000",
-"abstractText": "The broader impact/commercial potential of this I-Corps project is to enable more effective commercialization of a sustainable lawn alternative in the form of wildflower sod. Grass lawns are ubiquitous in the continental US covering an estimated 40 million acres of land, an area more than three times that of any other crop, including corn, soy and wheat. While grass lawns are beloved by American landowners, they are expensive, requiring more water, pesticide and fertilizer inputs than any other crop. These inputs degrade waterways and create biological deserts. In response, there is a growing call for sustainable lawn alternatives with an emphasis on native wildflower meadows. Despite the demand for meadowscapes, grass only turf continues to dominate the US landscape, in part, because the United States (US) does not have dependable, effective tools for meadow establishment. Introduction of wildflower sod/turf products to the US market will contribute to desired societal outcomes; such as meeting objectives mandated by state and federal water quality policies and initiatives, increasing biodiversity and helping ensure the health of pollinating insect communities, which provide food security through the pollination of wild and cultivated crops. 
-
-This I-Corps project will advance the teams knowledge of potential barriers to widespread adoption of wildflower meadows. While the ecological benefits of wildflower meadows are fairly well understood, few studies have investigated meadow implementation from the perspective of land managers, landscape professionals and communities. Understanding the market obstacles of replacing high input lawns with sustainable flowering meadows is the first step in finding viable solutions. The technology being pursued is a biodiverse meadow sod comprised of native grasses and wildflowers. Conceptually, it is similar to traditional sod in that the turf is moveable and easy to install. The US team has partnered with a UK company which developed the production system on which the new technology is based, and has been the leading supplier of wildflower turf in Great Britain since 2003. The new IP will include adapting the UK growing system to 1) work with US plant species and climates, and 2) development of native seed mixes that grow well in the production system and that will provide the desired aesthetics for an urban setting
-
-This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria."
-},
-
-{
-"title": "University of Maryland College Park",
-"slug": "university-of-maryland-college-park",
 "date": "05/31/2018",
 "awardee": "University of Maryland College Park",
 "city": "College Park, MD",
@@ -14947,21 +13459,6 @@ This award reflects NSF's statutory mission and has been deemed worthy of suppor
 "abstractText": "This project supports teachers, administrators and researchers to collaborate around online education resources and big data. It will increase the capacity of participants in Educational Big Data in the Northeast to analyze data from schools, students and administrators and to improve teaching and learning. However, as more refined data comes from online instructional systems and the use of data mining techniques, participants will learn to search for patterns and associations and to draw conclusions about student knowledge, performance and behavior. This research addresses several grand challenges in education: 1) Predict future student events, e.g., college attendance, college major, from existing large-scale longitudinal educational data sets involving the same thousands of students. 2) Help teachers to make sense of dense online data to influence their teaching, e.g., what should they say or do in response to student activity. 3) Provide personal instruction to each student based on using big data that represents student skills and behavior and infers students' cognitive, motivational, and metacognitive factors in learning. The project will improve the capacity in data-driven education by sharing educational databases, managing yearly data competitions, and conducting educational data science workshops and hackathons. Measurable results include studying gigabytes of data to: create actionable recommendations for classroom teachers; make effective and successful predictions about students; develop new AI methods for education; and create new data science tool sets. Key outcomes include introducing many researchers to educational big data, learning analytics and models of teaching interventions. The team intends to improve classroom learning and leverage the unique types of data available from digital education to better understand students, groups and the settings in which they learn.
 
 Computers have been in classrooms for decades and yet educators have not identified the most effective ways of using them. Despite advances in evaluation methods to measure human learning, most researchers still use measures available 50 years ago. This project will leverage and extend state-of-the-art big data bases and technologies to measure online learning, especially features of student engagement and learning associated with improved student outcome. This project has the potential to reach millions of students (while learning), hundreds of researchers while measuring human learning (from education, cognitive science, learning sciences, psychology, and computer science) and a dozen other organizations (publishers, testing organizations, non-profit organizations, teachers, parents, and stakeholders). The team brings together a unique blend of researchers from data science (Baker, Heffernan); adaptive education technology and computer science (Woolf, Arroyo); and learning sciences (Arroyo, Heffernan). It includes women and minorities (Woolf, Arroyo), people who helped develop the largest educational database in the world (Baker), developers of data science teaching materials (Arroyo, Baker), and others who have developed online tutoring systems that achieve significant student success in learning (e.g., Heffernan, Arroyo, Woolf)."
-},
-
-{
-"title": "University of Massachusetts Amherst",
-"slug": "university-of-massachusetts-amherst",
-"date": "07/30/2013",
-"awardee": "University of Massachusetts Amherst",
-"city": "Hadley, MA",
-"piName": "Krista Harper",
-"amount": "$249,861",
-"abstractText": "This US-Spain IRES project further develops and expands research and training opportunities related to the anthropology of culture and heritage in Europe successfully launched in the 2010-2013 NSF-funded CHESS program (OISE-0968575). This project will provide an early-career international research experience for fifteen (15) undergraduate and graduate students from the University of Massachusetts Amherst and the Five Colleges consortium. The PI and co-PI will recruit three cohorts of students to conduct systematic, comparative research around the theme of "Cultural Heritage in European Societies and Spaces (CHESS)" as part of a three-year research project and training program in collaboration with the Department of Anthropological Sciences at the University of Barcelona in Spain. For each of the three years, research projects will be organized around a central research stream: highlighting specific strengths of the US and Spanish faculty: 1) "Crisis, culture, and heritage" (2013-2014); 2) "Sustainable heritage, communities, and economies" (2014-2015); and 3) "Social Justice, heritage, and changing forms of value" (2015-2016).   Students will be trained through a course series in research design and methods, field research in Europe, and data analysis and writing for publication.  International research and training workshops at the two universities will provide US students with intensive mentoring from renowned European scholars, as well as networking and collaboration with their international peers.  
-
-Intellectual merit: Anthropologists have critically engaged the concepts of culture and heritage for decades, but the rise of the field of heritage studies offers new opportunities for ethnographic investigation of how these central disciplinary concepts are being used by policymakers, citizens, and other social actors. By developing their projects in relation to a central set of research questions, students will contribute to three key areas of inquiry for the larger comparative investigation of culture and heritage as sites of contestation, conflict, and cohesion in Europe. The proposed CHESS program provides an integrative framework for an ethnographic field school that will draw the participation of students across the four subfields of anthropology (cultural, linguistic, archaeological, and biological) and serve as a model for interdisciplinary research teambuilding. 
-
-Broader impacts: Government institutions face new demands to develop public programming that reflects our nation's diverse, multicultural heritage, and there is a growing need for social scientists trained in the anthropology of heritage and related fields.  Broader impacts of the project include 1) training a diverse group of fifteen (15) US students for international, comparative anthropological research on cultural heritage policies and debates, 2) developing scientific research networks between anthropologists in the US and Spain that will form the basis for further international research projects and ongoing relationships, including synergistic initiatives between the UMass Department of Anthropology, and new certificate programs in Heritage and Society Studies and Modern European Studies, the Five Colleges consortium, and European partner institutions; 3) collaborating with faculty and students from Spain to produce a body of systematic, comparative research on debates surrounding heritage management in Europe, including research reports, peer-reviewed publications and conference presentations, project-related theses, and multimedia case studies for use by community organizations, policymakers, and classroom instructors. These publications are available to the general public through a CHESS project website professionally archived by the UMass Amherst library.  Holding an international CHESS workshop at UMass Amherst each year of the program further extends the broader impacts enabling at least 30 U.S. students to develop international professional networks, mentoring relationships, and collaborators."
 },
 
 
@@ -15047,36 +13544,6 @@ This award reflects NSF's statutory mission and has been deemed worthy of suppor
 "abstractText": "This project by the University of Michigan I-Corps Node, one of the founding NSF I-Corps nodes, will expand the founding Node into a comprehensive regional node called I-Corps Midwest. I-Corps Midwest Node brings together the University of Michigan (UM) as the lead institution, and the University of Illinois Urbana Champagne, and Purdue University as partner institutions. This Node is uniquely suited to serve the Midwest entrepreneurial ecosystem by bridging rural communication gaps that typically lead to an uninformed commercial opportunity around research inventions, difficulty in retaining and accessing talent with sufficient breadth of specific and relevant expertise, and instilling customer discovery memory across I-Corps programs allowing entrepreneurial researchers to leverage learning from previous I-Corps teams.
 
 This project will create mechanisms to overcome the consequences of low ecosystem density by building on the existing partner university collaborations and create an active and cohesive network that leverages their collective commercialization pipeline, previous experiences, and connections. The Node will form a deeper understanding of the individual motivations and experiences of the faculty and students as they participate in I-Corps programs. This knowledge will help to continue driving culture change at these institutions and create the innovation human capital needed to move research ideas forward into the marketplace. The Node will create measurements of network activity and the resulting outcomes will provide information on which methodologies are effective and should be propagated to other regional clusters and the nation. This project builds on the previous four years of work by NSF to create collaborations that are critically important for institutions that are not located in entrepreneurially dense areas to reach and prepare individuals to compete on a national and international level."
-},
-
-{
-"title": "University of Michigan Ann Arbor",
-"slug": "university-of-michigan-ann-arbor",
-"date": "02/04/2019",
-"awardee": "University of Michigan Ann Arbor",
-"city": "Ann Arbor, MI",
-"piName": "Jonathan Fay",
-"amount": "$50,000",
-"abstractText": "The broader impact/commercial potential of this I-Corps project is significant since the platform is an enabler of a range of high-speed wireless communications for next generation broadband applications. The next generation of the telecommunication network (5G and beyond) is going to be a technological paradigm shift, which is not only an evolution of the network but also the underlying fabric of an entire ecosystem of fully connected intelligent sensors and devices. 5G is an enabler of many applications and will impact virtually every industry sector, ranging from automotive, manufacturing, healthcare to smart city Internet of Things (IoT) and smart homes. Full realization of the economic growth of 5G, however, will depend on how robustly the network is deployed, and will require different approaches from those used in the past. In order to enable the ten-fold increase in data-rate and capacity, 5G network will heavily rely on advanced wireless technologies. The company's technology platform will solve some of the key challenges of wireless radios and networks, and will pave the way towards the rapid roll-out and growth of 5G, in the global race to get to the 5G first.
-
-This I-Corps project aims to enable multi-gigabit wireless communications for the emerging high-speed wireless applications. The core of the company's technology is a high-performance RF front-end, which enables our unique combination of features in our innovative wireless transceiver. The proposed RF front-end is based on novel system-level architectures along with high-performance RF components and sub-systems that are fundamentally different from the existing state-of-the-art fiber-speed wireless modules. To enable realization of the RF front-end, the team is applying a set of innovative design methodologies and technologies to tackle the challenges of the proposed complex RF front-end architectures. The company's RF front-end platform is the core technical contribution and intellectual merit of the approach, which provides the hardware necessary to enable the vision of a truly fiber-speed network with the ultimate network robustness, agility, with significant cost savings for the operators and businesses.
-
-This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria."
-},
-
-{
-"title": "University of Michigan Ann Arbor",
-"slug": "university-of-michigan-ann-arbor",
-"date": "02/04/2019",
-"awardee": "University of Michigan Ann Arbor",
-"city": "Ann Arbor, MI",
-"piName": "Ariella Shikanov",
-"amount": "$50,000",
-"abstractText": "The broader impact/commercial potential of this I-Corps project is to identify stakeholders and customers and to develop the most appropriate path forward to translate the company's technology to the clinic and bring it to the patients. Currently young girls suffering from premature ovarian insufficiency (POI) as a result of anticancer treatments have limited and inadequate options to undergo puberty and start their transition into adult life. The existing hormone replacement therapy (HRT) applied to induce puberty in girls with POI leads to long-term morbidities, such as decreased bone density, predisposition to obesity and diabetes. The company's technology allows the restoration of ovarian endocrine function in prepubescent girls and has the potential to become a central mainstream treatment for POI, which would result in significant improvement of the short and long-term health and eliminate long-term morbidities associated with premature ovarian failure. The commercial benefit of the proposed treatment would result from significant lower health costs associated with obesity, diabetes and osteoporosis.  
-
-This I-Corps project will further the company's understanding of the current state of the field and the value of the proposed technology, and help identify the next steps for preclinical and clinical studies. The company developed an immunoisolating capsule that supports the survival and function of ovarian allograft eliminating the need for immune suppression. The company's central hypothesis is that ovarian tissue secretes the gonadal hormones, estradiol, progesterone, androstenedione, activins and inhibins, in response to systemic hormone stimulation in a pulsatile and dynamic rate required for physiological progression through puberty, growth and associated metabolic changes. Experimental data from in vivo mouse and primate studies have demonstrated promising results of restoration of hormone function integrated in the endocrine system and neuroendocrine axis, with no evidence of immune rejection or local inflammatory adverse response. The next critical steps in the company's project is to perform customer discovery and identify partners for first-in-human trials.
-
-This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria."
 },
 
 {
@@ -15551,21 +14018,6 @@ This I-Corps project is focused on building a recommender system for assigning v
 "abstractText": "The broader impact/commercial potential of this I-Corps project is to introduce a fully integrated current sensor with an order of magnitude performance improvement over the state-of-art technologies. The developed technology will enable more reliable, efficient and compact power electronics systems. Power electronics is an integral part of today's power delivery systems such as renewable energy systems, electric vehicles, data centers and most consumer electronics. In these applications, electric current information is often an essential parameter that needs to be known and measured for control, diagnostic and prognostic purposes. With advances in power electronic circuits with specific attention to high frequency power converters, there is a need to investigate alternative approaches and techniques to measure the current. These approaches should result in availability of current sensors that have fast-response, are accurate, loss-less, and preferably non-intrusive. The impact of such a sensor is to enable systems and circuits that will be miniaturized and more efficient through the use of wide band-gap semiconductors and high switching frequencies. Additionally, the availability of current measurement information will lead to greater reliability and prognostic capability. Applications include power converters in electric vehicles and data centers.
 
 This I-Corps project will explore the commercial potential of the current sensor technology in different industry sectors such as automotive, telecommunications, and data centers. Today, there is no current sensor that can be used in many power electronics systems or integrated into semiconductor modules optimized to operate with switching frequencies beyond 1MHz. This project will address the need and requirements for such sensors by moving away from commonly-used Hall-Effect sensors and utilizing magneto-resistors. With proprietary IC circuitry and packaging, the project team is developing contactless, lossless sensors with bandwidths up to 10 MHz, while overcoming the measurement challenges due to EMI, asymmetrical current distributions and non-uniform magnetic field."
-},
-
-{
-"title": "University of North Carolina at Charlotte",
-"slug": "university-of-north-carolina-at-charlotte",
-"date": "02/04/2019",
-"awardee": "University of North Carolina at Charlotte",
-"city": "Charlotte, NC",
-"piName": "Michael Walter",
-"amount": "$50,000",
-"abstractText": "The broader impacts of this I-Corps project are to improve hands-on laboratory experiences in the field of materials science and to increase STEM awareness for students/instructors at the 9-12 and undergraduate levels. The educational kit bridges the gap between theoretical and practical molecular materials technologies. The kit is an interactive learning tool designed for interdisciplinary laboratory activities and can be used in physics, chemistry, engineering, and material science educational settings. The kits provide all needed materials, a fully developed curriculum, and training for implementation. Professional development workshops for instructors help to integrate the laboratory activities into instructor?s existing science curriculum while addressing national and international science standards. There is a significant market for hands-on laboratory activities that incorporate contemporary science experiments currently under investigation and development at the university level. School districts and science / engineering departments will likely be interested in acquiring the kits, making them a commercially impactful and important education platform. The kit is flexible and can be expanded upon to include future experiments and professional development. The kits can also be used and developed for extracurricular activities such as science fairs and competitions.
-
-This I-Corps project involves a polymer electronics laboratory kit to improve materials science education for 9-12 and undergraduate students. The three-module kit and curriculum use polymer semiconductors to provide hands-on inquiry activities integrating themes of electrical conductivity, light emission, and light-harvesting solar energy conversion. These themes are critical to contemporary materials science research and education. The kit includes materials to evaluate the electrical properties of conductive colloidal polyaniline inks, to construct a polymer light- emitting diode using polyphenylene vinylene, and to build a polymer solar cell using semiconductive polymers and nanoparticulate TiO2. Designed initially for high school science classrooms, the activities developed also meet new collegiate undergraduate education requirements for macromolecular, supramolecular, and nanoscale systems in the curriculum and can be used in undergraduate teaching laboratories. The modules and kit have also been implemented in professional development workshops for training 9&#8722;12 science educators to help integrate the laboratory activities into their curriculum.
-
-This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria."
 },
 
 
@@ -16074,19 +14526,6 @@ This I-Corps project explores the commercialization potential for a multi-sensor
 This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria."
 },
 
-{
-"title": "University of Southern California",
-"slug": "university-of-southern-california",
-"date": "11/17/2017",
-"awardee": "University of Southern California",
-"city": "Los Angeles, CA",
-"piName": "C. Ted Lee, Jr.",
-"amount": "$50,000",
-"abstractText": "The broader impact/commercial potential of this I-Corps project is to accelerate and control gene delivery, and to allow researchers to find novel solutions to challenging diseases.  Gene delivery, also known as transfection, is a promising approach to treat diseases such as cancer and, thus, could provide a profound benefit to society.  Using gene therapy and immune-therapy, gene delivery allows for the efficient introduction of a new gene into cells. The specific technology employed offers a photo-responsive, nanoparticle-based technique with the advantages of higher efficacy, controlled gene-release, and faster transfection rates.  This has the potential to dramatically decrease the time required for transfection, as well as greatly reducing the required amount of gene and/or drug.  Thus, along with providing researchers the unique ability to control the process through a simple light trigger, this technology could provide substantial commercial impact.
-
-This I-Corps project is a gene delivery tool that utilizes two biocompatible surfactants which associate spontaneously into light-sensitive nanoparticles when dissolved in water.  Nucleic acids (DNA/siRNA) can be loaded inside of the nanoparticles to protect the nucleic acids until they reach the interior of cells.  Similarly, hydrophobic/hydrophilic drug molecules can also be carried within the nanoparticles.  Subsequent exposure to ultraviolet (UV) light leads to nanoparticle dissociation, resulting in the triggered release of nucleic acids, which can then modify the DNA of the cell or stop disease-associated protein production.  Researchers would be able to utilize this gene delivery technology in two different ways: (1) substitution of new genes to the cell, or (2) inactivation of existing genes.  The combination of lower costs (of both the carrier components and the nucleic acids due to higher efficiencies) and faster delivery/transfection rates with our technology compared to current gene-delivery technologies could have a considerable impact throughout the industry."
-},
-
 
 
 
@@ -16103,24 +14542,6 @@ This I-Corps project is a gene delivery tool that utilizes two biocompatible sur
 The project objectives are to (1) enhance faculty expertise in big biological data through summer workshops; (2) catalyze interdisciplinary collaboration on big biological data research and education through hackathons, working groups, and community-building via a Video Education Faculty Network; and (3) develop hands-on, constructively peer-evaluated learning modules incorporating high-quality video tutorials. The proposed activities will address challenges surrounding the integration and automation of big biological data into education and training at predominantly undergraduate institutions and Historically Black Colleges and Universities. The project will help bridge the gaps between big biological data and the fields of systems biology, ecology and evolution, and environmental sciences. Overall, the project will catalyze collaborations among diverse institutions and disciplines while increasing diversity in big data. 
 
 This award is co-funded by the Improving Undergraduate STEM Education: Education and Human Resources (IUSE): EHR Program (NSF 17-590). IUSE supports projects that are designed to improve student learning through development of new curricular materials and methods of instruction and development of new assessment tools to measure student learning.
-
-This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria."
-},
-
-
-
-
-{
-"title": "University of Tennessee Knoxville",
-"slug": "university-of-tennessee-knoxville",
-"date": "02/15/2019",
-"awardee": "University of Tennessee Knoxville",
-"city": "Knoxville, TN",
-"piName": "Abhijeet Borole",
-"amount": "$50,000",
-"abstractText": "The broader impact/commercial potential of this I-Corps project is to substantially reduce green house gas (GHG) emissions from landfills, industry, and transportation, while providing a zero-emission fuel to collectively contribute towards a more sustainable, closed-loop economy. Fuel cell technologies are a solution that has the potential to transform transportation industry with zero tailpipe emissions like electric cars, but with mileage range similar to gasoline and diesel fuel.  Additionally, stationary fuel cells can provide a zero emission electricity source.  Developing a viable system to convert organic waste into renewable hydrogen in a modular, decentralized fashion can be a paradigm changer for hydrogen supply and the fuel cell market while solving additional societal issues surrounding food waste and fossil fuel emissions. 
-
-This I-Corps project proposes to develop a modular microbial electrolysis stack system capable of continuous high-rate hydrogen production from food waste. The innovation is based on electron or electricity producing bacteria, which generate current from organic waste and a device that Electro-Active has developed to enable high-rate hydrogen production from that current. It incorporates optimized reactor design and operation to sustain productivities typically seen only with pure substrates. To demonstrate proof-of-concept for this technology, target productivities and price point must be demonstrated in a larger reactor unit over a longer period of time. Sustained performance requires high-rate biocatalytic conversion of feedstock, and high-rate proton transport to the cathode. To overcome these challenges, a patented microbial enrichment process has been created to develop a robust microbial community capable of converting complex waste into electrons at high rates and efficiency. Additionally, preliminary data with robust biocatalyst, novel reactor design and operation provides evidence that the integrated approach can overcome these limitations.
 
 This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria."
 },
@@ -16220,29 +14641,6 @@ This award reflects NSF's statutory mission and has been deemed worthy of suppor
 This I-Corps project focuses on a technology that can be pictured as a tube, shaft, or long arm with a squeegee at its tip. Its main purpose is to serve as a cleaning mechanism for the far end of an elongated instrument. The intellectual merit of this technology allows for the exploration of cleaning technology application surrounding elongated instruments, with particular opportunity in the medical field. At this stage, proof of concept has been demonstrated with functional prototypes that show acceptable performance. There is particular use for applications where the elongated instrument is constrained within a narrow and/or deep cavity.
 
 This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria."
-},
-
-{
-"title": "University of Texas at Austin",
-"slug": "university-of-texas-at-austin",
-"date": "08/06/2015",
-"awardee": "University of Texas at Austin",
-"city": "Austin, TX",
-"piName": "Elizabeth Catlos",
-"amount": "$250,000",
-"abstractText": "IRES: Closing Oceans: Assessing the Dynamics of Turkish suture zones
-PI: Catlos, co-PI: Elliott, Kyle
-
-PART 1:
-This International Research Experiences for Students (IRES) program provides four weeks of geological field-based research and training experiences across Turkey for 12 US students. Over the next 3 years, these students will investigate suture zones,i.e.locations where ancient ocean basins closed across the country. Turkey contains a large number of these zones, which are key locations used by geologists to understand how continents grow. Continental growth is considered one of the most important problems facing Earth Scientists, yet models for the process are debated, due in part to a lack of geologic record. Because of its extensive outcrops of ancient rocks associated with suture zones, Turkey is an ideal location to study this process.
-
-The IRES program has societal value, as Turkey's suture zones can be associated with important ore and mineral resources or are regions of major, present-day geologic hazards. Older faults that worked to close the ocean basins today form regions of active earthquake activity or have generated topography that leads to large landslides. Understanding the locations and ages of Turkey's ancient suture zones has an impact on diverse topics, including mineral exploration and hazard reduction. This proposal includes partnerships with faculty at three Turkish universities (Dokuz Eylul University, Middle East Technical University, and Karadeniz Technical University) who will serve as mentors. Students chosen to participate are underrepresented in the geosciences and are selected via Jackson School and UT Austin outreach programs. Students will partner with Turkish researchers to explore a range of geological concepts discussed in their courses while making a significant impact on our understanding of processes related to the formation of continental crust. Students will apply innovative methods to address scientific questions involving both the timing and impacts of Turkey's suture zones, including electronic-based field mapping techniques and new geochemical approaches. This in turn will lead to insight into how the past geological history of Turkey impacts its present day concerns, including the development of economically important resources and hazard mitigation.  
-
-
-PART 2:
-Understanding how continents grow is recognized as one of the most important geodynamic problems facing Earth Scientists. Models for the process are debated, due in part to a lack of exposure of the geologic record. Because of its extensive exposures of ancient ocean suture zones and crustal fragments, Turkey is an ideal location to study this process. This International Research Experiences for Students (IRES) program provides four weeks of geological field-based research and training experiences across Turkey for 12 US students. Over the next 3 years, these students will investigate the arc accretion processes that occurred in Turkey during the closure of branches of ancient ocean basins.
-
-In addition, the IRES program has societal value, as paleogeographic reconstructions are used to identify important economic resources that formed during specific times in Earth's history and assess geologic hazards that result due to reactivation of older faults or mass movement of rocks. This proposal includes partnerships with faculty at 3 Turkish universities (Dokuz Eylul University, Middle East Technical University, and Karadeniz Technical University) who will serve as mentors. Students chosen to participate are underrepresented in the geosciences and are selected via Jackson School and UT Austin outreach programs. Students will partner with Turkish researchers to explore a multidisciplinary range of geological concepts discussed in their courses while making a significant impact on our understanding of processes related to the formation of continental crust. Students will apply new and innovative field mapping, geochemical, and geochronological methods, lending greater insight into the history and mechanics of the assembly of Turkey."
 },
 
 {
@@ -16561,19 +14959,6 @@ The islands of Oceania support fish communities and human cultures whose histori
 This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria."
 },
 
-{
-"title": "University of Washington",
-"slug": "university-of-washington",
-"date": "08/01/2016",
-"awardee": "University of Washington",
-"city": "Seattle, WA",
-"piName": "David Ribes",
-"amount": "$399,415",
-"abstractText": "The world is being changed by Big Data, and data science is receiving a remarkably rapid uptake across the nation and the globe as it institutionalized in university curricula, state governance, and industry strategy. Across the sciences, state and industry, new forms of data collection and analysis hold the prospect of our being able to address the major social and scientific issues of our times: from responding to natural disasters to monitoring the environment to developing fundamental technological insights which will revolutionize industry.  None of this will happen by fiat ? the development of the appropriate data analytics must be accompanied by new organizational alignments between research, policy and industry.  The Big Data Hubs and Spokes (BDHubs) program is a key site for analyzing the nature of these alignments with a view to gaining a basic understanding of the stakes as the terrain shifts.  All long-term research and innovation infrastructure must adapt to such ongoing changes. This research will contribute to understanding institutional flexibility: strategies, techniques and organizational innovations to adapt to changes in regulatory, policy and funding environments.  We can expect but not precisely predict, continuing transformations in the sociotechnical, scientific and institutional ecologies of today?s research and scientific infrastructure.  This project will investigate the ongoing activities at the BDHubs and its partner institutions, their emerging plans for the future, and tie these to the long-history of developing research infrastructures (50+ years) to understand the changes we can expect BDHubs to encounter over time (scientific, technological and institutional), and what strategies they employ in the face of transformations to the landscape of science, information technology and institutional environment. 
-
-Many challenges facing contemporary science such as environmental research or chronic disease management require long-term studies and supporting infrastructures. This project will contribute directly to NSF and other efforts to build more open, effective, and sustainable knowledge communities across the sciences, industry and government. Improving understanding of the long-term trajectory of research infrastructure will lead to smarter and more sustainable investment and design choices on the part of project leaders, participants, tool builders, and funders. Many other science agencies are in the midst of funding such cross-cutting projects. This research will inform science policy and regulatory environments to help develop sustainable and productive research infrastructures. In order to do so, this study will develop a general organizational understanding of the development of large-scale and long-term endeavors in the data sciences and map the institutional landscape of modern data science with particular focus on the activities of infrastructure building, policy development and community formation. In addition, this study will help to develop an understanding of the ?rise of the data sciences? in the US both as an institutional movement and as a form of technical research, with special focus on establishing a framework for evaluating and understanding large-scale, cross-disciplinary collaboration on big data tools, techniques and methods."
-},
-
 
 
 
@@ -16782,21 +15167,6 @@ This award reflects NSF's statutory mission and has been deemed worthy of suppor
 {
 "title": "Vanderbilt University",
 "slug": "vanderbilt-university",
-"date": "02/04/2019",
-"awardee": "Vanderbilt University",
-"city": "Nashville, TN",
-"piName": "Jack Noble",
-"amount": "$50,000",
-"abstractText": "The broader impact/commercial potential of this I-Corps project addresses 1) improving the overall cochlear implant (CI) programming process, 2) enabling the assessment of the CI electrode array placement which has been shown to affect hearing outcomes, 3) reducing the subjectivity in CI programming by providing patient-specific objectives and quantitative information, and 4) creating a patient focused procedure by enabling CI users to have a better understanding of factors that affect their outcomes. According to the latest reports from several CI companies, around 37 million could benefit from a CI; the number of candidates among newborns each year alone is estimated around 150,000. This technology will not only individualize and enhance hearing outcomes but it will also increase market penetration, by making the benefits more apparent and programming less of a burden, thereby allowing more people to take advantage of the CI technology. Additionally, overall improved hearing outcomes will reduce isolation faced by older adults with poor hearing outcomes.
-
-This I-Corps project utilizes cutting-edge image processing algorithms that localize crucial inner ear structures as well as cochlear implant (CI) electrodes. The resulting information enables estimation of auditory nerve stimulation patterns which are then used to help guide CI programming where the goal is to determine a set of satisfactory settings that will lead to better hearing outcomes. Currently, the programming process is more of a subjective exercise than a patient-specific procedure that is based on quantitative and objective measurements. Clinical studies conducted with over 200 participating CI recipients have showed that significant improvements in speech discrimination as well as recognition in both noisy and quiet environments were achieved when CIs were programmed using this technology. In addition, over 70% of those participants decided to keep their new mapping. This project will help 1) better understand the features and characteristics of the current cochlear implant market including eligibility, surgery and programming, 2) consider the challenges in overcoming the status quo and changing the current audiological process, and 3) determine a commercially viable business model that will improve both the programming process and the hearing outcomes for CI users.
-
-This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria."
-},
-
-{
-"title": "Vanderbilt University",
-"slug": "vanderbilt-university",
 "date": "10/22/2018",
 "awardee": "Vanderbilt University",
 "city": "Nashville, TN",
@@ -16843,24 +15213,6 @@ rich culture and history of Japan. The host Japanese groups will also likely to 
 The US students will pursue time-dependent simulations of electron and ion dynamics in nanomaterials using novel atomistic quantum mechanical approaches. These investigations will be frontier applications of time-dependent first-principles quantum mechanical calculations to describe interaction of electromagnetic fields and matter, electron transport and scattering and physics of ultracold atoms. The results of these simulations will be valuable in evaluating the experiments probing new frontiers of material science.
 
 In collaboration with Japanese research groups, researchers from VU have developed a linear scaling atomistic approach to simulate the time-dependent behavior of molecules, solids, and nanostructures in time-dependent external fields. The approach allows for the simulation of electron and ion dynamics in systems containing thousands of atoms, incorporating the effect of electromagnetic fields by coupling the time-dependent Maxwell and Schrodinger equations. The participating students will use these computer simulations tools to study various systems, including high harmonics generation in solids, interaction of laser pulses and 2D materials, ionization and fragmentation of molecules by circularly polarized light, low energy scattering of electrons and biomolecules, and other interesting cases. The students will also develop and test novel computational approaches to increase the speed and accuracy of quantum simulations.
-
-This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria."
-},
-
-
-
-
-{
-"title": "Vanderbilt University Medical Center",
-"slug": "vanderbilt-university-medical-center",
-"date": "02/15/2019",
-"awardee": "Vanderbilt University Medical Center",
-"city": "Nashville, TN",
-"piName": "Samuel Rosenbloom",
-"amount": "$50,000",
-"abstractText": "The broader impact and commercial potential of this I-Corps project is to make physicians more efficient and improve the quality of patient care.  Potential short term societal and commercial impact includes improved quality of life for physicians, increased capacity for physicians to see more patients, and greater ability for physician to focus on the patient thereby enhancing the quality of healthcare service delivery.  Physicians spend over half their day working with electronic health record systems and typically spend an additional 1.5 hours on clinical documentation at the end of their day.  In the long term, the potential societal and commercial impact is improved quality of care as this work develops a learning health system where the technology can learn from the care of each patient to inform the care of future patients.  
-
-This I-Corps process will reveal the value that the intended product can deliver in making physicians more efficient and improving the quality of patient care across market segments (i.e., clinical specialty, care delivery method) as well as better understand the key opportunities, challenges, and stakeholders across segments.  The proposed technology captures clinical documentation in a structured format ready to be utilized by machine learning algorithms in order to enhance physician efficiency by reducing the documentation burden.  Additionally, the datasets can be used to support various needs of health systems including quality improvement, clinical research, operational efficiency, and billing support.
 
 This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria."
 },
@@ -17053,24 +15405,6 @@ As the strain on water resources and ecosystems intensifies, it is becoming incr
 "abstractText": "Bats are capable of swift, autonomous navigation through complex, natural environments - a feat that cannot be replicated by engineers at present. The central hypothesis behind this research is that system-level synergies between sensing, mobility, and control functions are critical factors behind achieving these unmatched capabilities of bats. To understand how these system-level synergies arise in nature, participating students will be advised by faculty teams spanning six departments to conduct interdisciplinary research projects centered on one of the following topics: acoustical scene statistics of natural bat habitats, dynamic biosonar sensing, maneuvering flight, neural control, physiological basis of sound emission and reception. All student projects will be based in the Shandong University - Virginia Tech International Laboratory in China.
 
 The educational outcomes of the project will be undergraduate and graduate students with interdisciplinary skills between biology and engineering that will allow them to interpret biological functions from an engineering perspective and within their respective biological contexts. Furthermore, the IRES trainees will acquire intercultural competencies to work effectively in international teams. The project's scientific outcomes will enable engineers to design better integrated autonomous systems, e.g., self-navigating drones, that will have bat-like capabilities to deal with natural, unconstrained environments, such dense vegetation."
-},
-
-
-
-
-{
-"title": "Virginia State University",
-"slug": "virginia-state-university",
-"date": "02/04/2019",
-"awardee": "Virginia State University",
-"city": "Petersburg, VA",
-"piName": "Cheryl Talley",
-"amount": "$50,000",
-"abstractText": "The broader impact/commercial potential of this I-Corps project is to teach math in after-school or summer enrichment  settings located in under-resourced communities. This project will result in cohorts of trained college student math mentors engaging younger students in the full set of digital learning and mentoring services aimed at mathematics.  This program can be integrated into the activities of existing academic enrichment program, such as those associated with the YMCA, Boys and Girls Clubs and other private entities. Because the trained mentors are college students employed by the company and often already volunteering for the afterschool programs, there is incentive for such private providers to partner with the PI's team and utilize their services. Increasing standardized test scores by reinforcing classroom learning in out-of-school settings is a value proposition for school districts and schools. Parents also see the importance of their children receiving a full high school diploma, which is predicated on standardized test scores.
-
-This I-Corps project  utilizes a game-based learning platform which uses the format of popular action games to implement math lessons.  The user interface is a three-dimensional first-person environment which can be displayed on a personal computer, mobile device or adapted to a virtual reality system.  Once in play, the scenarios given to the student teach the underlying principles behind math techniques. Gaming scenarios can compile to span full curriculums aligned with standardized tests. The digital experience is then reinforced in physical space by trained math mentors in after-school settings, Phygital Math Play rests on the premise that Physical and Digital gaming experiences can be used as motivational tools to learn mathematics in grades K-12. Just as the relational bonds between gamers is a crucial component of digital games, the mentor-mentee relationship will be developed and cultivated for physical play. An important element for this venture is building a mentoring infrastructure between institutions of higher learning and their surrounding school districts. The project team asserts that there should be no distressed school district within 20 miles of a minority-serving institution. To that end, undergraduate mentors will be trained to help reinforce the math concepts linking physical play and digital application experience to pencil-paper computation.
-
-This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria."
 },
 
 
@@ -17292,24 +15626,6 @@ This award reflects NSF's statutory mission and has been deemed worthy of suppor
 
 
 {
-"title": "Western Michigan University",
-"slug": "western-michigan-university",
-"date": "02/20/2019",
-"awardee": "Western Michigan University",
-"city": "Kalamazoo, MI",
-"piName": "Muralidhar Ghantasala",
-"amount": "$50,000",
-"abstractText": "The broader impact/commercial potential of this I-Corps project is to develop a low cost and reliable torque sensor for use with automotive and related applications. As the proposed torque sensing method is based on the speed, it can be used with most of the engine/transmission systems.  However, this technique requires modifications to make it suitable for use with electric engines.  This will enhance its applicability over a larger range of vehicle applications.  Automotive manufacturers also need the comparison of input torque at the engine and the torque delivered after the differential to the wheels.  This knowledge further helps in reducing possible losses in torque, and improving the efficiencies. This torque sensing method can meet automobile industry requirements of improved efficiency, low cost, while also providing accurate engine torque measurements. The total available market could include all automotive engines and transmissions in the medium and heavy duty vehicles, off-high way vehicles and others in the transportation sector. The long-term goal of this project is to expand the use of this method in other sectors, where instantaneous torque measurement can help to improve the process efficiency.
- 
-This I-Corps Project will help to investigate the commercialization potential of low cost torque sensors in different engine/transmission driven applications.  Relying on a virtual torque sensing concept, the proposed method requires minimal additional hardware, which makes it an economically attractive concept for automotive manufacturers.  Currently, automotive engine and transmission manufacturers use estimates for torque values.   The company found that the current engine ECU torque estimation has an accuracy of 5-30%.  Commercially available torque sensors cost $500 to $10000, making them non-viable for commercial transportation vehicles. Overall, the goal of the project is to seamlessly integrate the sensor along with the existing mechanical and electronic systems. This sensing method is being tested in a commercially available test facility.  An improvement in the accuracy of torque sensing can result in improved fuel efficiency, better driving comfort and reduced wear of gears.
-
-This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria."
-},
-
-
-
-
-{
 "title": "Wichita State University",
 "slug": "wichita-state-university",
 "date": "02/09/2016",
@@ -17332,21 +15648,6 @@ The WSU I-Corps Site program supports entrepreneurial students, faculty, and res
 The I-Corps Site activities expand on the university's existing strengths, creating momentum to spur increased engagement with student and faculty, increasing the pipeline of innovations from the university, increasing interaction and engagement with local entrepreneurial mentors, and promoting entrepreneurial and commercial thinking.
 
 The Broader Impacts for this Site include expanded development of a more diversified innovation ecosystem model that can be applied in other geographic regions. The additional knowledge gained from targeted entrepreneurship curriculum enables the WSU innovation ecosystem to attract and promote student and faculty innovations and research to improve the advanced manufacturing cluster, with particular focus on unrepresented groups (minorities, female, lower income populations). Entrepreneurial training/educational modules embed the entrepreneurial concepts into STEM and other innovation activities. Societal and economic impacts include enhancing and strengthening the Midwest innovation ecosystem, and contributing to stronger technology-based economic development in Kansas, job creation and retention, wealth creation, healthier work environment, student education, venture capital investment, and business start-ups and expansions."
-},
-
-{
-"title": "Wichita State University",
-"slug": "wichita-state-university",
-"date": "02/05/2019",
-"awardee": "Wichita State University",
-"city": "Wichita, KS",
-"piName": "Heidi VanRavenhorst-Bell",
-"amount": "$50,000",
-"abstractText": "The broader impact/commercial potential of this I-Corps project is to address a current void in medical and clinical practices across a broad scope of disciplines (e.g., dentofacial orthopedist, speech language pathologist, sleep medicine specialist, respiratory therapist, orofacial myofunctional therapist) specializing in Orofacial Myofunctional Disorders (OMD) (i.e., sleep apnea, dysphagia, malocclusions, tongue thrusts, articulation). Millions of people worldwide are impacted by some intricate and individualized form of OMD each year. Currently, there is a limited number of oral function diagnostic devices available. Providing a device, PARROT, that will capture real-time natural lingual behavior outside a controlled clinical setting may further one?s understanding of the obscure happenings within the oral cavity. Such information may further advance OMD diagnostic and rehabilitation practices as well as promote the engagement of new research across several medical and clinical fields. Recognizing the growing prevalence of OMD across multiple health related disciplines and the projected growth of a multibillion-dollar medical device manufacturing industry, PARROT may address such a need.
-
-This I-Corps project is purposed toward enhancing one's quality of life by establishing a robust method to view lingual behaviors potentially associated with OMD. The tongue's placement within the oral cavity obstructs and limits accessibility to observe and objectively record natural lingual behaviors (i.e., spatial positioning, placement, movement and performance). Such limitations may dilute biofeedback purposed toward identifying atypical patterns or mechanics potentially causing or promoting an OMD; thereby, impeding the appropriate application to effectively treat the OMD. PARROT is a wireless orofacial myofunctional imaging and pressure mapping appliance that introduces the potential for a systematic approach to objectively evaluate natural lingual behavior (e.g., region specific lingual movement, positional habits, and performance) while allowing an individual to continue routine daily activities and behaviors. To date, a particular proximity sensor has been identified for measuring tongue-palate distance along with contact and motion displacement across the stretch of the tongue in the oral cavity, while a specific pressure mapping matrix will measure intensity of pressure applied by the tongue across the palate and upper dentition. PARROT is currently in an Alpha Prototype state with configuration and optimization of biomaterials continuing prior to Beta Prototype validation.
-
-This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria."
 },
 
 
@@ -17434,24 +15735,6 @@ This award reflects NSF's statutory mission and has been deemed worthy of suppor
 
 
 The cytotoxicity of current biopreservation techniques is largely associated with inefficient cryoprotective agent and water delivery across the cell membrane during cooling leading to irreparable cell damage from ice formation. Phase I established a fundamentally different approach to cryoprotective agent (CPA) optimization by developing first-in-the-field bioinspired nanopores as transmembrane mega highways to facilitate safe and efficient intracellular delivery and removal of cryoprotective agents during cryopreservation and dramatically increase post-thaw cell yield, viability, and function. The pore-formers assist CPA loading at reduced temperatures to make up the functional loss of biological protein channels at cold temperatures, reduce the amount of CPA required to remarkably low concentrations, and expand the selectable range of CPAs, all while dynamically dissociating at physiological temperature to prevent open-pore toxicity. Further R&D effort will diversify molecular design, optimize lead molecules, scale-up production, and perform cryopreservation studies on regenerative medicines of major therapeutic significance such as stem cells and complex tissues.
-
-This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria."
-},
-
-
-
-
-{
-"title": "XACT MEDICAL, LLC",
-"slug": "xact-medical-llc",
-"date": "02/01/2019",
-"awardee": "XACT MEDICAL, LLC",
-"city": "Cincinnati, OH",
-"piName": "Robert Dunki-Jacobs",
-"amount": "$224,993",
-"abstractText": "This Small Business Innovation Research Phase I project enables key proof points behind the novel concept of a hand-held medical robot, i.e. use of a medical robot to autonomously perform a task during which neither the robot not the patient is fixed in space. The potential outcome of this project is a comprehensive line of robotic ultrasound transducers that enable a variety of interventional point-of-care robotic applications by enhancing the skills of a multitude of clinicians.  As a result, many technically challenging critical procedures will no longer be restricted to solely highly trained experts. Applications include central vascular access (pediatric and adult), biopsy, regional anesthesiology, precision extraction (e.g. thoracentesis), and precision injections (e.g. orthopedic biologics), creating an addressable market exceeding $2 billion. Benefits of man-machine teaming using hand-held medical robots include faster, simpler procedures that can be performed by a much broader group of clinicians, reduced medical complications and patient discomfort, and improved hospital infrastructure utilization, ultimately benefitting both clinical outcomes and total costs of care. Significant insights and implications for other man-machine teaming applications may also result from this project, with potential for robotic applications well outside of the medical realm. 
-
-The intellectual merit of this project centers on demonstrating the feasibility of first-of-kind hand-held robotic capabilities for autonomous needle placement. This project builds on two existing layers of innovation. First is the ability to use real-time ultrasound data to send a needle precisely to a point in the body. This differs significantly from other imaging modalities that require multiple images from different orientations integrated "off line." Next, this is an autonomous and powered system. Once a user selects a target, the needle path is calculated and the needle is advanced automatically. This project builds the third level of innovation through its research objectives - creating the real-time ability to i) recognize and track the target as an object, and ii) make automatic robotic corrections to maintain that target during user or patient movement or changes in target characteristics. The research involves novel image recognition and tracking technology and very precise novel sensing and control loop technology that interact in real time to maintain targeting accuracy in a dynamic environment. The anticipated technical result is to enable a non-expert clinician to reliably enter a clinically challenging "small" central blood vessel in a pediatric patient model with an introducer needle.
 
 This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria."
 },
@@ -17562,42 +15845,6 @@ This award reflects NSF's statutory mission and has been deemed worthy of suppor
 
 
 {
-"title": "Zebra Analytix, Inc.",
-"slug": "zebra-analytix-inc",
-"date": "01/30/2019",
-"awardee": "Zebra Analytix, Inc.",
-"city": "Fayetteville, AR",
-"piName": "Xiaoli Su",
-"amount": "$225,000",
-"abstractText": "The broader impact/commercial potential of this Small Business Innovation Research (SBIR) Phase I project will be the development of a cost-effective, user-friendly, high-performance microsystem suitable for in-field and on-site gas analysis applications. Gas analyses are a mature but still growing multi-billion dollar global market. The proposed product can have significant impact across multiple industries and disciplines, including food processing and safety, environmental monitoring, homeland security, and biomedical diagnostics. It will provide the following important benefits to diverse customers: speed for near-real time gas analysis with high performance, portability and robustness for in-field and on-site uses, low cost to purchase and maintain, ease to use, and versatility for different applications. Additionally, employment of the proposed microsystem in process and quality controls can help improve productivity while saving costs, and autonomously monitoring hazardous gases in vulnerable environments can help protect workers and the public. 
-
-The proposed project will be a proof-of-concept study on a modular microsystem for point-of-use gas analyses. Conventional gas analysis systems are bulky, resource and energy intensive, time consuming, and expensive to purchase, operate, and maintain. Increasing demands for in-field and on-site testing of volatile organic compounds and other gas phase species call for the development of a miniaturized gas analyzer capable of overcoming these major limitations. However, there are significant technical challenges associated with such system integrations and instrument miniaturizations, which traditionally result in significant compromises to the analytical capability/performance. The proposed solution is a modular microsystem integrating multifunctional high-performance microfluidic/sensor chips in a flexible and expandable format that is suitable for mass production and versatile applications. In Phase I, different chips will be fabricated and assembled into a testing system to investigate the technical feasibility of modular design. A commercial prototype will be developed in Phase II. Successful development of the proposed product will provide opportunities to address unmet needs in a variety of markets involving gas analyses.
-
-This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria."
-},
-
-
-
-
-{
-"title": "ZeoVation, Inc.",
-"slug": "zeovation-inc",
-"date": "01/29/2019",
-"awardee": "ZeoVation, Inc.",
-"city": "Columbus, OH",
-"piName": "Bo Wang",
-"amount": "$224,985",
-"abstractText": "The broader impact/commercial potential of this Small Business Innovation Research (SBIR) Phase I project is providing a high potent antimicrobial solution for textiles, coatings, polymers, and wound care and bandages. There is considerable proliferation of antibiotic resistant bacteria, and, antimicrobials that do not develop resistance is of significant societal interest. Silver-based antimicrobials are filling this need, and are being used in a variety of medical, consumer and food-related applications. Silver is a broad-spectrum antimicrobial, effective against gram positive, gram negative bacteria (including methicillin-and vancomycin resistant bacteria) as well as fungi, viruses, and biofilms. This has led health care, consumer and food industries to use silver antimicrobial products.  The global market for silver-based powder antimicrobial coatings is currently valued at $910 million and expected to grow at a compound annual growth rate (CAGR) of 13.1% until 2020. Concerns however, are increasing about the release of silver and the resulting influence on the environment. Development of high potency silver products using the minimum amount of silver can significantly broaden its use. The benefits of this versatile antimicrobial platform include: 1000-fold increased potency, decreased cost, invisibility and compatibility with formulations.
-
-This Small Business Innovation Research (SBIR) Phase I project will develop and test a highly potent silver-based antimicrobial product. Higher potency is due to control of size of ligand-free AgNP (1-3 nm) anchored to the surface of ~30 nm nanozeolite (NZ), and fast release of Ag+ within the zeolite.  The bactericidal activity of AgNP-NZ has been examined with E. coli (gram negative) and antibiotic resistant MRSA (gram positive), with significant improvement. The potency is further enhanced by modifying the NZ support to introduce multiple features: increased antimicrobial activity via NZ ion-exchanged Zn2+, and surface modification of NZ to enhance interactions with bacteria, including penetration within the bacteria. At the conclusion of this SBIR Phase I project, the product will be ready for further commercialization and marketing by (1) demonstrating the scalability of the synthesis procedure so that there is enough supply of product in the product development process; (2) optimizing synthesis procedure of antimicrobial material according to antimicrobial property, including Ag+ and Zn2+ loading and surface modifications; (3) obtaining third party test reports on optimized samples as objective evidence for marketing and (4) studying the toxicity of the product toward mammalian cells to address toxicity concerns.
-
-This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria."
-},
-
-
-
-
-{
 "title": "ZeroUI Inc",
 "slug": "zeroui-inc",
 "date": "08/31/2017",
@@ -17676,24 +15923,6 @@ Technical objectives for this effort include evaluation of the resulting bioceme
 
 
 This project will develop an intelligent learning environment where students can freehand sketch on a touchscreen phone, tablet, or computer. They will receive personalized feedback based on the sketches they draw to improve their conceptual understanding and promote persistence. The software algorithms developed will automatically grade student sketches and provide hints that are just enough to keep the student engaged but not so much as to give away the solution. An expert teacher knows that developing skill and increasing persistence requires that students struggle a bit as they overcome obstacles to learn new concepts. The algorithm for interpreting student sketches and providing hints will mimic an expert teacher looking over the shoulder of the student. By interpreting student intent in their sketches, the algorithm will be able to distinguish between intentional marks and unintentional ones that are due to poor coordination or sloppiness. Subject areas include elementary school mathematics, spatial visualization for 7-12th grade technical education, post-secondary vocational and engineering programs, and eventually physics, geology, medicine and other STEM areas. This project will replace sketching on paper and pencil with widely available touchscreens, and make educational sketching more effective and engaging.
-
-This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria."
-},
-
-
-
-
-{
-"title": "eSAT Global, Inc.",
-"slug": "esat-global-inc",
-"date": "06/15/2018",
-"awardee": "eSAT Global, Inc.",
-"city": "Solana Beach, CA",
-"piName": "Michael Parr",
-"amount": "$158,852",
-"abstractText": "The broader impact/commercial potential of this Small Business Innovation Research (SBIR) Phase I project will be to transform 2-way, mobile satellite communications from a niche service (affordable to less than 0.1% of the world?s people), to a broadly accessible mass market product (at costs well under $1/month).  Communications devices (that could be as small as vehicle key fobs) will communicate modest volumes of data to and from virtually anywhere on Earth.   The number of potential applications is large, with the following being a few examples:  every lifejacket on every commercial aircraft and cruise ship could transmit its location and status (in the event of a mishap); children and the elderly could be tracked globally; and drivers could be assured of assistance wherever they travel.   Secondary impacts would include an increase in average fuel efficiency when, for example, more vehicles are sold without spare tires (as drivers have more peace-of-mind regarding the possibility of being stranded).   The United States will benefit in terms of improved safety, conserved resources, stimulus to the satellite and related industries, and increased export revenues.
-
-The proposed project centers around a combination of innovations that exploit inherent (but previously unutilized) capabilities of existing satellites.  Currently operational Mobile Satellite Systems have communications architectures that do not lend themselves to low-cost transmission of small volumes of data.  By starting with a blank sheet of paper and rethinking the architecture, costs can be reduced by orders of magnitude (for both the communications devices and the data service).  The cost reduction of the terminal devices is primarily driven by lower data rates (with associated lower power and size).  While most technical aspects of communications links improve with lower data rates, one characteristic emerges as a constraint on the extent to which data rate can be reduced.  The purpose of this research is to study this characteristic, called phase noise, and its impact on the communications performance at low data rates when using real satellite links.  The results of this research will be quantitative conclusions regarding the trades between data rates, the cost impact of lowering phase noise in the communication elements, transmission performance, and the modem architectural options.  This study will enable optimization of this trade when developing the follow-on commercial products.
 
 This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria."
 },
@@ -17910,6 +16139,5 @@ console.log('loaded')
       $('.results').show();
     }
   })
-
 });
 
