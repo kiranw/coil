@@ -5,28 +5,28 @@ $color-base: #212121;
 $color-focus: #02BFE7;  //
 
 
-$color-primary: #002277; // formerly #0071BC;
-$color-primary-darkest: #003366; // formerly #112E51;
-$color-primary-darker: #005588; // formerly #205493;
-$color-visited: #406098;  // new color
+$color-primary: #1b5bf3; // formerly #0071BC;
+$color-primary-darkest: #0744d7; // formerly #112E51;
+$color-primary-darker: #094ce9; // formerly #205493;
+$color-visited: #414f71;  // new color
 
 $color-gray-dark: #323A45;
 $color-gray-medium-warm: #696969;
 $color-gray-medium-cool: #4F5A65;
 $color-gray-light: #AEB0B5;
 
-$color-primary-alt: #02BFE7;
-$color-primary-alt-darkest: #046B99;
-$color-primary-alt-dark: #00A6D2;
-$color-primary-alt-medium: #2574A9;
-$color-primary-alt-light: #9BDAF1;
-$color-primary-alt-lightest: #E1F3F8;
+$color-primary-alt: #ed613e;
+$color-primary-alt-darkest: #bf3310;
+$color-primary-alt-dark: #d85230;
+$color-primary-alt-medium: #ed613e;
+$color-primary-alt-light: #ee7257;
+$color-primary-alt-lightest: #f89f8b;
 
-$color-secondary: #fff039;
-$color-secondary-darkest: #F1E235;
-$color-secondary-dark: #FFE61A;
-$color-secondary-light: #FFF79C;
-$color-secondary-lightest: #FFFAC3;
+$color-secondary: #f7c644;
+$color-secondary-darkest: #f7c644;
+$color-secondary-dark: #f7c644;
+$color-secondary-light: #fdd66d;
+$color-secondary-lightest: #ffe5a0;
 
 $color-gray-lightest: #F7F7F7;
 $color-blue-light: #e1f4f9; // was formerly #E0F3F8;
@@ -38,10 +38,10 @@ $large-screen:  960px !default;
 $site-max-width: 960px !default;
 
 // Unique colors
-$color-tertiary: #E31C3D;
-$color-tertiary-darkest: #981B1E;
-$color-tertiary-dark: #CD2026;
-$color-tertiary-light: #E59393;
+$color-tertiary: #f4b9cc;
+$color-tertiary-darkest: #dc1f5c;
+$color-tertiary-dark: #f45e8e;
+$color-tertiary-light: #f4b9cc;
 $color-tertiary-lightest: #F9DEDE;
 $color-white-transprent: rgba(255,255,255,.9);
 
@@ -55,10 +55,10 @@ $hero-bg-color: $color-base;
 // End Unique colors
 
 // Typography
-$font-serif: 'Work Sans', 'Helvetica Neue', 'Helvetica', Arial, sans-serif;;
+$font-serif: 'Poppins', 'Work Sans', 'Helvetica Neue', 'Helvetica', Arial, sans-serif;;
 $font-mono: 'Chivo', monospace;
 $font-mono-alt: 'Overpass Mono', monospace;
-$font-sans: 'Source Sans Pro', 'Helvetica Neue', 'Helvetica', 'Roboto', Arial, sans-serif;
+$font-sans: 'Poppins', 'Source Sans Pro', 'Helvetica Neue', 'Helvetica', 'Roboto', Arial, sans-serif;
 $font-size-xxxs: 1.1rem;
 $font-size-xxs: 1.2rem;
 $font-size-xs: 1.4rem;

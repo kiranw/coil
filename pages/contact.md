@@ -17,7 +17,7 @@ Have a general question or concern? Email us at [TODO](mailto:todo@census.gov).
 </div>
 </section>
 
-<section class="usa-section background-light-blue">
+<section class="usa-section .background-pink">
 <div class="usa-content usa-grid">
 <div class="usa-content usa-width-one-whole" markdown="1">
 

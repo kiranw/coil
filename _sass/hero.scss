@@ -19,7 +19,14 @@
       color: $color-white;
       display: block;
     }
+
+    .subheader {
+      font-size: $font-size-s;
+      text-transform: uppercase;
+      letter-spacing: 2px;
+    }
   }
+
 .usa-accordion {
   position: relative;
 }

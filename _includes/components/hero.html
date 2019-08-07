@@ -7,7 +7,7 @@
               {% if hero.callout.alt %}
                 <span class="usa-hero-callout-alt">{{ hero.callout.alt }}</span>
               {% endif %}
-              {{ hero.callout.text | default: hero.callout }}
+              <span class="subheader">{{ hero.callout.text | default: hero.callout }}</span>
             </h1>
             {% if hero.callout.subtext %}
               <p class="usa-hero-callout-subtext">{{ hero.callout.subtext }}</p>

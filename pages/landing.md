@@ -4,7 +4,7 @@ permalink: /
 layout: landing
 
 hero:
-  image: /assets/img/bg/hero-create-a-thon.png
+  image: /assets/img/bg/coil-blobs.png
   callout:
     alt: Improving the UX of<br>cross-sector collaboration<br>and open data<br>
     text: <br>Learn more &#8594;<br>
@@ -38,15 +38,16 @@ COIL's open innovation strategies include ideation workshops, user-centered desi
 </div>
 </section>
 
-<section class="usa-section usa-content section-about background-bold-blue">
+<section class="usa-section usa-content section-about background-blue">
 <div class="usa-grid" markdown="1">
 <span class="section-header">
 **Upcoming Events**
 </span><br>
+{% include accelerate-events.html %}
 </div>
 </section>
 
-<section class="usa-section usa-content section-about background-light-neutral">
+<section class="usa-section usa-content section-about background-secondary">
 <div class="usa-grid" markdown="1">
 <span class="section-header">
 **The Opportunity Project**
@@ -55,7 +56,7 @@ COIL's open innovation strategies include ideation workshops, user-centered desi
 </section>
 
 
-<section class="usa-section usa-content section-about background-light-blue">
+<section class="usa-section usa-content section-about background-primary-alt">
 <div class="usa-grid" markdown="1">
 <span class="section-header">
 **Accelerate**
@@ -73,14 +74,15 @@ COIL's open innovation strategies include ideation workshops, user-centered desi
 </section>
 
 
-<section class="usa-section usa-content section-about background-light-blue">
+<section class="usa-section usa-content section-about background-tertiary">
 <div class="usa-grid" markdown="1">
 <span class="section-header">
 **What We Do**
 </span><br>
 <div class="usa-width-one-half" markdown="1">
 <h2 class="text-large">The Opportunity Project</h2>
-The Opportunity Project (TOP) is a technology accelerator program that brings together the tech industry, government, and communities, to generate digital products that benefit the public and drive the economy by using federal open data. TOP works through 12-week tech development sprints, facilitated by COIL, to drive new digital solutions that leverage federal, state and local open data to directly serve families, local leaders, and businesses and communities at large. To date, 80 products have been created through TOP, addressing problems like the opioid crisis, disaster response, veterans' employment, and more.
+The Opportunity Project (TOP) is a technology accelerator program that brings together the tech industry, government, and communities, to generate digital products that benefit the public and drive the economy by using federal open data.
+<br>
 <a class="usa-button usa-button-primary button-arrow" href="{{ site.baseurl }}/showcase/">
 Learn about our impact
 </a>
@@ -88,7 +90,8 @@ Learn about our impact
 </div>
 <div class="usa-width-one-half" markdown="1">
 <h2 class="text-large">Census Accelerate</h2>
-Census Accelerate is an initiative that matches creative talent with organizations serving hard-to-count communities in order to increase 2020 Census response rates. Like The Opportunity Project, Census Accelerate works in user-centered sprints and workshops in which participating companies, organizations, creative professionals, and influencers develop outreach materials for specific hard-to-count populations, such as families with children under the age of 5, mobile millennials, and LGBTQ populations.
+We match creatives with community-based Census outreach efforts to generate innovative content that addresses challenges for the 2020 Census specific to hard-to-count communities.
+<br>
 <a class="usa-button usa-button-primary button-arrow" href="{{ site.baseurl }}/apply/">
 Learn more about our progam
 </a>
